@@ -17,7 +17,7 @@
         "-lunr", "-search", "search-plus",
         "hints",
         "livereload",
-      "back-to-top-button"
+        "back-to-top-button"
     ],
     "pluginsConfig": {
         "get-book": {
@@ -40,7 +40,7 @@
             "Accueil - Formations SIG": "https://formationsig.gitlab.io/toc/"
         },
         "sharing": {
-            "all": ["twitter", "facebook"],
+            "all": false,
             "facebook": false,
             "google": false,
             "twitter": false
