@@ -1,5 +1,7 @@
 ---
 description: Learn more about Accumulation Strategy
+cover: ../../.gitbook/assets/baniere 2 (2) (2).png
+coverY: 0
 ---
 
 # Accumulation AI
