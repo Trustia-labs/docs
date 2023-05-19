@@ -1,5 +1,7 @@
 ---
 description: Learn more about Risk Measures
+cover: ../../.gitbook/assets/baniere 2 (2).png
+coverY: 0
 ---
 
 # Risk Measures

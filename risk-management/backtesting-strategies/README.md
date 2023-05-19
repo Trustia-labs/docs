@@ -1,5 +1,7 @@
 ---
 description: Learn more about Backtesting Strategy
+cover: ../../.gitbook/assets/baniere 2 (1) (1).png
+coverY: 0
 ---
 
 # Backtesting Strategies
