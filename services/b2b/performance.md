@@ -1,6 +1,5 @@
 ---
-cover: ../../.gitbook/assets/baniere 2 (1).png
-coverY: 0
+description: Learn more about the performance of our services
 ---
 
 # Performance

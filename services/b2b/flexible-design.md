@@ -1,3 +1,7 @@
+---
+description: Learn more about the flexibility of our services
+---
+
 # Flexible Design
 
 ## Modular and open architecture&#x20;
