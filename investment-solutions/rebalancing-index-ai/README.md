@@ -1,5 +1,7 @@
 ---
 description: Learn more about Rebalancing Index Strategy
+cover: ../../.gitbook/assets/baniere 2.png
+coverY: 0
 ---
 
 # Rebalancing Index AI
