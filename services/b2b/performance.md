@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/baniere 2 (1).png
+coverY: 0
+---
+
 # Performance
 
 ## Adaptable computing power
