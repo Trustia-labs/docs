@@ -1,6 +1,6 @@
 ---
 description: Find out more about Trustia's Investment Solutions
-cover: ../.gitbook/assets/baniere 2 (2).png
+cover: ../.gitbook/assets/baniere 2.png
 coverY: 0
 ---
 
