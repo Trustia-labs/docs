@@ -10,7 +10,7 @@ We firmly believe that the future of finance is digital, and we are dedicated to
 
 Trustia's mission is to provide all crypto-users, regardless of their location, with unparalleled access to the finest FinTech tools available in the market.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Accessibility</strong> </td><td></td></tr><tr><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Accessibility</strong></td><td><ul><li></li></ul></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 As you will have understood, FinTech represents the cream of financial technologies, and ntil now the use of these tools was reserved for investment funds, banks, trading companies and other professionals.
 

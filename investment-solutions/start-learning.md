@@ -1,5 +1,5 @@
 ---
-description: Find out more about Trustia's investment solutions
+description: Find out more about Trustia's Investment Solutions
 ---
 
 # Start learning
