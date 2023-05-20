@@ -1,5 +1,7 @@
 ---
 description: Learn more about Features of the Statistical Arbitrage Strategy
+cover: ../../.gitbook/assets/baniere 2 (17).png
+coverY: 0
 ---
 
 # Features
