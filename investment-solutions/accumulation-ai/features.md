@@ -1,5 +1,7 @@
 ---
 description: Learn more about Features of the Accumulation AI
+cover: ../../.gitbook/assets/baniere 2 (2) (3).png
+coverY: 0
 ---
 
 # Features

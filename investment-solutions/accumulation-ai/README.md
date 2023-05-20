@@ -1,6 +1,6 @@
 ---
 description: Learn more about Accumulation Strategy
-cover: ../../.gitbook/assets/baniere 2 (2) (2).png
+cover: ../../.gitbook/assets/baniere 2 (5).png
 coverY: 0
 ---
 
