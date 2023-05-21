@@ -1,6 +1,6 @@
 ---
 description: Learn more about Trustia
-cover: .gitbook/assets/baniere 2 (34).png
+cover: .gitbook/assets/baniere 2 (36).png
 coverY: 0
 ---
 
