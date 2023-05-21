@@ -1,6 +1,6 @@
 ---
 description: Learn more about Features of the Prediction AI
-cover: ../../.gitbook/assets/baniere 2 (16) (1).png
+cover: ../../.gitbook/assets/baniere 2 (27).png
 coverY: 0
 ---
 

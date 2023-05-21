@@ -1,6 +1,6 @@
 ---
 description: Learn more about Statistical Arbitrage Strategy
-cover: ../../.gitbook/assets/baniere 2 (7).png
+cover: ../../.gitbook/assets/baniere 2 (30).png
 coverY: 0
 ---
 

@@ -1,6 +1,6 @@
 ---
 description: Learn more about Features of the GRID AI
-cover: ../../.gitbook/assets/baniere 2 (21).png
+cover: ../../.gitbook/assets/baniere 2 (28).png
 coverY: 0
 ---
 
