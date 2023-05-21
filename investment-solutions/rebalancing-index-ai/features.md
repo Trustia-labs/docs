@@ -1,6 +1,6 @@
 ---
 description: Learn more about Features of the Rebalancing Index AI
-cover: ../../.gitbook/assets/baniere 2 (13) (1).png
+cover: ../../.gitbook/assets/baniere 2 (19).png
 coverY: 0
 ---
 
