@@ -1,6 +1,6 @@
 ---
 description: Learn more about Rebalancing Index Strategy
-cover: ../../.gitbook/assets/baniere 2 (10).png
+cover: ../../.gitbook/assets/baniere 2 (22).png
 coverY: 0
 ---
 
