@@ -1,6 +1,6 @@
 ---
 description: Learn more about Scalping Strategy
-cover: ../../.gitbook/assets/baniere 2 (4).png
+cover: ../../.gitbook/assets/baniere 2 (32).png
 coverY: 0
 ---
 
