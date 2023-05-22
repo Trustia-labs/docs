@@ -1,5 +1,7 @@
 ---
 description: Learn more about Sharpe Ratio
+cover: ../../.gitbook/assets/baniere 2 (50).png
+coverY: 0
 ---
 
 # Sharpe Ratio

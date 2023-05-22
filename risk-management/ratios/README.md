@@ -1,5 +1,7 @@
 ---
 description: Learn more about Ratio
+cover: ../../.gitbook/assets/baniere 2 (51).png
+coverY: 0
 ---
 
 # Ratios
