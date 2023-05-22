@@ -1,5 +1,7 @@
 ---
 description: Learn more about Calmar Ratio
+cover: ../../.gitbook/assets/baniere 2 (48).png
+coverY: 0
 ---
 
 # Calmar Ratio
