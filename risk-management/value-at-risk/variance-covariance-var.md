@@ -1,5 +1,7 @@
 ---
 description: Learn more about Variance-Covariance VaR
+cover: ../../.gitbook/assets/baniere 2 (44).png
+coverY: 0
 ---
 
 # Variance-Covariance VaR
