@@ -1,5 +1,7 @@
 ---
 description: Learn more about Ordinary Least Squares Method
+cover: ../../.gitbook/assets/baniere 2 (41).png
+coverY: 0
 ---
 
 # Ordinary Least Squares Method
