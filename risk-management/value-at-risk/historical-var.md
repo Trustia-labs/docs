@@ -1,5 +1,7 @@
 ---
 description: Learn more about Historical VaR
+cover: ../../.gitbook/assets/baniere 2 (42) (1).png
+coverY: 0
 ---
 
 # Historical VaR

@@ -1,5 +1,7 @@
 ---
 description: Learn more about Sortino Ratio
+cover: ../../.gitbook/assets/baniere 2 (40).png
+coverY: 0
 ---
 
 # Sortino Ratio
