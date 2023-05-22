@@ -1,5 +1,7 @@
 ---
 description: Learn more about Monte Carlo VaR
+cover: ../../.gitbook/assets/baniere 2 (43).png
+coverY: 0
 ---
 
 # Monte Carlo VaR

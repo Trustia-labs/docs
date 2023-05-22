@@ -1,5 +1,7 @@
 ---
 description: Learn more about Monte Carlo Simulations
+cover: ../../.gitbook/assets/baniere 2 (43).png
+coverY: 0
 ---
 
 # Monte Carlo Simulations
