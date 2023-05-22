@@ -1,5 +1,7 @@
 ---
 description: Learn more about strategy backtesting features
+cover: ../../.gitbook/assets/baniere 2 (47).png
+coverY: 0
 ---
 
 # Features
