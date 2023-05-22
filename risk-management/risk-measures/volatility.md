@@ -1,5 +1,7 @@
 ---
 description: Learn more about Volatility
+cover: ../../.gitbook/assets/baniere 2 (39).png
+coverY: 0
 ---
 
 # Volatility

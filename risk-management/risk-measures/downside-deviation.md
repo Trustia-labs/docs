@@ -1,5 +1,7 @@
 ---
 description: Learn more about Downside Deviation
+cover: ../../.gitbook/assets/baniere 2 (40).png
+coverY: 0
 ---
 
 # Downside Deviation
