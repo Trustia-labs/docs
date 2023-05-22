@@ -1,5 +1,7 @@
 ---
 description: Learn more about Maximum Drawdown
+cover: ../../.gitbook/assets/baniere 2 (38).png
+coverY: 0
 ---
 
 # Maximum Drawdown
