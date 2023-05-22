@@ -1,5 +1,7 @@
 ---
 description: Learn more about Treynor Ratio
+cover: ../../.gitbook/assets/baniere 2 (49).png
+coverY: 0
 ---
 
 # Treynor Ratio
