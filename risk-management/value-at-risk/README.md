@@ -1,5 +1,7 @@
 ---
 description: Learn more about Value at Risk
+cover: ../../.gitbook/assets/baniere 2 (36) (1).png
+coverY: 0
 ---
 
 # Value at Risk

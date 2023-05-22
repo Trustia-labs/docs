@@ -1,5 +1,7 @@
 ---
 description: Learn more about Average Returns
+cover: ../../.gitbook/assets/baniere 2 (4).png
+coverY: 0
 ---
 
 # Average Returns

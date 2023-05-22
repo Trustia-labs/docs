@@ -1,5 +1,7 @@
 ---
 description: Learn more about Adjusted Returns
+cover: ../../.gitbook/assets/baniere 2 (37) (1).png
+coverY: 0
 ---
 
 # Adjusted Returns
