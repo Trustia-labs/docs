@@ -19,7 +19,7 @@
 * [Statistical Arbitrage AI](investment-solutions/statistical-arbitrage-ai/README.md)
   * [Features](investment-solutions/statistical-arbitrage-ai/features.md)
 
-## Risk management&#x20;
+## Risk management
 
 * [Risk Measures](risk-management/risk-measures/README.md)
   * [Average Returns](risk-management/risk-measures/average-returns.md)
@@ -47,8 +47,7 @@
 * [B2B](services/b2b/README.md)
   * [Flexible Design](services/b2b/flexible-design.md)
   * [Performance](services/b2b/performance.md)
-* [B2C](services/b2c/README.md)
-  * [Page 1](services/b2c/page-1.md)
+* [B2C](services/b2c.md)
 
 ## Others
 
