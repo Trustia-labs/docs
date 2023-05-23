@@ -1,5 +1,7 @@
 ---
 description: Learn more about the flexibility of our services
+cover: ../../.gitbook/assets/baniere 2 (36).png
+coverY: 0
 ---
 
 # Flexible Design
