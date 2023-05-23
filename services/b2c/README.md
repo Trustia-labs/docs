@@ -1,5 +1,7 @@
 ---
 description: Learn more about our B2C services
+cover: ../../.gitbook/assets/baniere 2 (54).png
+coverY: 0
 ---
 
 # B2C
