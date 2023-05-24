@@ -1,6 +1,6 @@
 ---
 description: Learn more about our B2C services
-cover: ../../.gitbook/assets/baniere 2 (54).png
+cover: ../.gitbook/assets/baniere 2 (54).png
 coverY: 0
 ---
 
@@ -11,8 +11,6 @@ Trustia goal is to reshuffle the cards, in order to democratize FinTech tools fo
 We firmly believe that the future of finance is digital, and we are dedicated to ensuring that individuals from all walks of life can navigate the world of investment with confidence and ease.
 
 Trustia's mission is to provide all crypto-users, regardless of their location, with unparalleled access to the finest FinTech tools available in the market.
-
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Accessibility</strong></td><td><ul><li></li></ul></td></tr><tr><td></td><td></td></tr></tbody></table>
 
 As you will have understood, FinTech represents the cream of financial technologies, and ntil now the use of these tools was reserved for investment funds, banks, trading companies and other professionals.
 
