@@ -24,10 +24,10 @@ When it comes to selecting cryptocurrencies for your index, an AI-powered tool c
 
 With your pool of assets selected, the next step is to determine the weighting of each asset within the index. AI can help you apply various strategies and find the most suitable approach for your investment goals :
 
-1. **Equal-Weight Portfolio :** AI can assign a similar weighting to each asset, creating a straightforward yet effective portfolio.
-2. Marketcap :&#x20;
-3. **Sharpe Ratio Maximization :** By maximizing the Sharpe ratio, AI can help you strike the ideal balance between risk and return, potentially delivering higher returns with lower volatility.
-4. Minimum Volatility :&#x20;
+1. **Equal Weighting :** The "equal weighting" strategy in portfolio management is a method of portfolio construction in which each security in the portfolio is assigned an equal weight, giving equal importance to each stock.
+2. **Market Capitalization Weighting :** The market capitalization weighting strategy is a method of portfolio construction that involves weighting assets based on their market capitalization. Assets with higher market capitalization will have a greater weighting in the portfolio compared to assets with lower market capitalization.
+3. **Maximum Sharpe Ratio Weighting :** Maximizing the Sharpe ratio is an approach used in portfolio management to select assets or investments that offer the best risk-adjusted return. This strategy aims to construct a portfolio that provides the highest possible Sharpe ratio by combining assets with high returns and low volatility.
+4. **Minimum Variance Weighting :** Minimum variance weighting (or minimum variance allocation) is an approach used in finance to construct a portfolio of assets that aims to minimize the overall variance of portfolio returns. The objective is to find an optimal combination of weights assigned to each asset in the portfolio in order to minimize overall volatility.
 
 **Dynamic Asset Allocation** : AI can continuously analyze market conditions and adjust the asset allocation in your index to maintain a predefined level of risk or target a specific performance benchmark.
 
