@@ -41,4 +41,4 @@ Each portfolio construction strategy offers distinct benefits and advantages. Eq
 
 **Customized Strategy :** Based on your investment goals, risk tolerance, and market outlook, AI can create a personalized weighting strategy tailored to your unique requirements.
 
-<figure><img src="../../.gitbook/assets/baniere 2 (33) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/baniere 2 (33) (1) (1).png" alt=""><figcaption></figcaption></figure>

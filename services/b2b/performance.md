@@ -30,6 +30,8 @@ Strategy backtesting is a crucial step in evaluating the effectiveness of your t
 
 At Trustia, we are committed to providing powerful and customized risk management solutions, quantitative trading tools, and a reliable backtesting system. Contact us today to discuss your specific needs and discover how we can help you achieve your financial goals.
 
+<figure><img src="../../.gitbook/assets/baniere 2 (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
 ## Advanced data board
 
 Discover our advanced data dashboard at Trustia, the ultimate tool for in-depth analysis. With our advanced data dashboard, you can unlock the full potential of your data and make informed decisions for your business.

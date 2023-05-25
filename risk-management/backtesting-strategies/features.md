@@ -45,6 +45,8 @@ There is a wide variety of indicators in technical analysis, each with its own a
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/t/technicalindicator.asp)
 
+<figure><img src="../../.gitbook/assets/baniere 2 (33) (1).png" alt=""><figcaption></figcaption></figure>
+
 ## Time Frame Management <a href="#time-frame-management" id="time-frame-management"></a>
 
 **Technical indicators** are key tools for analyzing price movements in financial markets. They help detect trends, trend reversals, and potential entry and exit points for traders. Technical indicators are based on mathematical formulas and are applied to price charts to provide buy and sell signals.

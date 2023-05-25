@@ -24,7 +24,7 @@ the accumulation AI has also another algorithm where traders place buy and sell 
 
 For example, let's say a trader wants to trade Bitcoin within a price range of $30,000 to $35,000. The trader places buy and sell orders at predetermined intervals within this price range. The trader will place a buy order at $30,000 and a sell order at $31,000. The trader will continue to place buy and sell orders within the set price range until the desired profit is reached.
 
-<figure><img src="../../.gitbook/assets/baniere 2 (28) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/baniere 2 (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **How does Accumulation AI Work ?**
 

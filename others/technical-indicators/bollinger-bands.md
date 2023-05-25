@@ -1,5 +1,7 @@
 ---
 description: Learn more about Bollinger Bands
+cover: ../../.gitbook/assets/baniere 2 (24) (1).png
+coverY: 0
 ---
 
 # Bollinger Bands

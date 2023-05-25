@@ -1,5 +1,7 @@
 ---
 description: Learn more about Technical Indicators
+cover: ../../.gitbook/assets/baniere 2 (31) (2).png
+coverY: 0
 ---
 
 # Technical Indicators

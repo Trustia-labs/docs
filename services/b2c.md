@@ -18,6 +18,9 @@ Thus, only certain privileged groups can benefit from these advanced technologie
 
 Our team of skilled professionals is committed to staying ahead of the curve, closely monitoring the latest industry trends and technological advancements.
 
+<figure><img src="../.gitbook/assets/baniere 2 (28) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
 This forward-thinking approach allows us to consistently enhance our product offerings, ensuring that our clients have access to the most advanced and effective tools in the ever-evolving world of digital assets.
 
 At the same time, we are working on deploying our tools on the blockchain, in order to take advantage of the best DeFi opportunities, but also with the aim of providing a secure and scalable infrastructure to our users. Indeed, we are convinced that by combining our technologies with that of the blockchain, we will be able to offer a more equitable, transparent and sovereign range of products.
+

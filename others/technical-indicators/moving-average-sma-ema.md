@@ -1,5 +1,7 @@
 ---
 description: Learn more about Moving Average
+cover: ../../.gitbook/assets/baniere 2 (29) (1).png
+coverY: 0
 ---
 
 # Moving Average (SMA/EMA)

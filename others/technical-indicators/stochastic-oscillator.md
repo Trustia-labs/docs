@@ -1,5 +1,7 @@
 ---
 description: Learn more about Stochastic Oscillator
+cover: ../../.gitbook/assets/baniere 2 (47) (1).png
+coverY: 0
 ---
 
 # Stochastic Oscillator

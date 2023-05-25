@@ -22,6 +22,8 @@ At the core of the geometric Brownian motion model lies a general process known 
 
 By combining the power of Monte Carlo simulations with the insights provided by geometric Brownian motion and Ito's lemma, investors can gain a deeper understanding of their investment portfolios' potential performance under a wide range of market conditions. This valuable knowledge empowers them to make more informed decisions, optimize their portfolios, and better navigate the ever-changing financial landscape.
 
+<figure><img src="../../.gitbook/assets/baniere 2 (45) (1).png" alt=""><figcaption></figcaption></figure>
+
 #### **Ito Process :**
 
 $$

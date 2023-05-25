@@ -1,5 +1,7 @@
 ---
 description: Learn more about Moving Average Convergence/Divergence
+cover: ../../.gitbook/assets/baniere 2 (27).png
+coverY: 0
 ---
 
 # Moving Average Convergence/Divergence (MACD)

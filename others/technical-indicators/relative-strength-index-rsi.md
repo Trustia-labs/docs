@@ -1,5 +1,7 @@
 ---
 description: Learn more about Relative Strength Index
+cover: ../../.gitbook/assets/baniere 2 (28) (1).png
+coverY: 0
 ---
 
 # Relative Strength Index (RSI)
