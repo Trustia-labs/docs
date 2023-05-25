@@ -1,6 +1,6 @@
 ---
 description: Learn more about Rebalancing Index Strategy
-cover: ../.gitbook/assets/baniere 2 (19).png
+cover: ../../.gitbook/assets/baniere 2 (19).png
 coverY: 0
 ---
 
@@ -40,3 +40,5 @@ Each portfolio construction strategy offers distinct benefits and advantages. Eq
 **Dynamic Asset Allocation** : AI can continuously analyze market conditions and adjust the asset allocation in your index to maintain a predefined level of risk or target a specific performance benchmark.
 
 **Customized Strategy :** Based on your investment goals, risk tolerance, and market outlook, AI can create a personalized weighting strategy tailored to your unique requirements.
+
+<figure><img src="../../.gitbook/assets/baniere 2 (33) (1).png" alt=""><figcaption></figcaption></figure>

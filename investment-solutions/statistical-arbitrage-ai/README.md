@@ -1,6 +1,6 @@
 ---
 description: Learn more about Statistical Arbitrage Strategy
-cover: ../.gitbook/assets/baniere 2 (30).png
+cover: ../../.gitbook/assets/baniere 2 (30).png
 coverY: 0
 ---
 
@@ -12,7 +12,7 @@ Statistical arbitrage is a trading strategy that seeks to profit from pricing in
 
 If the spread between the two stocks widens, the trader can sell the stock that has risen and buy the stock that has fallen, and vice versa if the spread narrows. Pairs trading requires careful analysis of historical price relationships and statistical techniques to identify the optimal entry and exit points for each trade.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## How to Develop a Pairs Trading Strategy in Three Steps
 

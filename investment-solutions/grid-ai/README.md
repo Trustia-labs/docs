@@ -1,6 +1,6 @@
 ---
 description: Learn more about GRID Strategy
-cover: ../.gitbook/assets/baniere 2 (3).png
+cover: ../../.gitbook/assets/baniere 2 (3).png
 coverY: 0
 ---
 

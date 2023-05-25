@@ -1,6 +1,6 @@
 ---
 description: Learn more about Prediction Strategy
-cover: ../.gitbook/assets/baniere 2 (6).png
+cover: ../../.gitbook/assets/baniere 2 (6).png
 coverY: 0
 ---
 

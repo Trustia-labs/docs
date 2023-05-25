@@ -1,6 +1,6 @@
 ---
 description: Learn more about Scalping Strategy
-cover: ../.gitbook/assets/baniere 2 (32).png
+cover: ../../.gitbook/assets/baniere 2 (32).png
 coverY: 0
 ---
 
@@ -54,40 +54,40 @@ No strategy is perfect, and the market is always evolving. Keep an eye on your s
 
 These smooth out price data and help you identify trends. They can be simple, exponential, or weighted.
 
-{% content-ref url="../others/technical-indicators/moving-average-sma-ema.md" %}
-[moving-average-sma-ema.md](../others/technical-indicators/moving-average-sma-ema.md)
+{% content-ref url="../../others/technical-indicators/moving-average-sma-ema.md" %}
+[moving-average-sma-ema.md](../../others/technical-indicators/moving-average-sma-ema.md)
 {% endcontent-ref %}
 
 #### **RSI (Relative Strength Index)**&#x20;
 
 This oscillator measures the speed and change of price movements, helping you gauge overbought and oversold conditions.
 
-{% content-ref url="../others/technical-indicators/relative-strength-index-rsi.md" %}
-[relative-strength-index-rsi.md](../others/technical-indicators/relative-strength-index-rsi.md)
+{% content-ref url="../../others/technical-indicators/relative-strength-index-rsi.md" %}
+[relative-strength-index-rsi.md](../../others/technical-indicators/relative-strength-index-rsi.md)
 {% endcontent-ref %}
 
 #### **MACD (Moving Average Convergence Divergence)**&#x20;
 
 This indicator shows the relationship between two moving averages, giving you buy and sell signals when they cross.
 
-{% content-ref url="../others/technical-indicators/moving-average-convergence-divergence-macd.md" %}
-[moving-average-convergence-divergence-macd.md](../others/technical-indicators/moving-average-convergence-divergence-macd.md)
+{% content-ref url="../../others/technical-indicators/moving-average-convergence-divergence-macd.md" %}
+[moving-average-convergence-divergence-macd.md](../../others/technical-indicators/moving-average-convergence-divergence-macd.md)
 {% endcontent-ref %}
 
 #### **Bollinger Bands**&#x20;
 
 These plot two standard deviations above and below a simple moving average, helping you identify potential trend reversals.
 
-{% content-ref url="../others/technical-indicators/bollinger-bands.md" %}
-[bollinger-bands.md](../others/technical-indicators/bollinger-bands.md)
+{% content-ref url="../../others/technical-indicators/bollinger-bands.md" %}
+[bollinger-bands.md](../../others/technical-indicators/bollinger-bands.md)
 {% endcontent-ref %}
 
 #### **Stochastic Oscillator**&#x20;
 
 This compares a security's closing price to its price range over a specific period, allowing you to spot overbought and oversold conditions.
 
-{% content-ref url="../others/technical-indicators/stochastic-oscillator.md" %}
-[stochastic-oscillator.md](../others/technical-indicators/stochastic-oscillator.md)
+{% content-ref url="../../others/technical-indicators/stochastic-oscillator.md" %}
+[stochastic-oscillator.md](../../others/technical-indicators/stochastic-oscillator.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
