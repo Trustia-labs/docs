@@ -1,6 +1,6 @@
 ---
 description: Learn more about GRID Strategy
-cover: ../../.gitbook/assets/baniere 2 (3).png
+cover: ../.gitbook/assets/baniere 2 (3).png
 coverY: 0
 ---
 
@@ -44,3 +44,7 @@ To make the most of Grid bot trading, consider these winning strategies :
 * **Start small** : Test the waters with a smaller investment before diving headfirst into the deep end.
 * **Choose your asset wisely :** Grid bot trading works best with volatile assets, so do your research and choose accordingly.
 * **Monitor performance :** Keep an eye on your grid bot's performance and make adjustments as needed.
+
+{% hint style="info" %}
+**GRID AI is under development**
+{% endhint %}

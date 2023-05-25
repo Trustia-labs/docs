@@ -1,6 +1,6 @@
 ---
 description: Learn more about Prediction Strategy
-cover: ../../.gitbook/assets/baniere 2 (6).png
+cover: ../.gitbook/assets/baniere 2 (6).png
 coverY: 0
 ---
 
@@ -40,3 +40,7 @@ With the rise of price prediction AI, market players can enjoy a plethora of adv
 * **Risk Mitigation :** Accurate price forecasts help minimize the risks associated with market volatility.
 * **Time-Saving :** AI-driven predictions eliminate the need for manual market analysis, freeing up valuable time for other tasks.
 * **Competitive Edge :** Early adopters of price prediction AI can stay ahead of the curve and outsmart their competition.
+
+{% hint style="info" %}
+**Prediction AI is under development**
+{% endhint %}

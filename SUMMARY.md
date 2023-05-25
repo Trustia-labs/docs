@@ -5,19 +5,12 @@
 ## Investment Solutions
 
 * [Start learning](investment-solutions/start-learning.md)
-* [Accumulation AI](investment-solutions/accumulation-ai/README.md)
-  * [Features](investment-solutions/accumulation-ai/features.md)
-* [Rebalancing Index AI](investment-solutions/rebalancing-index-ai/README.md)
-  * [Features](investment-solutions/rebalancing-index-ai/features.md)
-  * [Next Implementations](investment-solutions/rebalancing-index-ai/next-implementations.md)
-* [GRID AI](investment-solutions/grid-ai/README.md)
-  * [Features](investment-solutions/grid-ai/features.md)
-* [Scalping AI](investment-solutions/scalping-ai/README.md)
-  * [Features](investment-solutions/scalping-ai/features.md)
-* [Prediction AI](investment-solutions/prediction-ai/README.md)
-  * [Features](investment-solutions/prediction-ai/features.md)
-* [Statistical Arbitrage AI](investment-solutions/statistical-arbitrage-ai/README.md)
-  * [Features](investment-solutions/statistical-arbitrage-ai/features.md)
+* [Accumulation AI](investment-solutions/accumulation-ai.md)
+* [Rebalancing Index AI](investment-solutions/rebalancing-index-ai.md)
+* [GRID AI](investment-solutions/grid-ai.md)
+* [Scalping AI](investment-solutions/scalping-ai.md)
+* [Prediction AI](investment-solutions/prediction-ai.md)
+* [Statistical Arbitrage AI](investment-solutions/statistical-arbitrage-ai.md)
 
 ## Risk management
 
