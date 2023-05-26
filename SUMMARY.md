@@ -5,12 +5,10 @@
 ## Investment Solutions
 
 * [Start learning](investment-solutions/start-learning.md)
-* [Accumulation AI](investment-solutions/accumulation-ai/README.md)
 * [Rebalancing Index AI](investment-solutions/rebalancing-index-ai/README.md)
-* [GRID AI](investment-solutions/grid-ai/README.md)
-* [Scalping AI](investment-solutions/scalping-ai/README.md)
-* [Prediction AI](investment-solutions/prediction-ai/README.md)
+* [Accumulation AI](investment-solutions/accumulation-ai/README.md)
 * [Statistical Arbitrage AI](investment-solutions/statistical-arbitrage-ai/README.md)
+* [Prediction AI](investment-solutions/prediction-ai/README.md)
 
 ## Risk management
 
