@@ -8,9 +8,9 @@ coverY: 0
 
 ## Introduction
 
-The idea of creating a cryptocurrency index inspired by the S\&P 500, which bundles the 500 largest American stock market capitalizations, has spurred interest in devising a similar index for cryptocurrencies. As the digital landscape continues to evolve, investors are eager to tap into the growth potential of the crypto market. This article will guide you through the process of using an AI-powered tool to create an index that groups a select number of cryptocurrencies (2 to 100) within a single, manageable index.
+The idea of creating a digital asset index inspired by the S\&P 500, which bundles the 500 largest American stock market capitalizations, has spurred interest in devising a similar index for digital assets. As the digital landscape continues to evolve, investors are eager to tap into the growth potential of the digital asset market. This article will guide you through the process of using an AI-powered tool to create an index that groups a select number of assets (2 to 100) within a single, manageable index.
 
-Before we dive into the nitty-gritty, let's tackle the crux of any index: choosing the right assets and weightings. This crucial decision can make or break the index's success. We'll explore various strategies and show you how AI can assist you in creating and managing your customized cryptocurrency index, inspired by the S\&P 500.
+Before we dive into the nitty-gritty, let's tackle the crux of any index: choosing the right assets and weightings. This crucial decision can make or break the index's success. We'll explore various strategies and show you how AI can assist you in creating and managing your customized asset index, inspired by the S\&P 500.
 
 Rebalancing refers to the process of returning the values of a portfolio's asset allocations to the levels defined by an investment plan. Those levels are intended to match an investor's tolerance for risk and desire for reward.
 
@@ -24,7 +24,9 @@ Our product presents an innovative solution for digital asset portfolio construc
 
 #### AI-Assisted Crypto Selection
 
-When it comes to selecting cryptocurrencies for your index, an AI-powered tool can analyze the top 100 cryptocurrencies by market capitalization, ensuring that you only include reputable and reliable assets in your index. The AI can also help identify trends, patterns, and potential risks associated with each cryptocurrency.
+When it comes to choosing digital assets for your index, an AI-powered tool has the capability to review the top 100 digital assets based on their market capitalization, Sharpe ratio, or minimum variance. This ensures that you only include reputable and reliable assets in your index. Moreover, AI can help identify trends, patterns, and potential risks associated with each digital asset.
+
+It is also possible to use filters to select assets based on specific activity sectors. For instance, you could select the nine assets with the best Sharpe ratio in the gaming sector, decentralized finance, and infrastructure.
 
 #### AI-Powered Weighting Strategies
 
