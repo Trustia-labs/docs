@@ -65,3 +65,7 @@ Set the Price Range: The price range is the range in which the trader wants to t
 Set the Buy and Sell Intervals: The buy and sell intervals are the predetermined intervals at which the trader will place buy and sell orders within the price range. The trader needs to set the buy and sell intervals according to their trading goals and the volatility of the market.
 
 Monitor the Market: Once the accumulation AI and grid trading algorithm are set up, the trader needs to monitor the market. The market is constantly changing, and traders need to adjust their algorithm accordingly to maximize profits.
+
+{% hint style="info" %}
+**Accumulation AI is under development**
+{% endhint %}
