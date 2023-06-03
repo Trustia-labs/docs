@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/baniere 2 (30).png
 coverY: 0
 ---
 
-# Statistical Arbitrage AI
+# Statistical Arbitrage
 
 ## Introduction
 
@@ -25,5 +25,5 @@ If the spread between the two stocks widens, the trader can sell the stock that 
 Although the cryptocurrency market is the youngest and has less research than other assets, it holds significant potential for statistical arbitrage in theory. Cryptocurrencies' inefficiency is greater than that of stocks or forex markets, suggesting that trading in this market may be even more profitable than in other areas. However, a major obstacle for crypto traders currently is that only a limited number of top-traded coins are available for short-selling, and not all exchanges offer this option.
 
 {% hint style="info" %}
-**Statistical Arbitrage AI is under development**
+**Statistical Arbitrage is under development**
 {% endhint %}

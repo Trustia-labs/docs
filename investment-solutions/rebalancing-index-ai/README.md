@@ -1,10 +1,10 @@
 ---
-description: Learn more about Rebalancing Index Strategy
+description: Learn more about Systematic Portfolio Management
 cover: ../../.gitbook/assets/baniere 2 (19).png
 coverY: 0
 ---
 
-# Rebalancing Index AI
+# Systematic Portfolio Management
 
 ## Introduction
 
