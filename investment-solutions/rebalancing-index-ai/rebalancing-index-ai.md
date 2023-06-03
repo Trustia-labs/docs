@@ -27,6 +27,8 @@ With your pool of assets selected, the next step is to determine the weighting o
 
 Each portfolio construction strategy offers distinct benefits and advantages. Equal Weighting ensures balanced importance, Market Capitalization Weighting captures market dynamics, Maximum Sharpe Ratio Weighting optimizes risk-adjusted returns, and Minimum Variance Weighting minimizes volatility. Consider your investment objectives, risk tolerance, and time horizon to determine the strategy that best suits your needs. Remember, diversification is key to managing risk effectively, and these methodologies provide you with powerful tools to achieve it.
 
+<figure><img src="../../.gitbook/assets/baniere 2 (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
 #### **Dynamic Asset Allocation**&#x20;
 
 Our product doesn't just set and forget; it continuously analyzes market conditions to adjust your portfolio's asset allocation. This helps maintain a predefined level of risk or target a specific performance benchmark, adapting to market shifts and trends. Consider a market downturn where certain sectors are hit hard. Our dynamic asset allocation tool would adjust the weights of these underperforming assets to protect your portfolio.
@@ -38,8 +40,6 @@ Over time, asset allocations can change as market performance alters the values 
 #### **Customized Strategy**&#x20;
 
 Our AI can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—it's efficient for _you_. For example, if you have a long-term investment horizon and a high-risk tolerance, the AI could craft a strategy that leans heavily into high-growth, high-volatility assets.
-
-<figure><img src="../../.gitbook/assets/baniere 2 (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Value propositions&#x20;
 
