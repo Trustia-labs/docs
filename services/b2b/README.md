@@ -32,7 +32,7 @@ Consume technology as a service, with flexible pricing aligned with the business
 
 The world of investments requires precise analysis and reliable information. Trustia offers a comprehensive range of advanced tools designed to help financial institutions navigate the complex world of finance with confidence.
 
-Our tools include, but are not limited to: Scalping AI, Accumulation AI, Grid AI, Rebalancing Crypto Index AI, Prediction AI, Statistical Arbitrage AI. Each tool has been carefully designed to meet specific investment and risk management needs. Additionally, we offer a complete suite of backtesting strategies, including Historical Backtesting, Shuffled Data Backtesting, and Monte Carlo simulation.
+Each tool has been carefully designed to meet specific investment and risk management needs. Additionally, we offer a complete suite of backtesting strategies, including Historical Backtesting, Shuffled Data Backtesting, and Monte Carlo simulation.
 
 These advanced analysis tools, combined with our expertise in data and our commitment to security, allow Trustia to stand out. With our solutions, financial institutions can manage their portfolios with greater precision and efficiency, providing a crucial competitive edge in today's financial landscape.
 
