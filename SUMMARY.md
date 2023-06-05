@@ -7,6 +7,7 @@
 * [Start learning](investment-solutions/start-learning.md)
 * [Systematic Portfolio Management](investment-solutions/rebalancing-index-ai/README.md)
   * [Features](investment-solutions/rebalancing-index-ai/rebalancing-index-ai.md)
+  * [Next Implementation](investment-solutions/rebalancing-index-ai/next-implementation.md)
 * [Statistical Arbitrage](investment-solutions/statistical-arbitrage-ai/README.md)
 
 ## Risk management
