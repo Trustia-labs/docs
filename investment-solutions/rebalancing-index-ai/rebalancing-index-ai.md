@@ -1,5 +1,5 @@
 ---
-description: Learn more about Systematic Portfolio Management
+description: Learn more about features of Systematic Portfolio Management
 cover: ../../.gitbook/assets/baniere 2 (19).png
 coverY: 0
 ---
