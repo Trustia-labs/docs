@@ -8,11 +8,11 @@ coverY: 0
 
 ## Tailored your Systematic Portfolio Management
 
-Our product presents an innovative solution for digital asset portfolio construction and management, utilizing the power of artificial intelligence (AI) to deliver an optimized investment strategy bespoke to your unique goals. The AI aids in adopting the most fitting strategy based on your investment objectives, risk tolerance, and time horizon, employing methodologies such as Equal Weighting, Market Capitalization Weighting, Maximum Sharpe Ratio Weighting, Minimum Variance Weighting. Further functionalities include Dynamic Asset Allocation and Customized Strategy.
+Our product presents an innovative solution for digital asset portfolio construction and management, utilizing the power of our dedicated statistical algorithms to deliver an optimized investment strategy bespoke to your unique goals. The statistical algorithm aids in adopting the most fitting strategy based on your investment objectives, risk tolerance, and time horizon, employing methodologies such as Equal Weighting, Market Capitalization Weighting, Maximum Sharpe Ratio Weighting, Minimum Variance Weighting. Further functionalities include Dynamic Asset Allocation and Customized Strategy.
 
 #### Crypto Selection
 
-When it comes to choosing digital assets for your index, an AI-powered tool has the capability to review the top 100 digital assets based on their market capitalization, Sharpe ratio, or minimum variance. This ensures that you only include reputable and reliable assets in your index. Moreover, AI can help identify trends, patterns, and potential risks associated with each digital asset.
+When it comes to choosing digital assets for your index, an statistical algorithms powered tool has the capability to review the over 800+ digital assets based on their market capitalization, Sharpe ratio, or minimum variance. This ensures that you only include reputable and reliable assets in your index. Moreover, statistical algorithms and AI can help identify trends, patterns, and potential risks associated with each digital asset.
 
 It is also possible to use filters to select assets based on specific activity sectors. For instance, you could select the nine assets with the best Sharpe ratio in the gaming sector, decentralized finance, and infrastructure.
 
