@@ -18,7 +18,7 @@ It is also possible to use filters to select assets based on specific activity s
 
 #### Weighting Strategies
 
-With your pool of assets selected, the next step is to determine the weighting of each asset within the index. AI can help you apply various strategies and find the most suitable approach for your investment goals :
+With your pool of assets selected, the next step is to determine the weighting of each asset within the index. Statistical algorithm can help you apply various strategies and find the most suitable approach for your investment goals :
 
 1. **Equal Weighting :** The Equal Weighting strategy equally assigns weights to each digital asset in your portfolio, thereby treating all assets with equal significance. This approach democratizes your investment portfolio and promotes diversification, mitigating the influence of any single digital asset.
 2. **Market Capitalization Weighting :** The Market Capitalization Weighting strategy is a method of portfolio construction that involves weighting assets based on their market capitalization. Assets with higher market capitalization will have a greater weighting in the portfolio compared to assets with lower market capitalization. This strategy suits investors seeking exposure to leading market players.
@@ -39,8 +39,8 @@ Over time, asset allocations can change as market performance alters the values 
 
 #### **Customized Strategy**&#x20;
 
-Our AI can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—it's efficient for _you_. For example, if you have a long-term investment horizon and a high-risk tolerance, the AI could craft a strategy that leans heavily into high-growth, high-volatility assets.
+Our statistical algorithms can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—it's efficient for you. For example, if you have a long-term investment horizon and a high-risk tolerance, the statistical algorithm could craft a strategy that leans heavily into high-growth, high-volatility assets.
 
 #### Value propositions&#x20;
 
-Our product offers a comprehensive suite of AI-powered tools for digital asset portfolio construction and management that cater to a wide range of investment strategies and goals. Whether you seek equal diversification, alignment with market capitalization, optimization for the best risk-adjusted return, or minimization of portfolio variance, our AI has you covered. Alongside Dynamic Asset Allocation and Customized Strategy features, our product assures a flexible, adaptive, and bespoke approach to meet your unique investment needs. Utilizing these methodologies, you can manage risk effectively and achieve your investment objectives in the evolving digital financial landscape.
+Our product offers a comprehensive suite of statistical algorithms powered tools for digital asset portfolio construction and management that cater to a wide range of investment strategies and goals. Whether you seek equal diversification, alignment with market capitalization, optimization for the best risk-adjusted return, or minimization of portfolio variance, our statistical algorithms has you covered. Alongside Dynamic Asset Allocation and Customized Strategy features, our product assures a flexible, adaptive, and bespoke approach to meet your unique investment needs. Utilizing these methodologies, you can manage risk effectively and achieve your investment objectives in the evolving digital financial landscape.
