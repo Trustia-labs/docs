@@ -38,7 +38,6 @@
 * [B2B](services/b2b/README.md)
   * [Flexible Design](services/b2b/flexible-design.md)
   * [Performance](services/b2b/performance.md)
-* [B2C](services/b2c.md)
 
 ## Others
 
