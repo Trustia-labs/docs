@@ -23,9 +23,9 @@ With your pool of assets selected, the next step is to determine the weighting o
 1. **Equal Weighting :** The Equal Weighting strategy equally assigns weights to each digital asset in your portfolio, thereby treating all assets with equal significance. This approach democratizes your investment portfolio and promotes diversification, mitigating the influence of any single digital asset.
 2. **Market Capitalization Weighting :** The Market Capitalization Weighting strategy is a method of portfolio construction that involves weighting assets based on their market capitalization. Assets with higher market capitalization will have a greater weighting in the portfolio compared to assets with lower market capitalization. This strategy suits investors seeking exposure to leading market players.
 3. **Maximum Sharpe Ratio Weighting :** Maximizing the Sharpe ratio is an approach used in portfolio management to select assets or investments that offer the best risk-adjusted return. This strategy aims to construct a portfolio that provides the highest possible Sharpe ratio by combining assets with high returns and low volatility.
-4. **Minimum Variance Weighting :** Minimum Variance Weighting (or minimum variance allocation) is an approach used in finance to construct a portfolio of assets that aims to minimize the overall variance of portfolio returns. The objective is to find an optimal combination of weights assigned to each asset in the portfolio in order to minimize overall volatility.
+4. **Minimum Volatility Weighting :** Minimum Volatility Weighting (or minimum volatility allocation) is an approach used in finance to construct a portfolio of assets that aims to find an optimal combination of weights assigned to each asset in the portfolio in order to minimize overall volatility.
 
-Each portfolio construction strategy offers distinct benefits and advantages. Equal Weighting ensures balanced importance, Market Capitalization Weighting captures market dynamics, Maximum Sharpe Ratio Weighting optimizes risk-adjusted returns, and Minimum Variance Weighting minimizes volatility. Consider your investment objectives, risk tolerance, and time horizon to determine the strategy that best suits your needs. Remember, diversification is key to managing risk effectively, and these methodologies provide you with powerful tools to achieve it.
+Each portfolio construction strategy offers distinct benefits and advantages. Equal Weighting ensures balanced importance, Market Capitalization Weighting captures market dynamics, Maximum Sharpe Ratio Weighting optimizes risk-adjusted returns, and Minimum Volatility Weighting minimizes volatility. Consider your investment objectives, risk tolerance, and time horizon to determine the strategy that best suits your needs. Remember, diversification is key to managing risk effectively, and these methodologies provide you with powerful tools to achieve it.
 
 <figure><img src="../../.gitbook/assets/baniere 2 (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,6 +36,21 @@ Our product doesn't just set and forget; it continuously analyzes market conditi
 {% hint style="info" %}
 Over time, asset allocations can change as market performance alters the values of the assets. Rebalancing involves periodically buying or selling the assets in a portfolio to regain and maintain that original, desired level of asset allocation. Those levels are intended to match an investor's tolerance for risk and desire for reward.
 {% endhint %}
+
+#### Capital Protection
+
+The next implementation that we will integrate into Systematic Portfolio Management is a capital protection module. We are going to use a concept known as Constant Proportion Portfolio Insurance (CPPI). The CPPI is a type of portfolio insurance in which the investor sets a floor on the percentage value of their portfolio, then structures the asset allocation around this condition.
+
+The CPPI allows an investor to maintain exposure to the potential upside of risky assets while providing a capital guarantee against downside risk. To guarantee the invested capital, a position in dollars is maintained, in addition to the basket of assets that make up the performance driver.
+
+1. **Risk Minimization** : By setting a floor for the portfolio value, investors can be assured that even in the case of unfavorable market movements, their portfolio's value will not fall below a certain level.&#x20;
+2. **Growth Potential** : While capital protection can help minimize losses, it does not limit the potential for gain. If the risky assets in the portfolio increase in value, the portfolio will benefit from this growth. This offers a balance between security and potential for return.
+
+{% hint style="info" %}
+The value assigned to each asset depends on the "cushion value", defined as the current value of the portfolio, minus the floor value.
+{% endhint %}
+
+Our adaptation of the CPPI provides coverage for Trustia's Systematic Portfolio Management (SPM) strategies. The SPM strategies aim to eliminate human biases in investment decision making, by exploiting vast datasets for investment insights, and using sophisticated analytical techniques to transform these data into useful investment information. With the addition of our CPPI module, we can offer capital protection to our investors, adding an extra layer of security to our SPM strategies.
 
 #### **Customized Strategy**&#x20;
 

@@ -8,7 +8,7 @@ coverY: 0
 
 ## Capital Protection
 
-The next implementation that we will integrate into Systematic Portfolio Management is a capital protection module. We are going to use a concept known as Constant Proportion Portfolio Insurance (CPPI). The CPPI is a type of portfolio insurance in which the investor sets a floor on the dollar value of their portfolio, then structures the asset allocation around this condition.
+The next implementation that we will integrate into Systematic Portfolio Management is a capital protection module. We are going to use a concept known as Constant Proportion Portfolio Insurance (CPPI). The CPPI is a type of portfolio insurance in which the investor sets a floor on the percentage value of their portfolio, then structures the asset allocation around this condition.
 
 The CPPI allows an investor to maintain exposure to the potential upside of risky assets while providing a capital guarantee against downside risk. To guarantee the invested capital, a position in dollars is maintained, in addition to the basket of assets that make up the performance driver.
 
