@@ -41,10 +41,6 @@
 
 ## Others
 
-* [Technical Indicators](others/technical-indicators/README.md)
-  * [Moving Average (SMA/EMA)](others/technical-indicators/moving-average-sma-ema.md)
-  * [Relative Strength Index (RSI)](others/technical-indicators/relative-strength-index-rsi.md)
-  * [Bollinger Bands](others/technical-indicators/bollinger-bands.md)
-  * [Moving Average Convergence/Divergence (MACD)](others/technical-indicators/moving-average-convergence-divergence-macd.md)
-  * [Stochastic Oscillator](others/technical-indicators/stochastic-oscillator.md)
 * [Website](https://www.trustia.finance/)
+* [Twitter](https://twitter.com/Trustia\_finance)
+* [LinkedIn](https://www.linkedin.com/company/trustia-finance)

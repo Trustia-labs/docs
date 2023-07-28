@@ -39,8 +39,8 @@ There is a wide variety of indicators in technical analysis, each with its own a
 * **Trend indicators :** indicators that measure the strength and durability of a trend. The most commonly used trend indicators are the Average Directional Index (ADX) and the Parabolic SAR.
 * **Volume indicators :** indicators that measure the amount of transactions performed on a given market. The most commonly used volume indicators are the Accumulation/Distribution Line (ADL), the Chaikin Oscillator, and the On-Balance Volume (OBV).
 
-{% content-ref url="../../others/technical-indicators/" %}
-[technical-indicators](../../others/technical-indicators/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/t/technicalindicator.asp)
