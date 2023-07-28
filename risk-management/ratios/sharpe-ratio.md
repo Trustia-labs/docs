@@ -17,7 +17,7 @@ $$
 $$
 
 {% hint style="info" %}
-_$r\_p$_ ​ = return of portfolio
+_rp_ ​ = return of portfolio
 
 _**r**rf_ ​= risk-free rate&#x20;
 
