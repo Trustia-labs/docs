@@ -20,8 +20,6 @@ For example, a family office might require higher granularity in the analysis of
 
 This ability to customize our tools gives Trustia a unique advantage in the market. It allows our clients to benefit from a tool that exactly fits their needs, increasing the efficiency and accuracy of their asset management. Ultimately, this means that our clients can focus on what they do best: making informed decisions to maximize the performance of their portfolios.
 
-Consume technology as a service, with flexible pricing aligned with the business value created from the services it enables.
-
 {% hint style="success" %}
 #### **Maximize your return on investment**
 
