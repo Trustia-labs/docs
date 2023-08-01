@@ -32,8 +32,6 @@ We also understand the importance of security in the financial domain. Our API-f
 
 Explore the advantages of our API-driven model with Trustia. Contact us today to discuss your specific needs and discover how our FinTech solutions can transform your financial operations.
 
-L'IA est au centre de la société contemporaine car elle est utilisée pour interpréter de grandes quantités d'informations, gérer des données et fournir des publicités ciblées.
-
 <figure><img src="../../.gitbook/assets/baniere 2 (31) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Strategy generator low-code

@@ -2,6 +2,20 @@
 description: Learn more about our B2B services
 cover: ../../.gitbook/assets/baniere 2 (55).png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # B2B
