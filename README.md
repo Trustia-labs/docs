@@ -11,6 +11,8 @@ As the financial industry continues to embrace **digital transformation**, the n
 
 Our quantitative financial algorithms are designed to **optimize investment strategies**, thereby enhancing portfolio performance and **capital efficiency**. We offer businesses the ability to **customize these algorithms** based on their specific needs and investment strategies, thereby providing them with a unique competitive edge.
 
+<figure><img src=".gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+
 #### _**Trustia's dedication to providing exceptional, data-driven solutions**_
 
 We believe that financial empowerment comes from having access to **reliable information**, **advanced tools**, and **expert guidance**. Our team of dedicated professionals is committed to providing exceptional support, ensuring that you receive the assistance you need to achieve your **financial objectives**. We prioritize your success and work diligently to deliver solutions that are both **effective** and **user-friendly**.&#x20;
