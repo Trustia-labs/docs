@@ -16,7 +16,7 @@ When it comes to choosing digital assets for your strategy, a tool powered by st
 
 It is also possible to use filters to select assets based on specific activity sectors. For instance, you could select the nine assets with the best Sharpe ratio in the gaming sector, decentralized finance, and infrastructure. You can also exclude categories if you do not want to expose yourself to certain sectors.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 17.00.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 17.30.57.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Excluded categories take precedence over included categories :** For example, if you include the "infrastructure" category and exclude the "interoperability" category, all assets with both categories as tags will be excluded from the asset pool.
