@@ -2,10 +2,16 @@
 
 * [Overview](README.md)
 
-## Investment Solutions
+## Systematic Investing
 
-* [Systematic Portfolio Management](investment-solutions/rebalancing-index-ai/README.md)
-  * [Features](investment-solutions/rebalancing-index-ai/rebalancing-index-ai.md)
+* [Introduction](systematic-investing/rebalancing-index-ai.md)
+* [Features](systematic-investing/rebalancing-index-ai-1.md)
+
+## Services
+
+* [B2B](services/b2b/README.md)
+  * [Flexible Design](services/b2b/flexible-design.md)
+  * [Performance](services/b2b/performance.md)
 
 ## Risk management
 
@@ -29,12 +35,6 @@
   * [Features](risk-management/backtesting-strategies/features.md)
   * [Monte Carlo Simulations](risk-management/backtesting-strategies/monte-carlo-simulations.md)
 * [Strategy Analysis](risk-management/strategy-analysis.md)
-
-## Services
-
-* [B2B](services/b2b/README.md)
-  * [Flexible Design](services/b2b/flexible-design.md)
-  * [Performance](services/b2b/performance.md)
 
 ## Others
 
