@@ -1,25 +1,20 @@
 ---
 description: Learn more about Trustia
-cover: .gitbook/assets/baniere 2 (34) (1).png
-coverY: 0
+cover: >-
+  .gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 49
 ---
 
 # Overview
 
-As the financial industry continues to embrace digital transformation, the need for robust, reliable, and efficient investment infrastructure has become paramount. Our mission is to empower Neo-banks, asset managers, and family offices by providing them with a comprehensive API-based investment infrastructure to take a step into the digital assets’ investment with their habitual tools.
+As the financial industry continues to embrace **digital transformation**, the need for robust, reliable, and efficient investment infrastructure has become paramount. Our mission is to **empower Neo-banks, asset managers, and family offices** by providing them with a comprehensive **API-based investment infrastructure** to take a step into the digital assets’ **investment with their habitual tools**.
 
-Moreover, our quantitative financial algorithms are designed to optimize investment strategies, thereby enhancing portfolio performance and capital efficiency. We offer businesses the ability to customize these algorithms based on their specific needs and investment strategies, thereby providing them with a unique competitive edge.
+Our quantitative financial algorithms are designed to **optimize investment strategies**, thereby enhancing portfolio performance and **capital efficiency**. We offer businesses the ability to **customize these algorithms** based on their specific needs and investment strategies, thereby providing them with a unique competitive edge.
 
-_**Trustia's dedication to providing exceptional, data-driven solutions**_&#x20;
+#### _**Trustia's dedication to providing exceptional, data-driven solutions**_
 
-Our Investment Solutions encompass a wide array of innovative tools, cutting-edge technologies, and insightful analytics to help you navigate the complexities of the financial markets.
+We believe that financial empowerment comes from having access to **reliable information**, **advanced tools**, and **expert guidance**. Our team of dedicated professionals is committed to providing exceptional support, ensuring that you receive the assistance you need to achieve your **financial objectives**. We prioritize your success and work diligently to deliver solutions that are both **effective** and **user-friendly**.&#x20;
 
-We believe that financial empowerment comes from having access to reliable information, advanced tools, and expert guidance. Our team of dedicated professionals is committed to providing exceptional support, ensuring that you receive the assistance you need to achieve your **financial objectives**. We prioritize your success and work diligently to deliver solutions that are both **effective** and **user-friendly**.&#x20;
-
-As you explore this page, you will discover the breadth and depth of our offerings, each meticulously crafted to address the challenges and opportunities in the investment world.
-
-
-
-
+Our Investment Solutions encompass a wide array of **innovative tools**, **cutting-edge technologies**, and **insightful analytics** to help you navigate the complexities of the financial markets. As you explore this page, you will discover the breadth and depth of our offerings, each meticulously crafted to address the **challenges and opportunities** in the investment world.
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Investment Solutions</strong></td><td><a href=".gitbook/assets/3.png">3.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Risk Management</strong></td><td><a href=".gitbook/assets/4.png">4.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Backtesting Strategies</strong></td><td><a href=".gitbook/assets/Illustrations gitbook (1) (3).png">Illustrations gitbook (1) (3).png</a></td><td><a href="risk-management/backtesting-strategies/">backtesting-strategies</a></td></tr></tbody></table>
