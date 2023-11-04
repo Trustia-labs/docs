@@ -49,7 +49,7 @@ Over time, asset allocations can change as market performance alters the values 
 
 #### Capital Protection
 
-The next implementation that we will integrate into Systematic Portfolio Management is a capital protection module. We are going to use a concept known as Constant Proportion Portfolio Insurance (CPPI). The CPPI is a type of portfolio insurance in which the investor sets a floor on the percentage value of their portfolio, then structures the asset allocation around this condition.
+Each portfolio construction strategy offers distinct benefits and advantages. Consider your investment objectives, risk tolerance, and time horizon to determine the strategy that best suits your needs. Remember, diversification is key to managing risk effectively, and these methodologies provide you with powerful tools to achieve it.
 
 The CPPI allows an investor to maintain exposure to the potential upside of risky assets while providing a capital guarantee against downside risk. To guarantee the invested capital, a position in dollars is maintained, in addition to the basket of assets that make up the performance driver.
 
@@ -59,8 +59,6 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 {% hint style="info" %}
 The value assigned to each asset depends on the "cushion value", defined as the current value of the portfolio, minus the floor value.
 {% endhint %}
-
-Our adaptation of the CPPI provides coverage for Trustia's Systematic Portfolio Management (SPM) strategies. The SPM strategies aim to eliminate human biases in investment decision making, by exploiting vast datasets for investment insights, and using sophisticated analytical techniques to transform these data into useful investment information. With the addition of our CPPI module, we can offer capital protection to our investors, adding an extra layer of security to our SPM strategies.
 
 #### **Customized Strategy**&#x20;
 
