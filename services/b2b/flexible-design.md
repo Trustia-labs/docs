@@ -34,14 +34,14 @@ Explore the advantages of our API-driven model with Trustia. Contact us today to
 
 <figure><img src="../../.gitbook/assets/baniere 2 (31) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Strategy generator low-code
+## Strategy generator codeless
 
-Trustia offers you a low-code strategy generator to simplify and expedite the process of creating your investment strategies. We understand that time and efficiency are key elements in the finance industry, which is why we have developed an innovative solution to help optimize your operations.
+Trustia offers you a codeless strategy generator to simplify and expedite the process of creating your investment strategies. We understand that time and efficiency are key elements in the finance industry, which is why we have developed an innovative solution to help optimize your operations.
 
-Our low-code strategy generator allows you to design customized investment strategies without requiring advanced programming skills. You can easily define your goals, criteria, and preferences, and our tool will automatically generate the underlying code.
+Our codeless strategy generator allows you to design customized investment strategies without requiring advanced programming skills. You can easily define your goals, criteria, and preferences, and our tool will automatically generate the underlying code.
 
 With our low-code approach, you can quickly and efficiently create investment strategies tailored to your specific needs.
 
-Furthermore, our low-code strategy generator offers you complete flexibility. You can adjust and optimize your strategies in real-time, taking into account market conditions and changes in your portfolio. This agility enables you to remain responsive and make informed decisions to maximize your returns.
+Furthermore, our codeless strategy generator offers you complete flexibility. You can adjust and optimize your strategies in real-time, taking into account market conditions and changes in your portfolio. This agility enables you to remain responsive and make informed decisions to maximize your returns.
 
-Our low-code strategy generator leverages advanced technologies and powerful algorithms to provide you with cutting-edge solutions. You benefit from an innovative approach that combines financial expertise with ease of use, allowing you to stay competitive in the market.
+Our codeless strategy generator leverages advanced technologies and powerful algorithms to provide you with cutting-edge solutions. You benefit from an innovative approach that combines financial expertise with ease of use, allowing you to stay competitive in the market.
