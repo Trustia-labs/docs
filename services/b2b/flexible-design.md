@@ -38,9 +38,9 @@ Explore the advantages of our API-driven model with Trustia. Contact us today to
 
 Trustia offers you a codeless strategy generator to simplify and expedite the process of creating your investment strategies. We understand that time and efficiency are key elements in the finance industry, which is why we have developed an innovative solution to help optimize your operations.
 
-Our codeless strategy generator allows you to design customized investment strategies without requiring advanced programming skills. You can easily define your goals, criteria, and preferences, and our tool will automatically generate the underlying code.
+Our codeless strategy generator allows you to design customized investment strategies without requiring programming skills. You can easily define your goals, criteria, and preferences, and our tool will automatically generate the underlying code.
 
-With our low-code approach, you can quickly and efficiently create investment strategies tailored to your specific needs.
+With our codeless approach, you can quickly and efficiently create investment strategies tailored to your specific needs.
 
 Furthermore, our codeless strategy generator offers you complete flexibility. You can adjust and optimize your strategies in real-time, taking into account market conditions and changes in your portfolio. This agility enables you to remain responsive and make informed decisions to maximize your returns.
 
