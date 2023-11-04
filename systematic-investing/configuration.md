@@ -8,9 +8,23 @@ description: Tutorial for configuring a strategy
 
 Each portfolio construction strategy offers distinct benefits and advantages. Consider your investment objectives, risk tolerance, and time horizon to determine the strategy that best suits your needs. Remember, diversification is key to managing risk effectively, and these methodologies provide you with powerful tools to achieve it.
 
-The statistical algorithm helps you apply various strategies and determines the weighting of each asset within the index to find the approach best suited to your investment objectives :
+1. Go to the first configuration tab of a strategy (Model configuration)
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.49.21.png" alt=""><figcaption></figcaption></figure>
+
+2. Then select the strategy model that best suits you, based on your objectives, your risk tolerance and the time horizon of your investments.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.48.52.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+[Learn more about weighting strategies](strategies.md)
+{% endhint %}
+
+### Rebalancing occurrence
 
 
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-05 à 00.33.11.png" alt=""><figcaption></figcaption></figure>
 
 ### Asset Selection
 
