@@ -1,7 +1,7 @@
 ---
 description: Learn more about Systematic Portfolio Management
 cover: https://wallpapercave.com/wp/wp11623090.jpg
-coverY: 147
+coverY: 77
 ---
 
 # Introduction
