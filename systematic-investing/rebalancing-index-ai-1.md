@@ -1,6 +1,7 @@
 ---
 description: Learn more about features of Systematic Portfolio Management
-cover: ../.gitbook/assets/baniere 2 (19).png
+cover: >-
+  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
 coverY: 0
 ---
 
@@ -27,11 +28,7 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 9. **Maximum Diversification :** The maximum diversification portfolio aims to allocate investments across the largest number of assets possible to achieve maximum diversification. Greater diversification within a portfolio reduces the denominator and leads to a higher diversification ratio.&#x20;
 10. **Maximum Decorrelation :** In this solution, the objective is to minimize the correlation among the assets of a portfolio. The Maximum Decorrelation portfolio is closely related to Minimum Variance and Maximum Diversification approaches, but is applied in cases where an investor believes that all assets have similar returns and volatility but heterogeneous correlations. It is an optimization of Minimum Variance that is performed on the correlation matrix rather than the covariance matrix.&#x20;
 
-### Asset Selection
-
-When it comes to choosing digital assets for your strategy, a tool powered by statistical algorithms has the ability to examine over 800 digital assets based on their market capitalization, Sharpe ratio, minimum variance , their correlation, etc. This ensures that you only include reputable and reliable assets in your portfolio.
-
-It is also possible to use filters to select assets based on specific activity sectors. For instance, you could select the nine assets with the best Sharpe ratio in the gaming sector, decentralized finance, and infrastructure. You can also exclude categories if you do not want to expose yourself to certain sectors.
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.04.53.png" alt=""><figcaption></figcaption></figure>
 
 ### **Dynamic Asset Allocation**&#x20;
 
@@ -53,3 +50,5 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 {% hint style="info" %}
 The value assigned to each asset depends on the "cushion value", defined as the current value of the portfolio, minus the floor value.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
