@@ -1,6 +1,6 @@
 ---
 description: Learn more about features of Systematic Portfolio Management
-cover: ../../.gitbook/assets/baniere 2 (19).png
+cover: ../.gitbook/assets/baniere 2 (19).png
 coverY: 0
 ---
 
@@ -8,13 +8,21 @@ coverY: 0
 
 ## Tailored your Systematic Portfolio Management
 
-Our product presents an innovative solution for digital asset portfolio construction and management, utilizing the power of our dedicated statistical algorithms to deliver an optimized investment strategy bespoke to your unique goals. The statistical algorithm aids in adopting the most fitting strategy based on your investment objectives, risk tolerance, and time horizon, employing methodologies such as Equal Weighting, Market Capitalization Weighting, Maximum Sharpe Ratio Weighting, Minimum Variance Weighting. Further functionalities include Dynamic Asset Allocation and Customized Strategy.
+Our product presents an innovative solution for digital asset portfolio construction and management, utilizing the power of our dedicated statistical algorithms to deliver an optimized investment strategy bespoke to your unique goals. The statistical algorithm aids in adopting the most fitting strategy based on your investment objectives, risk tolerance, and time horizon.
 
 #### Asset Selection
 
-When it comes to choosing digital assets for your index, an statistical algorithms powered tool has the capability to review the over 800+ digital assets based on their market capitalization, Sharpe ratio, or minimum variance. This ensures that you only include reputable and reliable assets in your index. Moreover, statistical algorithms and AI can help identify trends, patterns, and potential risks associated with each digital asset.
+When it comes to choosing digital assets for your strategy, a tool powered by statistical algorithms has the ability to examine over 800 digital assets based on their market capitalization, Sharpe ratio, minimum variance , their correlation, etc. This ensures that you only include reputable and reliable assets in your portfolio.
 
-It is also possible to use filters to select assets based on specific activity sectors. For instance, you could select the nine assets with the best Sharpe ratio in the gaming sector, decentralized finance, and infrastructure.
+It is also possible to use filters to select assets based on specific activity sectors. For instance, you could select the nine assets with the best Sharpe ratio in the gaming sector, decentralized finance, and infrastructure. You can also exclude categories if you do not want to expose yourself to certain sectors.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 17.00.32.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Excluded categories take precedence over included categories :** For example, if you include the "infrastructure" category and exclude the "interoperability" category, all assets with both categories as tags will be excluded from the asset pool.
+{% endhint %}
+
+####
 
 #### Weighting Strategies
 
@@ -35,7 +43,7 @@ With your pool of assets selected, the next step is to determine the weighting o
 
 Each portfolio construction strategy offers distinct benefits and advantages. Equal Weighting ensures balanced importance, Market Capitalization Weighting captures market dynamics, Maximum Sharpe Ratio Weighting optimizes risk-adjusted returns, and Minimum Volatility Weighting minimizes volatility. Consider your investment objectives, risk tolerance, and time horizon to determine the strategy that best suits your needs. Remember, diversification is key to managing risk effectively, and these methodologies provide you with powerful tools to achieve it.
 
-<figure><img src="../../.gitbook/assets/baniere 2 (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/baniere 2 (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Dynamic Asset Allocation**&#x20;
 
