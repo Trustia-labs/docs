@@ -1,20 +1,10 @@
----
-description: Learn more about features of Systematic Portfolio Management
-cover: ../.gitbook/assets/baniere 2 (19).png
-coverY: 0
----
+# Configuration
 
-# Features
-
-## Tailored your Systematic Portfolio Management
-
-Our product presents an innovative solution for digital asset portfolio construction and management, utilizing the power of our dedicated statistical algorithms to deliver an optimized investment strategy bespoke to your unique goals. The statistical algorithm aids in adopting the most fitting strategy based on your investment objectives, risk tolerance, and time horizon.
+##
 
 ### Weighting Strategies
 
 Each portfolio construction strategy offers distinct benefits and advantages. Consider your investment objectives, risk tolerance, and time horizon to determine the strategy that best suits your needs. Remember, diversification is key to managing risk effectively, and these methodologies provide you with powerful tools to achieve it.
-
-Our statistical algorithms can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—it's efficient for you. For example, if you have a long-term investment horizon and a high-risk tolerance, the statistical algorithm could craft a strategy that leans heavily into high-growth, high-volatility assets.
 
 The statistical algorithm helps you apply various strategies and determines the weighting of each asset within the index to find the approach best suited to your investment objectives :
 
@@ -37,6 +27,16 @@ When it comes to choosing digital assets for your strategy, a tool powered by st
 
 It is also possible to use filters to select assets based on specific activity sectors. For instance, you could select the nine assets with the best Sharpe ratio in the gaming sector, decentralized finance, and infrastructure. You can also exclude categories if you do not want to expose yourself to certain sectors.
 
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 17.30.57.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Excluded categories take precedence over included categories :** For example, if you include the "infrastructure" category and exclude the "interoperability" category, all assets with both categories as tags will be excluded from the asset pool.
+{% endhint %}
+
+####
+
+####
+
 <figure><img src="../.gitbook/assets/baniere 2 (33) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Dynamic Asset Allocation**&#x20;
@@ -49,7 +49,7 @@ Over time, asset allocations can change as market performance alters the values 
 
 #### Capital Protection
 
-The CPPI is a type of portfolio insurance in which the investor sets a floor on the percentage value of their portfolio, then structures the asset allocation around this condition. Our CPPI module offers the possibility of protecting your capital, thus adding an additional layer of security to your systematic portfolio management strategies.
+The next implementation that we will integrate into Systematic Portfolio Management is a capital protection module. We are going to use a concept known as Constant Proportion Portfolio Insurance (CPPI). The CPPI is a type of portfolio insurance in which the investor sets a floor on the percentage value of their portfolio, then structures the asset allocation around this condition.
 
 The CPPI allows an investor to maintain exposure to the potential upside of risky assets while providing a capital guarantee against downside risk. To guarantee the invested capital, a position in dollars is maintained, in addition to the basket of assets that make up the performance driver.
 
@@ -59,6 +59,12 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 {% hint style="info" %}
 The value assigned to each asset depends on the "cushion value", defined as the current value of the portfolio, minus the floor value.
 {% endhint %}
+
+Our adaptation of the CPPI provides coverage for Trustia's Systematic Portfolio Management (SPM) strategies. The SPM strategies aim to eliminate human biases in investment decision making, by exploiting vast datasets for investment insights, and using sophisticated analytical techniques to transform these data into useful investment information. With the addition of our CPPI module, we can offer capital protection to our investors, adding an extra layer of security to our SPM strategies.
+
+#### **Customized Strategy**&#x20;
+
+Our statistical algorithms can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—it's efficient for you. For example, if you have a long-term investment horizon and a high-risk tolerance, the statistical algorithm could craft a strategy that leans heavily into high-growth, high-volatility assets.
 
 #### Value propositions&#x20;
 

@@ -6,6 +6,8 @@
 
 * [Introduction](systematic-investing/rebalancing-index-ai.md)
 * [Features](systematic-investing/rebalancing-index-ai-1.md)
+* [Strategies](systematic-investing/strategies.md)
+* [Configuration](systematic-investing/configuration.md)
 
 ## Services
 
