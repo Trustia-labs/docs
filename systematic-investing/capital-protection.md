@@ -17,3 +17,26 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 **The “Floor” is defined as :** a fraction of the current value of the portfolio that the investor cannot afford to lose. The latter therefore represents the value at which the portfolio uses 100% of its capital in dollar stablecoins.
 
 **The “Cushion” is defined as :** the difference between the current value of the portfolio and the floor value. The latter represents the current value of the guarantee. This is therefore the maximum theoretical amount that can be lost over a period without affecting the capital guarantee.
+
+### Floor strategies
+
+#### There are two methods for setting the floor value :
+
+1. **Fixed :** The floor value is defined by the value of the initial investment, less the cushion value. The value of the initial investment therefore remains 100% of the floor value, even in the event of an increase in the maximum value of the portfolio.
+2. **Drawdown :** The floor value is represented by the predefined percentage, compared to the maximum value of the portfolio which is 100%. In the event of an increase in the value of the portfolio's assets, the new maximum value of the portfolio therefore becomes 100% for the predefined floor value.
+
+#### **Fixed vs Drawdown :**
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-05 à 21.08.14.png" alt=""><figcaption></figcaption></figure>
+
+### Multiplicator
+
+The value of the multiplier depends on the investor's risk tolerance because it determines the portfolio's exposure to risky assets. The multiplier allows you to add leverage to the cushion value in order to increase returns.
+
+For example, assume that the maximum potential loss between two rebalancing dates is 20% of the cushion value. In this case, you could use a multiplier of factor 5 to expose yourself to 100% of the cushion value, or a multiplier of factor 3 to expose yourself to 60% of the cushion value.
+
+On the other hand, to guarantee that the value of the portfolio is greater than the floor value at the next rebalancing, the value of the multiplier must not be greater than 5.
+
+{% hint style="warning" %}
+If you use a multiplier that is too high relative to the maximum potential loss between two rebalancing dates, there is a risk that capital protection will be breached if your risky assets experience a sudden steep decline.
+{% endhint %}
