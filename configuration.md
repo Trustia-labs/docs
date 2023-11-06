@@ -66,9 +66,13 @@ If you use a multiplier that is too high relative to the maximum potential loss 
 
 The “Floor” is defined as a fraction of the current value of the portfolio that the investor cannot afford to lose.
 
-
+**6️⃣ - Define the percentage of your capital you want to protect :**
 
 <figure><img src=".gitbook/assets/Capture d’écran 2023-11-06 à 00.29.45.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+[🔗 Learn more about CPPI](systematic-investing/capital-protection.md)
+{% endhint %}
 
 ### Asset Selection
 

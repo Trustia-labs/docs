@@ -28,6 +28,10 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 9. **Maximum Diversification :** The maximum diversification portfolio aims to allocate investments across the largest number of assets possible to achieve maximum diversification. Greater diversification within a portfolio reduces the denominator and leads to a higher diversification ratio.&#x20;
 10. **Maximum Decorrelation :** In this solution, the objective is to minimize the correlation among the assets of a portfolio. The Maximum Decorrelation portfolio is closely related to Minimum Variance and Maximum Diversification approaches, but is applied in cases where an investor believes that all assets have similar returns and volatility but heterogeneous correlations. It is an optimization of Minimum Variance that is performed on the correlation matrix rather than the covariance matrix.&#x20;
 
+{% hint style="info" %}
+[🔗 Learn more about weighting strategies](strategies.md)
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.04.53.png" alt=""><figcaption></figcaption></figure>
 
 ### **Dynamic Asset Allocation**&#x20;
@@ -48,7 +52,9 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 2. **Growth Potential** : While capital protection can help minimize losses, it does not limit the potential for gain. If the risky assets in the portfolio increase in value, the portfolio will benefit from this growth. This offers a balance between security and potential for return.
 
 {% hint style="info" %}
-The value assigned to each asset depends on the "cushion value", defined as the current value of the portfolio, minus the floor value.
+[🔗 Learn more about CPPI](capital-protection.md)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+
+### Backtesting Strategy
