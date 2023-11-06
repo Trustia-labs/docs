@@ -34,13 +34,15 @@ One part of the portfolio is invested in a low-risk asset in an income instrumen
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-05 à 21.08.14.png" alt=""><figcaption></figcaption></figure>
 
-### Multiplicator
+### Multiplier
 
 The value of the multiplier depends on the investor's risk tolerance because it determines the portfolio's exposure to risky assets. The multiplier allows you to add leverage to the cushion value in order to increase returns.
 
 For example, assume that the maximum potential loss between two rebalancing dates is 20% of the cushion value. In this case, you could use a multiplier of factor 5 to expose yourself to 100% of the cushion value, or a multiplier of factor 3 to expose yourself to 60% of the cushion value.
 
 On the other hand, to guarantee that the value of the portfolio is greater than the floor value at the next rebalancing, the value of the multiplier must not be greater than 5.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 12.51.50.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you use a multiplier that is too high relative to the maximum potential loss between two rebalancing dates, there is a risk that capital protection will be breached if your risky assets experience a sudden steep decline.
