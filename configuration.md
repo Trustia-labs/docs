@@ -56,7 +56,7 @@ For example, assume that the maximum potential loss between two rebalancing date
 
 **5️⃣ - Adapt your multiplier based on the maximum potential loss between two rebalancing dates :**
 
-<figure><img src=".gitbook/assets/Capture d’écran 2023-11-06 à 00.17.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Capture d’écran 2023-11-06 à 17.58.14.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you use a multiplier that is too high relative to the maximum potential loss between two rebalancing dates, there is a risk that capital protection will be breached if your risky assets experience a sudden steep decline.
@@ -85,4 +85,3 @@ It is also possible to use filters to select assets based on specific activity s
 {% hint style="info" %}
 **Excluded categories take precedence over included categories :** For example, if you include the "infrastructure" category and exclude the "interoperability" category, all assets with both categories as tags will be excluded from the asset pool.
 {% endhint %}
-
