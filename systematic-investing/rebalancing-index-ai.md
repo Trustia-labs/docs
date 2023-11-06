@@ -1,7 +1,8 @@
 ---
 description: Learn more about Systematic Portfolio Management
-cover: https://wallpapercave.com/wp/wp11623090.jpg
-coverY: 77
+cover: >-
+  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 60.7492596248766
 ---
 
 # Introduction
@@ -16,4 +17,4 @@ By combining assets that react differently to the same economic conditions, Trus
 
 Our platform enables asset managers to create and manage portfolios that maximize risk-adjusted returns, in accordance with MPT. By adjusting strategic parameters, our users can customize their investments to their risk appetite and financial objectives.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 16.29.26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
