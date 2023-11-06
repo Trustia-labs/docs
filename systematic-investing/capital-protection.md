@@ -44,7 +44,7 @@ On the other hand, to guarantee that the value of the portfolio is greater than 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 12.51.50.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 If you use a multiplier that is too high relative to the maximum potential loss between two rebalancing dates, there is a risk that capital protection will be breached if your risky assets experience a sudden steep decline.
 {% endhint %}
 
