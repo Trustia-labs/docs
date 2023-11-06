@@ -1,7 +1,8 @@
 ---
 description: Learn more about Average Returns
-cover: ../../.gitbook/assets/baniere 2 (4).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 114.35340572556763
 ---
 
 # Average Returns
@@ -25,3 +26,5 @@ $$
 $$
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/h/historical-returns.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

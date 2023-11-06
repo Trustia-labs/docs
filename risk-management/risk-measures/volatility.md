@@ -1,7 +1,8 @@
 ---
 description: Learn more about Volatility
-cover: ../../.gitbook/assets/baniere 2 (39).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 100.05923000987167
 ---
 
 # Volatility
@@ -17,3 +18,5 @@ $$
 $$
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/v/volatility.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

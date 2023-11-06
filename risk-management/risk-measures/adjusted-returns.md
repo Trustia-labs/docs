@@ -1,7 +1,8 @@
 ---
 description: Learn more about Adjusted Returns
-cover: ../../.gitbook/assets/baniere 2 (37) (1).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 101.48864758144127
 ---
 
 # Adjusted Returns
@@ -13,3 +14,5 @@ coverY: 0
 **Adjusting for the risk-free rate** is useful for comparing the performance of a portfolio or an asset with that of a risk-free investment. To calculate the adjusted returns by the risk-free rate, the risk-free interest rate is subtracted from the total return of the portfolio or the asset.
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/r/riskadjustedreturn.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

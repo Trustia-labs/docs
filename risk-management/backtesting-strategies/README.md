@@ -1,7 +1,8 @@
 ---
 description: Learn more about Backtesting Strategy
-cover: ../../.gitbook/assets/baniere 2 (45).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 105.77690029615005
 ---
 
 # Backtesting Strategies
@@ -17,5 +18,3 @@ Utilizing historical or simulated data, it becomes feasible to compute the poten
 1. **Historical Backtesting :** This approach entails testing an investment strategy against historical data, assuming that market conditions remain relatively stable and past data is indicative of future outcomes. However, historical backtesting results may be impacted by extreme events or irregular market conditions that do not frequently transpire.
 2. **Shuffled Data Backtesting :** This method involves rearranging historical data's order prior to testing the investment strategy. This process allows for the evaluation of the strategy's performance under alternate market conditions, while still utilizing the same data set. Shuffled data backtesting can help uncover biases in an investment strategy that might not be apparent through historical backtesting alone.
 3. **Monte Carlo Simulation :** This technique consists of simulating thousands of distinct scenarios using historical data. The simulation incorporates random variables to produce results that mirror the inherent variability of financial markets. Monte Carlo simulation outcomes supply confidence intervals for the expected returns and risks associated with an investment strategy.
-
-By harnessing the power of backtesting, investors can make more informed decisions and optimize their investment strategies to better navigate the ever-changing financial landscape.

@@ -1,7 +1,8 @@
 ---
 description: Learn more about Monte Carlo VaR
-cover: ../../.gitbook/assets/baniere 2 (43).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 111.49457058242844
 ---
 
 # Monte Carlo VaR
@@ -16,8 +17,10 @@ VaR Monte Carlo is often considered the most accurate method for calculating VaR
 
 <figure><img src="../../.gitbook/assets/68747470733a2f2f66696e6172792e636f6d2f626c6f672f636f6e74656e742f696d616765732f323032312f31312f315f7a654535397a666a524a6d496e6777764a73764d52512d2d312d2e706e67.webp" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../backtesting-strategies/monte-carlo-simulations.md" %}
-[monte-carlo-simulations.md](../backtesting-strategies/monte-carlo-simulations.md)
-{% endcontent-ref %}
+{% hint style="info" %}
+[🔗 Learn more about Monte Carlo simulations](../backtesting-strategies/monte-carlo-simulations.md)
+{% endhint %}
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/m/montecarlosimulation.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

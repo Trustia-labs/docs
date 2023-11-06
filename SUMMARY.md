@@ -40,7 +40,6 @@
 * [Backtesting Strategies](risk-management/backtesting-strategies/README.md)
   * [Features](risk-management/backtesting-strategies/features.md)
   * [Monte Carlo Simulations](risk-management/backtesting-strategies/monte-carlo-simulations.md)
-* [Strategy Analysis](risk-management/strategy-analysis.md)
 
 ## Others
 

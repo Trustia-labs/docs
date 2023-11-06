@@ -1,7 +1,8 @@
 ---
 description: Learn more about Ordinary Least Squares Method
-cover: ../../.gitbook/assets/baniere 2 (41).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 107.20631786771965
 ---
 
 # Ordinary Least Squares Method
@@ -17,3 +18,5 @@ Le but de cette méthode est de trouver la meilleure ligne de régression pour m
 **Alpha**, on the other hand, is a measure of an investment's performance relative to its beta. It measures the risk-adjusted return of an investment, which is the return that is generated taking into account the investment's sensitivity to market fluctuations. A positive alpha indicates that the investment has outperformed the market, while a negative alpha indicates that the investment has underperformed the market. It corresponds to the y-intercept of the regression line.
 
 More info : [_Investopedia_](https://www.investopedia.com/articles/07/alphabeta.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

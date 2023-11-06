@@ -1,7 +1,8 @@
 ---
 description: Learn more about strategy backtesting features
-cover: ../../.gitbook/assets/baniere 2 (47).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 90.0533070088845
 ---
 
 # Features
@@ -28,6 +29,8 @@ The choice of timeframe mainly depends on the **trading style** adopted and the 
 
 The choice of timeframe also depends on the volatility of the financial asset and the historical analysis period. The higher the volatility, the shorter the timeframe should be to avoid making decisions based on random price movements. Similarly, the historical analysis period should be adapted to the timeframe to avoid selection biases and strategy specification errors.
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 22.06.43.png" alt=""><figcaption></figcaption></figure>
+
 ## Indicators Selection <a href="#indicators-selection" id="indicators-selection"></a>
 
 **Technical indicators** are statistical/mathematical tools used to analyze price charts and identify trends and buy or sell signals in financial markets. These indicators are based on mathematical formulas applied to prices and/or traded volumes. They can be used alone or in combination with other indicators and technical analysis techniques to help traders make investment decisions.
@@ -39,13 +42,9 @@ There is a wide variety of indicators in technical analysis, each with its own a
 * **Trend indicators :** indicators that measure the strength and durability of a trend. The most commonly used trend indicators are the Average Directional Index (ADX) and the Parabolic SAR.
 * **Volume indicators :** indicators that measure the amount of transactions performed on a given market. The most commonly used volume indicators are the Accumulation/Distribution Line (ADL), the Chaikin Oscillator, and the On-Balance Volume (OBV).
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 More info : [_Investopedia_](https://www.investopedia.com/terms/t/technicalindicator.asp)
 
-<figure><img src="../../.gitbook/assets/baniere 2 (33) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 22.04.53.png" alt=""><figcaption></figcaption></figure>
 
 ## Time Frame Management <a href="#time-frame-management" id="time-frame-management"></a>
 
@@ -62,4 +61,6 @@ A **Take Profit** is an automatic sell order that is placed on a financial asset
 In summary, a **Stop Loss** is used to limit potential losses on a position, while a **Take Profit** is used to realize potential gains on a position. These two tools are often used together in trading and investment strategies to manage risks and potential returns.
 
 More info : [_Investopedia_](https://www.investopedia.com/investing/understanding-exit-strategies/)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
 

@@ -2,7 +2,7 @@
 description: Learn more about CPPI of Systematic Portfolio Management
 cover: >-
   ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 47.43435340572557
+coverY: 104.61105626850937
 ---
 
 # Capital Protection

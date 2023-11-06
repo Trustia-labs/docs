@@ -2,7 +2,7 @@
 description: Learn more about features of Systematic Portfolio Management
 cover: >-
   ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 0
+coverY: 97.20039486673248
 ---
 
 # Features

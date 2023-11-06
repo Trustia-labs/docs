@@ -1,7 +1,8 @@
 ---
 description: Learn more about Treynor Ratio
-cover: ../../.gitbook/assets/baniere 2 (49).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 110.06515301085884
 ---
 
 # Treynor Ratio
@@ -27,3 +28,5 @@ _β​_ = Beta of the portfolio ​
 {% endhint %}
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/t/treynorratio.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

@@ -1,7 +1,8 @@
 ---
 description: Learn more about Sortino Ratio
-cover: ../../.gitbook/assets/baniere 2 (40).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 102.91806515301087
 ---
 
 # Sortino Ratio
@@ -23,3 +24,5 @@ _**r**rf_ = risk-free rate return
 {% endhint %}
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/s/sortinoratio.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

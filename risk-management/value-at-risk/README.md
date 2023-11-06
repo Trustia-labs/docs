@@ -1,7 +1,8 @@
 ---
 description: Learn more about Value at Risk
-cover: ../../.gitbook/assets/baniere 2 (36) (1).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 108.63573543928925
 ---
 
 # Value at Risk
@@ -15,3 +16,5 @@ There are several methods for calculating VaR, ranging from simple methods based
 More info : [_Investopedia_](https://www.investopedia.com/terms/v/var.asp)
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Historical VaR</strong></td><td><a href="../../.gitbook/assets/Illustrations gitbookl.png">Illustrations gitbookl.png</a></td><td><a href="historical-var.md">historical-var.md</a></td></tr><tr><td><strong>Variance-Covariance VaR</strong></td><td><a href="../../.gitbook/assets/Illustrations gitbook m.png">Illustrations gitbook m.png</a></td><td><a href="variance-covariance-var.md">variance-covariance-var.md</a></td></tr><tr><td><strong>Monte Carlo VaR</strong></td><td><a href="../../.gitbook/assets/Illustrations gitbook m (1).png">Illustrations gitbook m (1).png</a></td><td><a href="monte-carlo-var.md">monte-carlo-var.md</a></td></tr></tbody></table>
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

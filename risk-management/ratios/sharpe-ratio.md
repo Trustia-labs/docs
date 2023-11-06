@@ -1,7 +1,8 @@
 ---
 description: Learn more about Sharpe Ratio
-cover: ../../.gitbook/assets/baniere 2 (50).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 108.63573543928925
 ---
 
 # Sharpe Ratio
@@ -25,3 +26,5 @@ _σ​_ = standard deviation of the portfolio’s excess return&#x20;
 {% endhint %}
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/s/sharperatio.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

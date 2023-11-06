@@ -1,7 +1,8 @@
 ---
 description: Learn more about Maximum Drawdown
-cover: ../../.gitbook/assets/baniere 2 (38).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 114.35340572556763
 ---
 
 # Maximum Drawdown
@@ -11,3 +12,5 @@ coverY: 0
 In finance, **drawdown** is a measure of the maximum loss suffered by an investment relative to its **all-time high (ATH)** point. In other words, it is the maximum decline in the price of an asset or portfolio from its highest achieved level. Drawdown is often used to measure the risk of an investment because it indicates the maximum amount that the investment has lost relative to its highest level.
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/d/drawdown.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

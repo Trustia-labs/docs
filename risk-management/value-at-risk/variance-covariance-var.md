@@ -1,7 +1,8 @@
 ---
 description: Learn more about Variance-Covariance VaR
-cover: ../../.gitbook/assets/baniere 2 (44).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 100.05923000987167
 ---
 
 # Variance-Covariance VaR
@@ -15,3 +16,5 @@ For example, if we want to calculate the 95% VaR of a stock portfolio, we can es
 The variance-covariance VaR is often used because it is simple to calculate and does not require detailed historical data. However, it may not be suitable for assets that have non-normal return distributions or for periods of market stress where volatility can vary significantly.
 
 More info : [_Investopedia_](https://www.investopedia.com/ask/answers/041715/what-variancecovariance-matrix-or-parametric-method-value-risk-var.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

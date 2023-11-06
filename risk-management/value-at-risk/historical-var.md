@@ -1,7 +1,8 @@
 ---
 description: Learn more about Historical VaR
-cover: ../../.gitbook/assets/baniere 2 (42) (1).png
-coverY: 0
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 114.35340572556763
 ---
 
 # Historical VaR
@@ -15,3 +16,5 @@ Although Historical VaR is simple to calculate and does not require sophisticate
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/h/historical-returns.asp)
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
