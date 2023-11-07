@@ -31,6 +31,8 @@ In practice, while a Sharpe ratio of 1 indicates that the investment is acceptab
 
 Having understood the significance of the Sharpe Ratio, let us suppose an investor wishes to make an investment in assets in such a way that the Sharpe Ratio of the portfolio would be the best possible or the maximum, that can be ensured for the investment.
 
+**The mathematical model for the Sharpe Ratio based Portfolio Optimization is given by :**&#x20;
+
 
 
 **Summary :** Maximizing the Sharpe ratio is an approach used in portfolio management to select assets or investments that offer the best risk-adjusted return. This strategy aims to construct a portfolio that provides the highest possible Sharpe ratio by combining assets with high returns and low volatility.
