@@ -1,3 +1,10 @@
+---
+description: Tutorial for configuring a model
+cover: >-
+  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 86.92991115498519
+---
+
 # Model configuration
 
 

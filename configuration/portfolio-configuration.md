@@ -1,3 +1,10 @@
+---
+description: Tutorial for configuring a portfolio
+cover: >-
+  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 88.10463968410662
+---
+
 # Portfolio configuration
 
 **7️⃣ - Go to the second strategy configuration tab (Portfolio configuration) :**

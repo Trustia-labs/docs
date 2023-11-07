@@ -1,3 +1,10 @@
+---
+description: Tutorial for interpreting backtesting data
+cover: >-
+  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+coverY: 76
+---
+
 # Backtest results
 
 **1️⃣ - On the fourth tab, “Backtest results” you can analyze the different metrics of your strategy :**
