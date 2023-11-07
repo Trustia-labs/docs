@@ -1,12 +1,18 @@
 # Model configuration
 
-## Weighting Strategies
 
-Each portfolio construction strategy offers distinct benefits and advantages. Consider your investment objectives, risk tolerance, and time horizon to determine the strategy that best suits your needs. Remember, diversification is key to managing risk effectively, and these methodologies provide you with powerful tools to achieve it.
 
 **1️⃣ - Go to the first configuration tab of a strategy (Model configuration) :**&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.49.21.png" alt=""><figcaption></figcaption></figure>
+
+## Weighting Strategies
+
+Over time, as a portfolio’s assets change in price it can easily move the portfolio to a position that risk and return become inconsistent with an investor’s goal and risk preferences. As some assets increase in weighting they make up a larger percentage of the portfolio; at the same time, the declining assets weighting falls and becomes a smaller percentage of the portfolio. If an investor does not rebalance the portfolio it will gradually move to high return and higher risk investments.
+
+Portfolio rebalancing forces an investor to buy low and sell high. For example, let’s say you have a target asset allocation of 40% for asset category A and a target asset allocation of 40% for asset category B. Then let’s assume asset A increases 50% and asset B declines by 50%. Now you own 3 times as much of asset A compared to asset B because asset A has increased to 60% of the portfolio and asset B has declined to 20% of the portfolio.
+
+After these fluctuations, not only is your asset allocation out of balance, but now you own more of an asset or category that has just risen 50% and may be overvalued, and own less of an asset or category that may be undervalued. Rebalancing allows an investor to sell overvalued assets and buy undervalue assets
 
 **2️⃣  - Then select the strategy model that best suits you, based on your objectives, your risk tolerance and the time horizon of your investments :**&#x20;
 
