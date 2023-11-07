@@ -1,5 +1,5 @@
 ---
-description: Learn more about Ratio
+description: Learn more about Ratios
 cover: >-
   ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
 coverY: 102.91806515301086

@@ -11,7 +11,10 @@
 
 ***
 
-* [Configuration](configuration.md)
+* [Configuration](configuration/README.md)
+  * [Model configuration](configuration/model-configuration.md)
+  * [Portfolio configuration](configuration/portfolio-configuration.md)
+  * [Backtest results](configuration/backtest-results.md)
 
 ## Services
 
