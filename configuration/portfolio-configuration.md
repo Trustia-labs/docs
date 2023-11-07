@@ -1,10 +1,10 @@
 # Portfolio configuration
 
-## Trading platforms
-
 **7️⃣ - Go to the second strategy configuration tab (Portfolio configuration) :**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 18.09.40.png" alt=""><figcaption></figcaption></figure>
+
+## Trading platforms
 
 #### Setting amount
 
@@ -83,4 +83,3 @@ If you want to change the size of your asset pool click on the “Portfolio conf
 **9️⃣ - Once you are satisfied with your asset pool click on "Backtest" to test your strategy :**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 20.51.40.png" alt=""><figcaption></figcaption></figure>
-

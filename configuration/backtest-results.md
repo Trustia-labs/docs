@@ -1,10 +1,10 @@
 # Backtest results
 
-## Backtest results
-
-On the fourth tab, “Backtest results” you can analyze the different metrics of your strategy.
+**1️⃣ - On the fourth tab, “Backtest results” you can analyze the different metrics of your strategy :**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 21.00.06.png" alt=""><figcaption></figcaption></figure>
+
+## Backtest results
 
 **9️⃣ - Easily compare your strategies with the main cryptoassets :**
 
