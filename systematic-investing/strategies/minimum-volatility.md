@@ -1,3 +1,7 @@
+---
+description: Learn more about Minimum Volatility Strategy
+---
+
 # Minimum Volatility
 
 ### **Minimum Volatility**&#x20;
