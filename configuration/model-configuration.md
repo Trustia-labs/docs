@@ -7,8 +7,6 @@ coverY: 86.92991115498519
 
 # Model configuration
 
-
-
 **1️⃣ - Go to the first configuration tab of a strategy (Model configuration) :**&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.49.21.png" alt=""><figcaption></figcaption></figure>
@@ -30,7 +28,7 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.48.52.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[🔗 Learn more about weighting strategies](../systematic-investing/strategies.md)
+[🔗 Learn more about weighting strategies](../systematic-investing/strategies/)
 {% endhint %}
 
 #### Max / Min Weighting

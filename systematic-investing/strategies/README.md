@@ -1,7 +1,7 @@
 ---
 description: Learn more about weighting strategies of Systematic Portfolio Management
 cover: >-
-  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
 coverY: 58.25271470878578
 ---
 
@@ -47,7 +47,7 @@ In practice, while a Sharpe ratio of 1 indicates that the investment is acceptab
 
 Having understood the significance of the Sharpe Ratio, let us suppose an investor wishes to make an investment in assets in such a way that the Sharpe Ratio of the portfolio would be the best possible or the maximum, that can be ensured for the investment.
 
-**The mathematical model for the Sharpe Ratio based Portfolio Optimization is given by :**&#x20;
+**The portfolio weighting is calculated using the following formula :**&#x20;
 
 
 
@@ -55,27 +55,17 @@ Having understood the significance of the Sharpe Ratio, let us suppose an invest
 
 ### **Minimum Volatility**&#x20;
 
-Minimum volatility investing seeks to build a portfolio of stocks that exhibits less variability than the broad market. It aims to provide investors with a smoother ride within equity allocations by creating a portfolio that exhibits less swings, up or down, than the market.
+In the pursuit of stabilizing equity allocations, the Minimum Volatility strategy stands out as a pragmatic approach. The goal is to construct a portfolio of securities that exhibit less variability compared to the overall market. This strategy aims to provide investors with a more linear experience within their equity allocations by creating a portfolio that experiences fewer fluctuations, both upwards and downwards, than the market in general.
 
-Imagine that you’re a hiker who has two potential paths to climb a mountain. One trail is very challenging. It’s steep, rocky, and has several parts where the path has sharp descents. While the trail is exhilarating, there is also the increased risk of injury or falling. Alternatively, there is a second trail that is more gradual and stable. While this trail may be less exciting, there is a much lower chance of getting injured or hurt.
+Consider the investor as a hiker facing two paths to climb a mountain. One of the routes is arduous, with steep slopes and sharp descents, promising an exciting but risky journey. The other path, smoother and more stable, though less thrilling, offers increased safety. In this metaphor, a minimum volatility strategy is akin to this second path: less perilous, it is designed to be more consistent.
 
-In this analogy, a minimum volatility strategy would look more like the second trail — less risky and designed to be more stable. A min vol portfolio can help investors navigate the risks of big fluctuations in the market. Just as hikers can still reach the summit of the mountain on a less challenging trail, investors can still pursue their investment goals while seeking to avoid stomach churning volatility.
+A minimum volatility portfolio allows investors to better navigate through significant market fluctuations. Just as hikers reach the summit via a less steep path, investors can pursue their investment goals while seeking to dodge market turbulence.
+
+**The portfolio weighting is calculated using the following formula :**&#x20;
 
 
 
 **Summary :** Minimum Volatility Weighting (or minimum volatility allocation) is an approach used in finance to construct a portfolio of assets that aims to find an optimal combination of weights assigned to each asset in the portfolio in order to minimize overall volatility.
-
-### **Efficient Return**&#x20;
-
-
-
-**Summary :** In this solution, the goal is to maximize the portfolio's return based on a target risk value set by the investor. This is very similar to the "efficient risk" solution. The optimizer will determine the set of weights that effectively seeks to maximize the return while adhering to the provided volatility, hence the name "efficient return.&#x20;
-
-### **Efficient Risk**&#x20;
-
-
-
-**Summary :** This approach aims to reduce risk while adhering to a target return value determined by the investor. It is important to note that the risk value for this type of portfolio will not be minimal, unlike the minimum variance solution. However, the optimizer will determine the weights that effectively allocate risk while adhering to the target return, hence the term "efficient risk.&#x20;
 
 ### **Maximum Return – Minimum Volatility**&#x20;
 
@@ -101,4 +91,4 @@ In this analogy, a minimum volatility strategy would look more like the second t
 
 **Summary :** In this solution, the objective is to minimize the correlation among the assets of a portfolio. The Maximum Decorrelation portfolio is closely related to Minimum Variance and Maximum Diversification approaches, but is applied in cases where an investor believes that all assets have similar returns and volatility but heterogeneous correlations. It is an optimization of Minimum Variance that is performed on the correlation matrix rather than the covariance matrix.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

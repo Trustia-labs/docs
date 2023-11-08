@@ -29,7 +29,7 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 10. **Maximum Decorrelation :** In this solution, the objective is to minimize the correlation among the assets of a portfolio. The Maximum Decorrelation portfolio is closely related to Minimum Variance and Maximum Diversification approaches, but is applied in cases where an investor believes that all assets have similar returns and volatility but heterogeneous correlations. It is an optimization of Minimum Variance that is performed on the correlation matrix rather than the covariance matrix.&#x20;
 
 {% hint style="info" %}
-[🔗 Learn more about weighting strategies](strategies.md)
+[🔗 Learn more about weighting strategies](strategies/)
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.04.53.png" alt=""><figcaption></figcaption></figure>

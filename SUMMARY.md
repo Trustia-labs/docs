@@ -6,7 +6,10 @@
 
 * [Introduction](systematic-investing/rebalancing-index-ai.md)
 * [Features](systematic-investing/rebalancing-index-ai-1.md)
-* [Strategies](systematic-investing/strategies.md)
+* [Strategies](systematic-investing/strategies/README.md)
+  * [Minimum Volatility](systematic-investing/strategies/minimum-volatility.md)
+  * [Efficient Risk](systematic-investing/strategies/efficient-risk.md)
+  * [Efficient Return](systematic-investing/strategies/efficient-return.md)
 * [Capital Protection](systematic-investing/capital-protection.md)
 
 ***

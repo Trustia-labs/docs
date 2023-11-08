@@ -7,7 +7,7 @@ coverY: 97.20039486673248
 
 # Risk Measures
 
-## **An Introduction to Key Financial Analysis Concepts and Metrics**
+### An Introduction to Key Financial Analysis Concepts and Metrics
 
 In the world of finance and investment, understanding and accurately assessing the performance and risk associated with a particular asset or strategy is crucial. A wide range of financial analysis concepts and metrics have been developed to help investors and traders make informed decisions, minimize risk, and optimize returns. In this comprehensive overview, we will introduce some essential concepts and metrics in the fields of risk measures and ratios.
 
