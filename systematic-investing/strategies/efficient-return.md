@@ -4,7 +4,7 @@ description: Learn more about Efficient Return Strategy
 
 # Efficient Return
 
-The "Efficient Yield" strategy is a portfolio construction method that aims to maximize return for a predefined level of risk. It relies on the efficient frontier to identify the optimal combination of asset weights in the portfolio.
+The "Efficient Return" strategy is a portfolio construction method that aims to maximize return for a predefined level of risk. It relies on the efficient frontier to identify the optimal combination of asset weights in the portfolio.
 
 Imagine a sailing race where the objective is to sail as fast as possible while remaining within the confines of a defined wind area. Sailors are constantly adjusting their sails to capture as much wind as possible without leaving the safe zone. In this scenario, the "wind" represents return, and the "defined wind area" symbolizes the targeted risk level. The challenge is to maximize speed or return, without exceeding the acceptable risk.
 

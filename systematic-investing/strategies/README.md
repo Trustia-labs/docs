@@ -53,19 +53,7 @@ Having understood the significance of the Sharpe Ratio, let us suppose an invest
 
 **Summary :** Maximizing the Sharpe ratio is an approach used in portfolio management to select assets or investments that offer the best risk-adjusted return. This strategy aims to construct a portfolio that provides the highest possible Sharpe ratio by combining assets with high returns and low volatility.
 
-### **Minimum Volatility**&#x20;
 
-In the pursuit of stabilizing equity allocations, the Minimum Volatility strategy stands out as a pragmatic approach. The goal is to construct a portfolio of securities that exhibit less variability compared to the overall market. This strategy aims to provide investors with a more linear experience within their equity allocations by creating a portfolio that experiences fewer fluctuations, both upwards and downwards, than the market in general.
-
-Consider the investor as a hiker facing two paths to climb a mountain. One of the routes is arduous, with steep slopes and sharp descents, promising an exciting but risky journey. The other path, smoother and more stable, though less thrilling, offers increased safety. In this metaphor, a minimum volatility strategy is akin to this second path: less perilous, it is designed to be more consistent.
-
-A minimum volatility portfolio allows investors to better navigate through significant market fluctuations. Just as hikers reach the summit via a less steep path, investors can pursue their investment goals while seeking to dodge market turbulence.
-
-**The portfolio weighting is calculated using the following formula :**&#x20;
-
-
-
-**Summary :** Minimum Volatility Weighting (or minimum volatility allocation) is an approach used in finance to construct a portfolio of assets that aims to find an optimal combination of weights assigned to each asset in the portfolio in order to minimize overall volatility.
 
 ### **Maximum Return – Minimum Volatility**&#x20;
 
