@@ -13,11 +13,25 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 
 ### **Equal**&#x20;
 
+Equal weight is a type of proportional measuring method that gives the same importance to each stock in a portfolio or index. So stocks of the smallest companies are given equal statistical significance, or weight, to the largest companies when it comes to evaluating the overall group's performance.
 
+The concept of equally-weighted portfolios has gained interest due to the historical performance of small-cap stocks and the emergence of several exchange-traded funds (ETFs). Standard & Poor's has developed more than 80 different equal-weight indices based on combinations of market cap, market, and sector.
+
+Small-cap stocks are generally considered to be higher risk, higher potential return investments compared to large-caps. In theory, giving greater weight to the smaller names of the S\&P 500 in an equal-weight portfolio should increase the return potential of the portfolio. Historically, this has been the case, in the short term. From September 2020 to September 2021, the total one-year return for the S\&P 500 Equal Weight Index (EWI) was 41.93%, vs. 33.72% for the traditional S\&P 500 Index.
+
+However, over the long term, the gap narrows—and in fact, the returns flip. The 10-year annualized total return (September 2019-September 2021) for the S\&P 500 Equal Weight Index was 15.32%, but the S\&P 500 outperformed it, returning 16.32%.
+
+Invesco offers more than a dozen different equal-weight funds covering not only major indices such as the S\&P 500 but also many of the market's major sectors. The Invesco S\&P 500 Equal Weight ETF (RSP), for example, provides the same exposure to the smallest companies in the S\&P 500 as it does to corporate giants such as General Electric.
 
 **Summary :** The Equal Weighting strategy equally assigns weights to each digital asset in your portfolio, thereby treating all assets with equal significance. This approach democratizes your investment portfolio and promotes diversification, mitigating the influence of any single digital asset.
 
 ### **Market Capitalization**&#x20;
+
+The weighted average market capitalization refers to a type of stock market index construction that is based on the market capitalization of the index's constituent stocks. Large companies would, therefore, account for a greater portion of an index than smaller stocks. This means the movement of an index would depend on a small set of stocks.
+
+The most well-known market capitalization weight index is the S\&P 500, which tracks the 500 largest assets by market capitalization. The top four holdings combine for over 10% of the entire index. These include Apple (AAPL), Microsoft (MSFT), Amazon (AMZN), and Meta, formerly Facebook, (META). The S\&P 500 is widely considered a gauge of the strength of the broader market and a benchmark for performance.
+
+The weighted average market capitalization is determined by multiplying the current market price by the number of outstanding shares and then taking an average to determine the weighting. For example, if a company's market capitalization is $1 million, and the market capitalization of all stocks in the index is $100 million, the company would represent 1% of the index. Morningstar calculates the metric by taking a geometric mean of the market capitalization of the stocks in a fund, whereas other providers use an arithmetic mean.
 
 
 
