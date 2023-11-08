@@ -23,6 +23,8 @@ However, over the long term, the gap narrows—and in fact, the returns flip. Th
 
 Invesco offers more than a dozen different equal-weight funds covering not only major indices such as the S\&P 500 but also many of the market's major sectors. The Invesco S\&P 500 Equal Weight ETF (RSP), for example, provides the same exposure to the smallest companies in the S\&P 500 as it does to corporate giants such as General Electric.
 
+
+
 **Summary :** The Equal Weighting strategy equally assigns weights to each digital asset in your portfolio, thereby treating all assets with equal significance. This approach democratizes your investment portfolio and promotes diversification, mitigating the influence of any single digital asset.
 
 ### **Market Capitalization**&#x20;
@@ -52,6 +54,12 @@ Having understood the significance of the Sharpe Ratio, let us suppose an invest
 **Summary :** Maximizing the Sharpe ratio is an approach used in portfolio management to select assets or investments that offer the best risk-adjusted return. This strategy aims to construct a portfolio that provides the highest possible Sharpe ratio by combining assets with high returns and low volatility.
 
 ### **Minimum Volatility**&#x20;
+
+Minimum volatility investing seeks to build a portfolio of stocks that exhibits less variability than the broad market. It aims to provide investors with a smoother ride within equity allocations by creating a portfolio that exhibits less swings, up or down, than the market.
+
+Imagine that you’re a hiker who has two potential paths to climb a mountain. One trail is very challenging. It’s steep, rocky, and has several parts where the path has sharp descents. While the trail is exhilarating, there is also the increased risk of injury or falling. Alternatively, there is a second trail that is more gradual and stable. While this trail may be less exciting, there is a much lower chance of getting injured or hurt.
+
+In this analogy, a minimum volatility strategy would look more like the second trail — less risky and designed to be more stable. A min vol portfolio can help investors navigate the risks of big fluctuations in the market. Just as hikers can still reach the summit of the mountain on a less challenging trail, investors can still pursue their investment goals while seeking to avoid stomach churning volatility.
 
 
 
