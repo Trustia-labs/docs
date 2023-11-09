@@ -18,19 +18,10 @@
   * [Maximum Diversification](systematic-investing/strategies/maximum-diversification.md)
   * [Maximum Decorrelation](systematic-investing/strategies/maximum-decorrelation.md)
 * [Capital Protection](systematic-investing/capital-protection.md)
-
-***
-
-* [Configuration](configuration/README.md)
-  * [Model configuration](configuration/model-configuration.md)
-  * [Portfolio configuration](configuration/portfolio-configuration.md)
-  * [Backtest results](configuration/backtest-results.md)
-
-## Services
-
-* [B2B](services/b2b/README.md)
-  * [Flexible Design](services/b2b/flexible-design.md)
-  * [Performance](services/b2b/performance.md)
+* [Configuration](systematic-investing/configuration/README.md)
+  * [Model configuration](systematic-investing/configuration/model-configuration.md)
+  * [Portfolio configuration](systematic-investing/configuration/portfolio-configuration.md)
+  * [Backtest results](systematic-investing/configuration/backtest-results.md)
 
 ## Risk management
 
@@ -59,3 +50,4 @@
 * [Website](https://www.trustia.finance/)
 * [Twitter](https://twitter.com/Trustia\_finance)
 * [LinkedIn](https://www.linkedin.com/company/trustia-finance)
+* [Blog](https://blog.trustia.finance/)
