@@ -13,8 +13,8 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 
 One part of the portfolio is invested in a low-risk asset in an income instrument and another part in risky reference assets. The balance between the two components is determined such that the final assets of the portfolio are at least equal to the guaranteed capital.
 
-* A risk-free asset&#x20;
-* A risky asset&#x20;
+* Low risk asset&#x20;
+* Risky asset&#x20;
 
 In rising markets, the strategy allocates more to the risky asset while in the falling market, the strategy allocates more to the safe asset.
 
