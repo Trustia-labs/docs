@@ -1,5 +1,9 @@
 ---
 description: Learn more about Market Capitalization Strategy
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
+  (1).jpeg
+coverY: 116
 ---
 
 # Market Capitalization
@@ -15,3 +19,5 @@ The construction of a market capitalization-weighted portfolio involves identify
 ### **Summary**&#x20;
 
 The Market Capitalization Weighting strategy is a method of portfolio construction that involves weighting assets based on their market capitalization. Assets with higher market capitalization will have a greater weighting in the portfolio compared to assets with lower market capitalization. This strategy suits investors seeking exposure to leading market players.
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

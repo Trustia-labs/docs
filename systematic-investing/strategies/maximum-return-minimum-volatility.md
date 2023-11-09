@@ -1,5 +1,9 @@
 ---
 description: Learn more about Maximum Return – Minimum Volatility Strategy
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
+  (1).jpeg
+coverY: 116
 ---
 
 # Maximum Return – Minimum Volatility
@@ -21,3 +25,5 @@ where $$λ$$ is the risk aversion parameter, $$wTΣw$$ is the portfolio variance
 ### **Summary**&#x20;
 
 This is often referred to as quadratic risk utility. The objective function consists of both the portfolio return and the risk. Thus, minimising the objective relates to minimising the risk and correspondingly maximising the return. The risk aversion parameter models the level of risk a user is willing to take. A higher value indicates that the investor will prioritize high defense against risk at the expense of lower returns, while a lower value places more emphasis on maximizing returns, disregarding the associated risk.&#x20;
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

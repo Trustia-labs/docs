@@ -1,5 +1,9 @@
 ---
 description: Learn more about Efficient Return Strategy
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
+  (1).jpeg
+coverY: 81.2615255658005
 ---
 
 # Efficient Return
@@ -25,3 +29,5 @@ where $$μ$$ is the vector of expected asset returns, $$w$$ is the portfolio wei
 ### **Summary**&#x20;
 
 In this solution, the goal is to maximize the portfolio's return based on a target risk value set by the investor. This is very similar to the "efficient risk" solution. The optimizer will determine the set of weights that effectively seeks to maximize the return while adhering to the provided volatility, hence the name "efficient return".
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

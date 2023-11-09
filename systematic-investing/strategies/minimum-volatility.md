@@ -1,5 +1,9 @@
 ---
 description: Learn more about Minimum Volatility Strategy
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
+  (1).jpeg
+coverY: 81.2615255658005
 ---
 
 # Minimum Volatility
@@ -23,3 +27,5 @@ where $$w$$ represents the vector of weights assigned to each asset in the portf
 {% endhint %}
 
 **Summary :** Minimum Volatility Weighting (or minimum volatility allocation) is an approach used in finance to construct a portfolio of assets that aims to find an optimal combination of weights assigned to each asset in the portfolio in order to minimize overall volatility.
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

@@ -1,5 +1,9 @@
 ---
 description: Learn more about Maximum Diversification Strategy
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
+  (1).jpeg
+coverY: 80.55490360435876
 ---
 
 # Maximum Diversification
@@ -21,3 +25,5 @@ The diversification measure is $$D$$, $$w$$ is the vector of asset weightings, $
 ### **Summary**&#x20;
 
 The maximum diversification portfolio aims to allocate investments across the largest number of assets possible to achieve maximum diversification. Greater diversification within a portfolio reduces the denominator and leads to a higher diversification ratio.&#x20;
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

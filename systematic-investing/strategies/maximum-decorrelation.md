@@ -1,5 +1,9 @@
 ---
 description: Learn more about Maximum Decorrelation Strategy
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
+  (1).jpeg
+coverY: 114
 ---
 
 # Maximum Decorrelation
@@ -21,3 +25,5 @@ $$w$$ is the vector of portfolio weights, $$A$$ is the correlation matrix, which
 ### **Summary**&#x20;
 
 In this solution, the objective is to minimize the correlation among the assets of a portfolio. The Maximum Decorrelation portfolio is closely related to Minimum Variance and Maximum Diversification approaches, but is applied in cases where an investor believes that all assets have similar returns and volatility but heterogeneous correlations. It is an optimization of Minimum Variance that is performed on the correlation matrix rather than the covariance matrix.&#x20;
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

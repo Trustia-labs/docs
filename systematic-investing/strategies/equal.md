@@ -1,5 +1,9 @@
 ---
 description: Learn more about Equal Strategy
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
+  (1).jpeg
+coverY: 113
 ---
 
 # Equal
@@ -15,3 +19,5 @@ From September 2020 to September 2021, the total one-year return for the S\&P 50
 ### **Summary**&#x20;
 
 The Equal Weighting strategy equally assigns weights to each digital asset in your portfolio, thereby treating all assets with equal significance. This approach democratizes your investment portfolio and promotes diversification, mitigating the influence of any single digital asset.
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

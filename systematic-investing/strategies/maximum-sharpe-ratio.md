@@ -1,5 +1,9 @@
 ---
 description: Learn more about Maximum Sharpe Ratio Strategy
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
+  (1).jpeg
+coverY: 114
 ---
 
 # Maximum Sharpe Ratio
@@ -21,3 +25,5 @@ In this formula,$$μTw$$ represents the expected return of the portfolio, $$rf�
 ### **Summary**&#x20;
 
 Maximizing the Sharpe ratio is an approach used in portfolio management to select assets or investments that offer the best risk-adjusted return. This strategy aims to construct a portfolio that provides the highest possible Sharpe ratio by combining assets with high returns and low volatility.
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>

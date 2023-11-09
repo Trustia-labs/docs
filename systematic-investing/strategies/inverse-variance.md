@@ -1,5 +1,9 @@
 ---
 description: Learn more about Inverse Variance Strategy
+cover: >-
+  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
+  (1).jpeg
+coverY: 79.84828164291702
 ---
 
 # Inverse Variance
@@ -21,3 +25,5 @@ Here, $$wi​$$ is the weight of the ith asset, $$σi2​$$ is the variance of t
 ### **Summary**&#x20;
 
 For this solution, the diagonal of the covariance matrix is used for weight allocation. The weight assigned to the asset in a portfolio is the element on the main diagonal of the covariance matrix of the portfolio's elements divided by the number of elements in the portfolio.&#x20;
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
