@@ -7,10 +7,16 @@
 * [Introduction](systematic-investing/rebalancing-index-ai.md)
 * [Features](systematic-investing/rebalancing-index-ai-1.md)
 * [Strategies](systematic-investing/strategies/README.md)
+  * [Market Capitalization](systematic-investing/strategies/market-capitalization.md)
+  * [Equal](systematic-investing/strategies/equal.md)
   * [Maximum Sharpe Ratio](systematic-investing/strategies/maximum-sharpe-ratio.md)
   * [Minimum Volatility](systematic-investing/strategies/minimum-volatility.md)
   * [Efficient Risk](systematic-investing/strategies/efficient-risk.md)
   * [Efficient Return](systematic-investing/strategies/efficient-return.md)
+  * [Maximum Return – Minimum Volatility](systematic-investing/strategies/maximum-return-minimum-volatility.md)
+  * [Inverse Variance](systematic-investing/strategies/inverse-variance.md)
+  * [Maximum Diversification](systematic-investing/strategies/maximum-diversification.md)
+  * [Maximum Decorrelation](systematic-investing/strategies/maximum-decorrelation.md)
 * [Capital Protection](systematic-investing/capital-protection.md)
 
 ***

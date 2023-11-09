@@ -21,7 +21,3 @@ Where $$w$$ is the vector of portfolio weights, $$Σ$$ eis the covariance matrix
 ### **Summary**&#x20;
 
 This approach aims to reduce risk while adhering to a target return value determined by the investor. It is important to note that the risk value for this type of portfolio will not be minimal, unlike the minimum variance solution. However, the optimizer will determine the weights that effectively allocate risk while adhering to the target return, hence the term "efficient risk.
-
-
-
-\
