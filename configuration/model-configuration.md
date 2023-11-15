@@ -45,15 +45,11 @@ If you do not want a minimum size set the parameter to 0% and if you do not want
 This function is not available for the strategies: Equal and market capitalization.
 {% endhint %}
 
-### Additional parameters
+#### Additional parameters
 
-#### Max Return / Min Volatility&#x20;
+**Max Return / Min Volatility :** The additional parameter represents your risk aversion between 1 and 100. The higher your risk aversion, the larger the number and the lower your aversion, the smaller the risk.
 
-The additional parameter represents your risk aversion between 1 and 100. The higher your risk aversion, the larger the number and the lower your aversion, the smaller the risk.
-
-#### Efficient Risk & Efficient Return&#x20;
-
-Target return is calculated as the capital invested in a portfolio, plus the profit the investor wishes to obtain in return. The additional parameter represents the percentage of your target return on the portfolio.
+**Efficient Risk & Efficient Return :** Target return is calculated as the capital invested in a portfolio, plus the profit the investor wishes to obtain in return. The additional parameter represents the percentage of your target return on the portfolio.
 
 **4️⃣  - Indicate your risk aversion for Max Return / Min Volatility strategies and set your target return for Efficient Risk & Efficient Return strategies**
 
