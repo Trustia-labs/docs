@@ -45,13 +45,31 @@ If you do not want a minimum size set the parameter to 0% and if you do not want
 This function is not available for the strategies: Equal and market capitalization.
 {% endhint %}
 
+### Additional parameters
+
+#### Max Return / Min Volatility&#x20;
+
+The additional parameter represents your risk aversion between 1 and 100. The higher your risk aversion, the larger the number and the lower your aversion, the smaller the risk.
+
+#### Efficient Risk & Efficient Return&#x20;
+
+Target return is calculated as the capital invested in a portfolio, plus the profit the investor wishes to obtain in return. The additional parameter represents the percentage of your target return on the portfolio.
+
+**4️⃣  - Indicate your risk aversion for Max Return / Min Volatility strategies and set your target return for Efficient Risk & Efficient Return strategies**
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-15 à 18.40.20.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+Additional parameters are only available for the strategies: Max Return / Min Volatility, Efficient Risk and Efficient Return strategies
+{% endhint %}
+
 ## Rebalancing occurrence
 
 Over time, asset allocations may change as market performance changes asset values. Rebalancing involves the periodic purchase or sale of assets in a portfolio to return to and maintain the desired initial level of asset allocation. These levels are intended to match your risk tolerance and desire for reward.
 
 The rebalancing occurrence defines the time period between each reallocation of portfolio assets. Too short a period between each portfolio reallocation can result in a significant cost in transaction fees on your exchange platform and therefore harm the performance of your strategy. Conversely, too long a period between each rebalancing can also negatively impact your strategy.
 
-**3️⃣ - Determine the temporality in each rebalancing :**
+**5️⃣ - Determine the temporality in each rebalancing :**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-05 à 00.33.11.png" alt=""><figcaption></figcaption></figure>
 
@@ -64,7 +82,7 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 * **Drawdown :** The floor value is represented by the predefined percentage, compared to the maximum value of the portfolio which is 100%. In the event of an increase in the value of the portfolio's assets, the new maximum value of the portfolio therefore becomes 100% for the predefined floor value.
 * **Fixed :** The floor value is defined by the value of the initial investment, less the cushion value. The value of the initial investment therefore remains 100% of the floor value, even in the event of an increase in the maximum value of the portfolio.
 
-**4️⃣ - If you want to use CPPI, choose a type of floor :**
+**6️⃣ - If you want to use CPPI, choose a type of floor :**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-05 à 00.48.11.png" alt=""><figcaption></figcaption></figure>
 
@@ -74,7 +92,7 @@ The multiplier allows you to add leverage to the cushion value in order to incre
 
 For example, assume that the maximum potential loss between two rebalancing dates is 20% of the cushion value. In this case, you could use a multiplier of factor 5 to expose yourself to 100% of the cushion value, or a multiplier of factor 3 to expose yourself to 60% of the cushion value.
 
-**5️⃣ - Adapt your multiplier based on the maximum potential loss between two rebalancing dates :**
+**7️⃣ - Adapt your multiplier based on the maximum potential loss between two rebalancing dates :**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 17.58.14.png" alt=""><figcaption></figcaption></figure>
 
@@ -86,7 +104,7 @@ If you use a multiplier that is too high relative to the maximum potential loss 
 
 The “Floor” is defined as a fraction of the current value of the portfolio that the investor cannot afford to lose.
 
-**6️⃣ - Define the percentage of your capital you want to protect :**
+**8️⃣ - Define the percentage of your capital you want to protect :**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 00.29.45.png" alt=""><figcaption></figcaption></figure>
 
