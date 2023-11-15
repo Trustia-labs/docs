@@ -11,25 +11,23 @@ coverY: 76
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 21.00.06.png" alt=""><figcaption></figcaption></figure>
 
-## Backtest results
-
 **9️⃣ - Easily compare your strategies with the main cryptoassets :**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 21.05.24.png" alt=""><figcaption></figcaption></figure>
 
-#### Global information
+### Global information
 
 Here you see the information relating to the strategy that you have just backtested. So these are all the settings you defined during the configuration step.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 21.05.56.png" alt=""><figcaption></figcaption></figure>
 
-#### Performance
+### Performance
 
 Here you can see the final performance of the strategy you just backtested.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.38.03.png" alt=""><figcaption></figcaption></figure>
 
-#### Returns
+### Returns
 
 **Adjusted returns** by the **risk-free rate** is a measure that takes into account the risk-free interest rate in the calculation of the returns of a portfolio or a financial asset. The risk-free rate represents the return that can be obtained without taking any risk, for example, by investing in government bonds.
 
@@ -43,7 +41,7 @@ The **average return** of a trading strategy or portfolio is a statistical measu
 [🔗 Learn more about Average Returns](../risk-management/risk-measures/average-returns.md)
 {% endhint %}
 
-#### Ratios
+### Ratios
 
 Ratios such as the Sharpe Ratio, Calmar Ratio, Treynor Ratio, and Sortino Ratio are crucial for evaluating the performance of an investment while taking into account the risk associated with that investment. These ratios enable investors to compare different investment options and strategies, taking into account various aspects of risk and return.
 
@@ -53,7 +51,7 @@ Ratios such as the Sharpe Ratio, Calmar Ratio, Treynor Ratio, and Sortino Ratio 
 [🔗 Learn more about Ratios](../risk-management/ratios/)
 {% endhint %}
 
-#### Volatility
+### Volatility
 
 Volatility is a measure of the variability of a financial asset's returns over time. It measures the magnitude of price fluctuations of a financial asset and thus indicates the amount of risk associated with that asset.
 
@@ -67,7 +65,7 @@ Risk measurement in trading is a method used to assess the level of risk in a tr
 [🔗 Learn more about Risk Measures](../risk-management/risk-measures/)
 {% endhint %}
 
-#### Value at Risk
+### Value at Risk
 
 **Value at Risk (VaR)** is defined as the potential financial loss amount within a specific enterprise, portfolio or position over a given **time period** with a certain **confidence interval**. Risk managers use VaR to understand and control the level of risk exposure of a specific position or entire portfolio and use it to measure the overall risk exposure of an asset.
 
@@ -77,4 +75,44 @@ Risk measurement in trading is a method used to assess the level of risk in a tr
 [🔗 Learn more about Value at Risk](../risk-management/value-at-risk/)
 {% endhint %}
 
-#### Charts
+## Charts
+
+### Portfolio Performance&#x20;
+
+Performance of the portfolio in relation to the assets that compose it. You can see the individual performance of each asset against the portfolio.
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Bar_performance.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Portfolio_performance.png" alt=""><figcaption></figcaption></figure>
+
+### Drawdown
+
+In finance, drawdown is a measure of the maximum loss suffered by an investment relative to its all-time high (ATH) point. In other words, it is the maximum drop in the price of the portfolio compared to its highest level reached.
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Portfolio_drawdown_2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+[🔗 Learn more about Drawdown ](../risk-management/risk-measures/maximum-drawdown.md)
+{% endhint %}
+
+### Historical Portfolio Weighting
+
+
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Historical_weighting.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Pie_weighting.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Scatter_comparison.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Spyder_graph.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Efficient_frontier.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Rolling_volatility.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Value_at_Risk.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Covariance_matrix.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Correlation_matrix.png" alt=""><figcaption></figcaption></figure>
