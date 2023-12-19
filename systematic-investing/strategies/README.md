@@ -1,8 +1,7 @@
 ---
 description: Learn more about weighting strategies of Systematic Portfolio Management
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 58.25271470878578
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Strategies

@@ -1,9 +1,7 @@
 ---
 description: Learn more about Inverse Variance Strategy
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
-  (1).jpeg
-coverY: 79.84828164291702
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Inverse Variance

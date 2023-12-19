@@ -1,9 +1,7 @@
 ---
 description: Learn more about Minimum Volatility Strategy
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
-  (1).jpeg
-coverY: 81.2615255658005
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Minimum Volatility

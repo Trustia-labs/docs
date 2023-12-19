@@ -1,8 +1,7 @@
 ---
 description: Tutorial for configuring a model
-cover: >-
-  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 86.92991115498519
+cover: ../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Model configuration

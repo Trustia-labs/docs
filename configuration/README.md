@@ -1,8 +1,7 @@
 ---
 description: Tutorial for configuring a strategy
-cover: >-
-  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 62.41362290227048
+cover: ../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Configuration

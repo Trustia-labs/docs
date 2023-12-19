@@ -1,8 +1,7 @@
 ---
 description: Learn more about Sortino Ratio
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 102.91806515301087
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Sortino Ratio

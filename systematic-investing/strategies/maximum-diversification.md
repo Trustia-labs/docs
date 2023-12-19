@@ -1,9 +1,7 @@
 ---
 description: Learn more about Maximum Diversification Strategy
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
-  (1).jpeg
-coverY: 80.55490360435876
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Maximum Diversification

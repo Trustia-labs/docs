@@ -1,8 +1,7 @@
 ---
 description: Learn more about Calmar Ratio
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 100.05923000987167
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Calmar Ratio

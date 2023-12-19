@@ -1,8 +1,7 @@
 ---
 description: Tutorial for interpreting backtesting data
-cover: >-
-  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 76
+cover: ../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Backtest results

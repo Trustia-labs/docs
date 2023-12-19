@@ -1,8 +1,7 @@
 ---
 description: Learn more about CPPI of Systematic Portfolio Management
-cover: >-
-  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 104.61105626850937
+cover: ../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Capital Protection

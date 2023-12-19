@@ -1,8 +1,7 @@
 ---
 description: Tutorial for configuring a portfolio
-cover: >-
-  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 88.10463968410662
+cover: ../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Portfolio configuration

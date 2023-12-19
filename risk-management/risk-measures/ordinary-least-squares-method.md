@@ -1,8 +1,7 @@
 ---
 description: Learn more about Ordinary Least Squares Method
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 107.20631786771965
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Ordinary Least Squares Method

@@ -1,8 +1,7 @@
 ---
 description: Learn more about Risk Measures
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 97.20039486673248
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Risk Measures

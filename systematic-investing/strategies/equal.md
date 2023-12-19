@@ -1,9 +1,7 @@
 ---
 description: Learn more about Equal Strategy
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640
-  (1).jpeg
-coverY: 113
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Equal

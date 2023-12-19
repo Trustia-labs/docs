@@ -1,8 +1,7 @@
 ---
 description: Learn more about Adjusted Returns
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 101.48864758144127
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Adjusted Returns

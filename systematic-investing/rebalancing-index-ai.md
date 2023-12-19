@@ -1,8 +1,7 @@
 ---
 description: Learn more about Systematic Portfolio Management
-cover: >-
-  ../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 60.7492596248766
+cover: ../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Introduction

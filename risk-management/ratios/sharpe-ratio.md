@@ -1,8 +1,7 @@
 ---
 description: Learn more about Sharpe Ratio
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 108.63573543928925
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Sharpe Ratio

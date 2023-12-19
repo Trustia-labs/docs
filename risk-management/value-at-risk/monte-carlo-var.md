@@ -1,8 +1,7 @@
 ---
 description: Learn more about Monte Carlo VaR
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 111.49457058242844
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Monte Carlo VaR

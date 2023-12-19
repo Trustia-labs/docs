@@ -1,8 +1,7 @@
 ---
 description: Learn more about Treynor Ratio
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 110.06515301085884
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Treynor Ratio

@@ -1,8 +1,7 @@
 ---
 description: Learn more about strategy backtesting features
-cover: >-
-  ../../.gitbook/assets/modern-architecture-building-office-geometric-blue-2560x1440-6640.jpeg
-coverY: 90.0533070088845
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
+coverY: 0
 ---
 
 # Features
