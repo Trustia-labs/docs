@@ -1,14 +1,14 @@
 ---
-description: Tutorial for configuring a model
-cover: ../.gitbook/assets/GitBook cover Trustia.png
+description: Tutorial for configuring a strategy
+cover: ../../.gitbook/assets/GitBook cover Trustia.png
 coverY: 0
 ---
 
-# Model configuration
+# Strategy configurations
 
-**1️⃣ - Go to the first configuration tab of a strategy (Model configuration) :**&#x20;
+**1️⃣ - Go to the first configuration tab of a strategy (Strategy configurations) :**&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.49.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 14.51.00.png" alt=""><figcaption></figcaption></figure>
 
 ## Weighting Strategies
 
@@ -24,10 +24,10 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 
 **2️⃣  - Then select the strategy model that best suits you, based on your objectives, your risk tolerance and the time horizon of your investments :**&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.48.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 22.48.52.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[🔗 Learn more about weighting strategies](../systematic-investing/strategies/)
+[🔗 Learn more about weighting strategies](../strategies/)
 {% endhint %}
 
 #### Max / Min Weighting
@@ -38,7 +38,7 @@ If you do not want a minimum size set the parameter to 0% and if you do not want
 
 **3️⃣ - Choose the maximum and minimum weighting of each asset in your strategy :**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-07 à 14.27.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-07 à 14.27.11.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 This function is not available for the strategies: Equal and market capitalization.
@@ -52,7 +52,7 @@ This function is not available for the strategies: Equal and market capitalizati
 
 **4️⃣  - Indicate your risk aversion for Max Return / Min Volatility strategies and set your target return for Efficient Risk & Efficient Return strategies**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-15 à 18.40.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-15 à 18.40.20.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Additional parameters are only available for the strategies: Max Return / Min Volatility, Efficient Risk and Efficient Return strategies
@@ -66,7 +66,7 @@ The rebalancing occurrence defines the time period between each reallocation of 
 
 **5️⃣ - Determine the temporality in each rebalancing :**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-05 à 00.33.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-05 à 00.33.11.png" alt=""><figcaption></figcaption></figure>
 
 ## Capital Protection (CPPI)
 
@@ -79,7 +79,7 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 
 **6️⃣ - If you want to use CPPI, choose a type of floor :**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-05 à 00.48.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-05 à 00.48.11.png" alt=""><figcaption></figcaption></figure>
 
 #### Multiplier
 
@@ -89,7 +89,7 @@ For example, assume that the maximum potential loss between two rebalancing date
 
 **7️⃣ - Adapt your multiplier based on the maximum potential loss between two rebalancing dates :**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 17.58.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-06 à 17.58.14.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 If you use a multiplier that is too high relative to the maximum potential loss between two rebalancing dates, there is a risk that capital protection will be breached if your risky assets experience a sudden steep decline.
@@ -101,15 +101,15 @@ The “Floor” is defined as a fraction of the current value of the portfolio t
 
 **8️⃣ - Define the percentage of your capital you want to protect :**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 00.29.45.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-06 à 00.29.45.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-[🔗 Learn more about CPPI](../systematic-investing/capital-protection.md)
+[🔗 Learn more about CPPI](../capital-protection.md)
 {% endhint %}
 
 #### Continue
 
 **9️⃣ - Once you have adjusted the various parameters of your strategy, click on “Portfolio Configuration” to continue :**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-07 à 14.45.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-07 à 14.45.24.png" alt=""><figcaption></figcaption></figure>
 

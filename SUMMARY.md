@@ -19,7 +19,7 @@
   * [Maximum Decorrelation](systematic-investing/strategies/maximum-decorrelation.md)
 * [Capital Protection](systematic-investing/capital-protection.md)
 * [Configuration](configuration/README.md)
-  * [Model configuration](configuration/model-configuration.md)
+  * [Strategy configurations](systematic-investing/configuration/strategy-configurations.md)
   * [Portfolio configuration](configuration/portfolio-configuration.md)
   * [Backtest results](configuration/backtest-results.md)
 
