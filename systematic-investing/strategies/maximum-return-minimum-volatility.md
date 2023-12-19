@@ -1,6 +1,6 @@
 ---
 description: Learn more about Maximum Return – Minimum Volatility Strategy
-cover: ../../.gitbook/assets/GitBook cover Trustia.png
+cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
@@ -24,4 +24,4 @@ where $$λ$$ is the risk aversion parameter, $$wTΣw$$ is the portfolio variance
 
 This is often referred to as quadratic risk utility. The objective function consists of both the portfolio return and the risk. Thus, minimising the objective relates to minimising the risk and correspondingly maximising the return. The risk aversion parameter models the level of risk a user is willing to take. A higher value indicates that the investor will prioritize high defense against risk at the expense of lower returns, while a lower value places more emphasis on maximizing returns, disregarding the associated risk.&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>

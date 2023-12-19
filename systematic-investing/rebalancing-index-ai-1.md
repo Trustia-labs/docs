@@ -1,6 +1,6 @@
 ---
 description: Learn more about features of Systematic Portfolio Management
-cover: ../.gitbook/assets/GitBook cover Trustia.png
+cover: ../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
@@ -10,7 +10,7 @@ coverY: 0
 
 Our product offers a comprehensive suite of statistical algorithms powered tools for digital asset portfolio construction and management that cater to a wide range of investment strategies and goals. Alongside Dynamic Asset Allocation and Customized Strategy features, our product assures a flexible, adaptive, and bespoke approach to meet your unique investment needs. Utilizing these methodologies, you can manage risk effectively and achieve your investment objectives in the evolving digital financial landscape.
 
-### Weighting Strategies
+## Weighting Strategies
 
 Our statistical algorithms can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—it's efficient for you. For example, if you have a long-term investment horizon and a high-risk tolerance, the statistical algorithm could craft a strategy that leans heavily into high-growth, high-volatility assets.
 
@@ -31,9 +31,9 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 [🔗 Learn more about weighting strategies](strategies/)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.04.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
 
-### **Dynamic Asset Allocation**&#x20;
+## **Dynamic Asset Allocation**&#x20;
 
 Our product doesn't just set and forget; it continuously analyzes market conditions to adjust your portfolio's asset allocation. This helps maintain a predefined level of risk or target a specific performance benchmark, adapting to market shifts and trends. Consider a market downturn where certain sectors are hit hard. Our dynamic asset allocation tool would adjust the weights of these underperforming assets to protect your portfolio.
 
@@ -41,7 +41,7 @@ Our product doesn't just set and forget; it continuously analyzes market conditi
 Over time, asset allocations can change as market performance alters the values of the assets. Rebalancing involves periodically buying or selling the assets in a portfolio to regain and maintain that original, desired level of asset allocation. Those levels are intended to match an investor's tolerance for risk and desire for reward.
 {% endhint %}
 
-### Capital Protection
+## Capital Protection
 
 The CPPI is a type of portfolio insurance in which the investor sets a floor on the percentage value of their portfolio, then structures the asset allocation around this condition. Our CPPI module offers the possibility of protecting your capital, thus adding an additional layer of security to your systematic portfolio management strategies.
 
@@ -54,9 +54,9 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 [🔗 Learn more about CPPI](capital-protection.md)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>
 
-### Backtesting Strategy
+## Backtesting Strategy
 
 Backtesting is an essential step in the systematic portfolio management process, offering investors insights into how their investment strategies would have performed historically. Our Backtesting module utilizes powerful statistical algorithms to simulate the execution of your tailored investment strategy on past financial data, providing a data-driven basis to anticipate potential future performance.
 
@@ -72,4 +72,4 @@ We provide a suite of performance metrics that detail the gains, losses, risk-ad
 [🔗 Learn more about Backtesting](../risk-management/backtesting-strategies/)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-04 à 22.04.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt=""><figcaption></figcaption></figure>

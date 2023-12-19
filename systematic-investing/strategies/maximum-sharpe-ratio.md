@@ -1,6 +1,6 @@
 ---
 description: Learn more about Maximum Sharpe Ratio Strategy
-cover: ../../.gitbook/assets/GitBook cover Trustia.png
+cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
@@ -24,4 +24,4 @@ In this formula,$$μTw$$ represents the expected return of the portfolio, $$rf�
 
 Maximizing the Sharpe ratio is an approach used in portfolio management to select assets or investments that offer the best risk-adjusted return. This strategy aims to construct a portfolio that provides the highest possible Sharpe ratio by combining assets with high returns and low volatility.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>

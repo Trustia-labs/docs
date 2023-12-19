@@ -1,6 +1,6 @@
 ---
 description: Learn more about Variance-Covariance VaR
-cover: ../../.gitbook/assets/GitBook cover Trustia.png
+cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
@@ -16,4 +16,4 @@ The variance-covariance VaR is often used because it is simple to calculate and 
 
 More info : [_Investopedia_](https://www.investopedia.com/ask/answers/041715/what-variancecovariance-matrix-or-parametric-method-value-risk-var.asp)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>

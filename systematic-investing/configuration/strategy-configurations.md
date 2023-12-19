@@ -1,6 +1,6 @@
 ---
 description: Tutorial for configuring a strategy
-cover: ../../.gitbook/assets/GitBook cover Trustia.png
+cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
@@ -108,6 +108,8 @@ This function is not available for the strategies: Equal and market capitalizati
 Additional parameters are only available for the strategies: Max Return / Min Volatility, Efficient Risk and Efficient Return strategies
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## Rebalancing occurrence
@@ -125,6 +127,8 @@ The rebalancing occurrence defines the time period between each reallocation of 
 **5️⃣ - Determine the temporality in each rebalancing :**
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 16.25.32 (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -198,6 +202,8 @@ If you use a multiplier that is too high relative to the maximum potential loss 
 [🔗 Learn more about CPPI](../capital-protection.md)
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## Trading platforms
@@ -215,6 +221,8 @@ The API key is linked to your exchange platform, therefore provided by this same
 **1️⃣0️⃣ - Set the amount you want to allocate to your strategy (in $USDT) :**
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.18.42.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -256,6 +264,8 @@ Depending on the strategy and parameters you have defined, the algorithm will bu
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.27.40.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 ## Assets selection
@@ -264,16 +274,16 @@ Depending on the strategy and parameters you have defined, the algorithm will bu
 
 Here you can see the assets that were selected by the algorithm for your asset pool. You can modify your pool by including or excluding assets, but you must select exactly the amount of assets that you previously chose for your pool. Refer to the purple bar to find your way.
 
-**8️⃣ - You can easily remove an asset from your pool by clicking on the pre-selected asset :** &#x20;
+**1️⃣4️⃣ - You can easily remove an asset from your pool by clicking on the pre-selected asset :** &#x20;
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.03.27.png" alt=""><figcaption></figcaption></figure>
 
-**9️⃣ - You can also add more to your asset pool by using the search bar or scrolling through the list of assets. Type the symbol of the asset you want in the search bar :**&#x20;
+**1️⃣5️⃣ - You can also add more to your asset pool by using the search bar or scrolling through the list of assets. Type the symbol of the asset you want in the search bar :**&#x20;
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.06.17.png" alt=""><figcaption></figcaption></figure>
 
 ### Continue
 
-**1️⃣0️⃣ - Once you are satisfied with your asset pool click on "Backtest" to test your strategy :**
+**1️⃣6️⃣ - Once you are satisfied with your asset pool click on "Backtest" to test your strategy :**
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.10.44.png" alt=""><figcaption></figcaption></figure>

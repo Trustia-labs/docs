@@ -1,6 +1,6 @@
 ---
 description: Learn more about Monte Carlo Simulations
-cover: ../../.gitbook/assets/GitBook cover Trustia.png
+cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
@@ -22,7 +22,7 @@ At the core of the geometric Brownian motion model lies a general process known 
 
 By combining the power of Monte Carlo simulations with the insights provided by geometric Brownian motion and Ito's lemma, investors can gain a deeper understanding of their investment portfolios' potential performance under a wide range of market conditions. This valuable knowledge empowers them to make more informed decisions, optimize their portfolios, and better navigate the ever-changing financial landscape.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 22.04.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
 
 #### **Ito Process :**
 
@@ -62,4 +62,4 @@ $$
 
 The geometric Brownian motion as described above will be the mathematical basis of our simulations.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt=""><figcaption></figcaption></figure>

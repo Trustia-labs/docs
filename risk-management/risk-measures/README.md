@@ -1,6 +1,6 @@
 ---
 description: Learn more about Risk Measures
-cover: ../../.gitbook/assets/GitBook cover Trustia.png
+cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
@@ -22,4 +22,4 @@ Risk measurement is important for traders and investors because it allows them t
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Average Returns</strong></td><td><a href="../../.gitbook/assets/Illustrations gitbook (11).png">Illustrations gitbook (11).png</a></td><td><a href="average-returns.md">average-returns.md</a></td></tr><tr><td><strong>Adjusted Returns</strong></td><td><a href="../../.gitbook/assets/Illustrations gitbook (1) (4).png">Illustrations gitbook (1) (4).png</a></td><td><a href="adjusted-returns.md">adjusted-returns.md</a></td></tr><tr><td><strong>Volatility</strong></td><td><a href="../../.gitbook/assets/Illustrations gitbook (3) (1).png">Illustrations gitbook (3) (1).png</a></td><td><a href="volatility.md">volatility.md</a></td></tr><tr><td><strong>Maximum Drawdown</strong></td><td><a href="../../.gitbook/assets/Illustrations gitbook (2) (2).png">Illustrations gitbook (2) (2).png</a></td><td><a href="maximum-drawdown.md">maximum-drawdown.md</a></td></tr><tr><td><strong>Downside Deviation</strong></td><td><a href="../../.gitbook/assets/Illustrations gitbook (4).png">Illustrations gitbook (4).png</a></td><td><a href="downside-deviation.md">downside-deviation.md</a></td></tr><tr><td><strong>Ordinary Least Squares</strong></td><td><a href="../../.gitbook/assets/Illustrations gitbook (5) (2).png">Illustrations gitbook (5) (2).png</a></td><td><a href="ordinary-least-squares-method.md">ordinary-least-squares-method.md</a></td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt=""><figcaption></figcaption></figure>

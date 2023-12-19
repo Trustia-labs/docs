@@ -1,6 +1,6 @@
 ---
 description: Learn more about strategy backtesting features
-cover: ../../.gitbook/assets/GitBook cover Trustia.png
+cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
@@ -43,7 +43,7 @@ There is a wide variety of indicators in technical analysis, each with its own a
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/t/technicalindicator.asp)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 22.04.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>
 
 ## Time Frame Management <a href="#time-frame-management" id="time-frame-management"></a>
 
@@ -61,5 +61,5 @@ In summary, a **Stop Loss** is used to limit potential losses on a position, whi
 
 More info : [_Investopedia_](https://www.investopedia.com/investing/understanding-exit-strategies/)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt=""><figcaption></figcaption></figure>
 

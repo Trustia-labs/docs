@@ -1,6 +1,6 @@
 ---
 description: Learn more about Backtesting Strategy
-cover: ../../.gitbook/assets/GitBook cover Trustia.png
+cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
