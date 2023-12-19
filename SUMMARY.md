@@ -20,7 +20,6 @@
 * [Capital Protection](systematic-investing/capital-protection.md)
 * [Configuration](configuration/README.md)
   * [Strategy configurations](systematic-investing/configuration/strategy-configurations.md)
-  * [Portfolio configuration](configuration/portfolio-configuration.md)
   * [Backtest results](configuration/backtest-results.md)
 
 ## Risk management
