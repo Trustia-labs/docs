@@ -8,9 +8,15 @@ coverY: 0
 
 **1️⃣ - Go to the first configuration tab of a strategy (Strategy configurations) :**&#x20;
 
+
+
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 14.51.00.png" alt=""><figcaption></figcaption></figure>
 
-## Weighting Strategies
+## Weighting Strategy
+
+<details>
+
+<summary>Weighting Strategy</summary>
 
 Over time, as a portfolio’s assets change in price it can easily move the portfolio to a position that risk and return become inconsistent with an investor’s goal and risk preferences. As some assets increase in weighting they make up a larger percentage of the portfolio; at the same time, the declining assets weighting falls and becomes a smaller percentage of the portfolio. If an investor does not rebalance the portfolio it will gradually move to high return and higher risk investments.
 
@@ -18,13 +24,21 @@ Portfolio rebalancing forces an investor to buy low and sell high. For example, 
 
 After these fluctuations, not only is your asset allocation out of balance, but now you own more of an asset or category that has just risen 50% and may be overvalued, and own less of an asset or category that may be undervalued. Rebalancing allows an investor to sell overvalued assets and buy undervalue assets
 
-#### Weighting **Configuration**
+Our statistical algorithms can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—it's efficient for you. For example, if you have a long-term investment horizon and a high-risk tolerance, the statistical algorithm could craft a strategy that leans heavily into high-growth, high-volatility assets.
+
+</details>
+
+Over time, as a portfolio’s assets change in price it can easily move the portfolio to a position that risk and return become inconsistent with an investor’s goal and risk preferences. As some assets increase in weighting they make up a larger percentage of the portfolio; at the same time, the declining assets weighting falls and becomes a smaller percentage of the portfolio. If an investor does not rebalance the portfolio it will gradually move to high return and higher risk investments.
+
+Portfolio rebalancing forces an investor to buy low and sell high. For example, let’s say you have a target asset allocation of 40% for asset category A and a target asset allocation of 40% for asset category B. Then let’s assume asset A increases 50% and asset B declines by 50%. Now you own 3 times as much of asset A compared to asset B because asset A has increased to 60% of the portfolio and asset B has declined to 20% of the portfolio.
+
+After these fluctuations, not only is your asset allocation out of balance, but now you own more of an asset or category that has just risen 50% and may be overvalued, and own less of an asset or category that may be undervalued. Rebalancing allows an investor to sell overvalued assets and buy undervalue assets
 
 Our statistical algorithms can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—it's efficient for you. For example, if you have a long-term investment horizon and a high-risk tolerance, the statistical algorithm could craft a strategy that leans heavily into high-growth, high-volatility assets.
 
 **2️⃣  - Then select the strategy model that best suits you, based on your objectives, your risk tolerance and the time horizon of your investments :**&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 22.48.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 15.21.03 (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about weighting strategies](../strategies/)
@@ -38,7 +52,7 @@ If you do not want a minimum size set the parameter to 0% and if you do not want
 
 **3️⃣ - Choose the maximum and minimum weighting of each asset in your strategy :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-07 à 14.27.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 15.40.25.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 This function is not available for the strategies: Equal and market capitalization.
@@ -52,7 +66,7 @@ This function is not available for the strategies: Equal and market capitalizati
 
 **4️⃣  - Indicate your risk aversion for Max Return / Min Volatility strategies and set your target return for Efficient Risk & Efficient Return strategies**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-15 à 18.40.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 15.45.19.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Additional parameters are only available for the strategies: Max Return / Min Volatility, Efficient Risk and Efficient Return strategies
