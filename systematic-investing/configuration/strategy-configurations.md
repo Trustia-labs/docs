@@ -226,7 +226,7 @@ The API key is linked to your exchange platform, therefore provided by this same
 
 ***
 
-## Asset Selection
+## Assets
 
 ### Asset pool size
 
@@ -256,7 +256,7 @@ It is also possible to use filters to select assets based on specific activity s
 **Excluded categories take precedence over included categories :** For example, if you include the "infrastructure" category and exclude the "interoperability" category, all assets with both categories as tags will be excluded from the asset pool.
 {% endhint %}
 
-### Continue
+#### Continue
 
 Depending on the strategy and parameters you have defined, the algorithm will build your asset pool. You can later modify the pool assets. After a few moments you can see your built asset pool. You can easily change the composition of your asset pool in the next step.
 
@@ -268,7 +268,7 @@ Depending on the strategy and parameters you have defined, the algorithm will bu
 
 ***
 
-## Assets selection
+### Assets selection
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.00.27.png" alt=""><figcaption></figcaption></figure>
 
@@ -282,7 +282,7 @@ Here you can see the assets that were selected by the algorithm for your asset p
 
 <figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.06.17.png" alt=""><figcaption></figcaption></figure>
 
-### Continue
+#### Continue
 
 **1️⃣6️⃣ - Once you are satisfied with your asset pool click on "Backtest" to test your strategy :**
 
