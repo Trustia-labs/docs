@@ -93,3 +93,28 @@ You then see the API which is linked to your Sub-Account :
 
 ### 1️⃣0️⃣ - Connect your API to the Trustia application
 
+
+
+### 1️⃣1️⃣ - Add funds to your Sub-Account
+
+Click on **Transfer** :&#x20;
+
+<figure><img src="../../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### 1️⃣2️⃣ - Master Account transfer to Sub-Account
+
+1. Choose your **Master Account** with which you wish **to fund your Sub-Account**
+2. Then select **Sub-Account-Trading Account.** (Be careful to select the right one)
+3. Then select **USDT** to fund your Sub-Account. (We do not support other stablecoins)
+4. Select the **amount in USDT** you want to send to your Sub-Account
+5. Click on confirm
+
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.52.39.png" alt=""><figcaption></figcaption></figure>
+
+### 1️⃣3️⃣ - Check that the funds are in the correct Sub-Account
+
+Then, to **verify that your transfer** has arrived on Sub-Account-Trading Account, click on **Asset Details** :&#x20;
+
+<figure><img src="../../../.gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 20.19.06.png" alt=""><figcaption></figcaption></figure>
