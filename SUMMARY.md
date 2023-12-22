@@ -13,7 +13,7 @@
   * [Minimum Volatility](systematic-investing/strategies/minimum-volatility.md)
   * [Efficient Risk](systematic-investing/strategies/efficient-risk.md)
   * [Efficient Return](systematic-investing/strategies/efficient-return.md)
-  * [Maximum Return – Minimum Volatility](systematic-investing/strategies/maximum-return-minimum-volatility.md)
+  * [Maximum Return / Minimum Volatility](systematic-investing/strategies/maximum-return-minimum-volatility.md)
   * [Inverse Variance](systematic-investing/strategies/inverse-variance.md)
   * [Maximum Diversification](systematic-investing/strategies/maximum-diversification.md)
   * [Maximum Decorrelation](systematic-investing/strategies/maximum-decorrelation.md)
@@ -48,8 +48,9 @@
 
 ## Others
 
+* [FAQ](others/faq.md)
 * [Website](https://www.trustia.finance/)
 * [Blog](https://blog.trustia.finance/)
-* [Twitter](https://twitter.com/Trustia\_finance)
 * [LinkedIn](https://www.linkedin.com/company/trustia-finance)
+* [Twitter](https://twitter.com/Trustia\_finance)
 * [Requets](https://docs.google.com/forms/d/e/1FAIpQLScgcP\_drIhHsVZEvZD3VJRlPoaPxCWvqeKN4c5wN9r0\_vN4SQ/viewform?pli=1)

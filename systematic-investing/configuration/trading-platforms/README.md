@@ -6,6 +6,8 @@ coverY: 0
 
 # Trading Platforms
 
+APIs allow the user to connect their trading platform and execute programmed actions via a third-party platform such as Trustia. Thanks to APIs, Trustia can automate your investment strategies via third-party services to execute transactions and manage their portfolio.
+
 This tutorial is designed to guide you through each step of the process of setting up your API Key and connecting with your trading platform.
 
 Choose the trading platform you want to connect to the Trustia app and follow the tutorial.
