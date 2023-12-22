@@ -19,9 +19,9 @@
   * [Maximum Decorrelation](systematic-investing/strategies/maximum-decorrelation.md)
 * [Capital Protection](systematic-investing/capital-protection.md)
 * [Configuration](configuration/README.md)
-  * [Strategy configurations](systematic-investing/configuration/strategy-configurations.md)
-  * [Backtest results](configuration/backtest-results.md)
-  * [Trading platforms](systematic-investing/configuration/trading-platforms/README.md)
+  * [Strategy Configurations](systematic-investing/configuration/strategy-configurations.md)
+  * [Backtest Results](configuration/backtest-results.md)
+  * [Trading Platforms](systematic-investing/configuration/trading-platforms/README.md)
     * [Kucoin Connect](systematic-investing/configuration/trading-platforms/kucoin-connect.md)
 
 ## Risk management

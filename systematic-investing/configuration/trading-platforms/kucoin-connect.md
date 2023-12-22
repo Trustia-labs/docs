@@ -10,7 +10,8 @@ description: Tutorial to connect Kucoin to Trustia app
 
 1. Since July 15 2023, users [need to pass KYC](https://www.kucoin.com/fr/announcement/enhancement-of-kucoin-customer-identification-and-verification-program) in order to use all services.
 2. You must enable security verifications to add API keys.&#x20;
-3. You must transfer funds to your Sub-Account to launch a strategy.
+3. We recommend creating a Sub-Account for each strategy.
+4. You must transfer funds to your Sub-Account to launch a strategy.
 
 </details>
 
@@ -93,13 +94,13 @@ You then see the API which is linked to your Sub-Account :
 
 ### 1️⃣0️⃣ - Connect your API to the Trustia application
 
-Login to the Trustia application and go to the API Key section
+Login to the Trustia application and go to the API Key section : [https://app.trustia.finance/api-keys](https://app.trustia.finance/api-keys)
 
 1. Select **Kucoin** as your exchange platform&#x20;
 2. Choose a **name** for your API&#x20;
-3. Pasted your **API Key** (9️⃣)
-4. Pasted your **API Passphrase** (The one you added in section 7️⃣ and in the third point)&#x20;
-5. Pasted your **Secret** (9️⃣)
+3. Pasted your **API Key** ([9️⃣](kucoin-connect.md#h\_783dade78b))
+4. Pasted your **API Passphrase** (The one you added in section [7️⃣ and in the third point](kucoin-connect.md#7-api-configuration))&#x20;
+5. Pasted your **Secret** ([9️⃣](kucoin-connect.md#h\_783dade78b))
 
 <figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-22 à 11.30.44.png" alt=""><figcaption></figcaption></figure>
 
