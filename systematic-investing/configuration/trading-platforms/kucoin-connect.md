@@ -1,5 +1,7 @@
 ---
 description: Tutorial to connect Kucoin to Trustia app
+cover: ../../../.gitbook/assets/GitBook cover Trustia (3).png
+coverY: 0
 ---
 
 # Kucoin Connect
