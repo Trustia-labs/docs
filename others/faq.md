@@ -25,7 +25,7 @@ At the heart of Modern Portfolio Theory is the concept of the 'efficient frontie
 
 ✔️ Disciplined Construction: Expect a well-calibrated portfolio where balance is key—optimized for return, mindful of risk, and considerate of correlation and cost.
 
-
+[🔗 Learn more about Systematic Portfolio Management](../systematic-investing/rebalancing-index-ai.md)
 
 </details>
 
@@ -40,6 +40,8 @@ With our codeless approach, you can quickly and efficiently create investment st
 
 Furthermore, our codeless strategy generator offers you complete flexibility. You can adjust and optimize your strategies in real-time, taking into account market conditions and changes in your portfolio. This agility enables you to remain responsive and make informed decisions to maximize your returns.
 
+[🔗 Learn more about No-Code Strategy Builder](../systematic-investing/rebalancing-index-ai-1.md#tailored-your-systematic-portfolio-management)
+
 </details>
 
 <details>
@@ -49,6 +51,8 @@ Furthermore, our codeless strategy generator offers you complete flexibility. Yo
 With Trustia, create a fully personalized weighting strategy, specifically tailored to your investment objectives, risk tolerance, and market outlook. Our no-code generator allows you to design investment strategies that precisely match your needs. Whether you aim for long-term growth, stability, or innovation in specific sectors, Trustia provides the tools to achieve it.
 
 Designed to simplify and accelerate the process of creating your investment strategies, our tool paves the way for more intuitive and personalized asset management.
+
+[🔗 Learn more about creating a strategy](../configuration/)
 
 </details>
 
@@ -64,6 +68,8 @@ To guarantee the invested capital, a position in stablecoin dollars is maintaine
 
 In addition to stablecoins, the Dynamic CPPI includes a carefully selected basket of assets to drive your portfolio's performance. This combination allows for a balanced approach, capturing the growth potential of assets while minimizing risks.
 
+[🔗 Learn more about CPPI](../systematic-investing/capital-protection.md)
+
 </details>
 
 <details>
@@ -73,6 +79,8 @@ In addition to stablecoins, the Dynamic CPPI includes a carefully selected baske
 Backtesting stands as a cornerstone analytical process, empowering investors to evaluate the efficacy of investment strategies by simulating them on historical data. This sophisticated technique is not just about conjecture but about informed predictions, allowing asset managers to see through the lens of time how a strategy could have unfolded.
 
 Our backtesting engine delves into the complex algorithms that power investment strategies, rigorously analyzing potential outcomes. It's about detailed, quantified foresight - calculating the possible returns and delineating the risks involved. We place empirical evidence at the forefront, ensuring that asset managers can quantify the profitability and gauge the associated risks with precision.
+
+[🔗 Learn more about Backtesting](../risk-management/backtesting-strategies/)
 
 </details>
 
@@ -84,6 +92,8 @@ In the context of Systematic Portfolio Management, weighting strategies are cruc
 
 Choose from a range of weighting strategies including : Market Capitalization, Maximum Sharpe Ratio, Minimum Volatility, Maximum Decorrelation and more. This flexibility allows for a diversified and optimized portfolio, adapting to your risk appetite and investment horizon.
 
+[🔗 Learn more about weighting strategies](../systematic-investing/strategies/)
+
 </details>
 
 <details>
@@ -93,6 +103,8 @@ Choose from a range of weighting strategies including : Market Capitalization, M
 Over time, asset allocations can change as market performance alters the values of the assets. Rebalancing involves periodically buying or selling the assets in a portfolio to regain and maintain that original, desired level of asset allocation. Those levels are intended to match an investor's tolerance for risk and desire for reward.
 
 Our product doesn't just set and forget; it continuously analyzes market conditions to adjust your portfolio's asset allocation. This helps maintain a predefined level of risk or target a specific performance benchmark, adapting to market shifts and trends. Consider a market downturn where certain sectors are hit hard. Our dynamic asset allocation tool would adjust the weights of these underperforming assets to protect your portfolio.
+
+[🔗 Learn more about Dynamic Asset Allocation](../systematic-investing/rebalancing-index-ai-1.md#dynamic-asset-allocation)
 
 </details>
 
@@ -114,6 +126,8 @@ APIs allow the user to connect their trading platform and execute programmed act
 
 Each exchange has unique APIs that allow users to manage their account through the Trustia app. The most common features of exchange APIs include placing orders, collecting account data, and accessing market data.
 
+🔗 [Tutorial for connecting your Trading Platforms](../systematic-investing/configuration/trading-platforms/)
+
 </details>
 
 <details>
@@ -123,60 +137,6 @@ Each exchange has unique APIs that allow users to manage their account through t
 Our platform serves as a robust execution and portfolio management layer. Simply connect your trading platform via API, and Trustia takes care of executing the orders. This integration allows for a smooth and efficient management of your portfolio, letting you focus on strategy rather than the intricacies of order execution.
 
 Trustia's interface eliminates the complexity of manually managing orders. Our system handles everything from precise order execution to secure wallet management, allowing you to focus on developing your investment strategies. This innovative tool allows you to develop a fully personalized weighting strategy that is specifically tailored to your investment objectives, risk tolerance, and market outlook.
-
-</details>
-
-
-
-
-
-
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-<details>
-
-<summary></summary>
-
-
 
 </details>
 
