@@ -93,7 +93,17 @@ You then see the API which is linked to your Sub-Account :
 
 ### 1️⃣0️⃣ - Connect your API to the Trustia application
 
+Login to the Trustia application and go to the API Key section
 
+1. Select **Kucoin** as your exchange platform&#x20;
+2. Choose a **name** for your API&#x20;
+3. Pasted your **API Key** (9️⃣)
+4. Pasted your **API Passphrase** (The one you added in section 7️⃣ and in the third point)&#x20;
+5. Pasted your **Secret** (9️⃣)
+
+
+
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-22 à 11.30.44.png" alt=""><figcaption></figcaption></figure>
 
 ### 1️⃣1️⃣ - Add funds to your Sub-Account
 
