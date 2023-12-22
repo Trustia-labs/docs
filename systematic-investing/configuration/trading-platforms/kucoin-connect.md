@@ -101,13 +101,13 @@ Login to the Trustia application and go to the API Key section
 4. Pasted your **API Passphrase** (The one you added in section 7️⃣ and in the third point)&#x20;
 5. Pasted your **Secret** (9️⃣)
 
-
-
 <figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-22 à 11.30.44.png" alt=""><figcaption></figcaption></figure>
 
 ### 1️⃣1️⃣ - Add funds to your Sub-Account
 
-Click on **Transfer** :&#x20;
+Return to Kukoin on the general Sub-Account page
+
+1. Click on **Transfer** :&#x20;
 
 <figure><img src="../../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
