@@ -21,7 +21,7 @@ coverY: 0
 
 Log in or create a new account at [https://www.kucoin.com/](https://www.kucoin.com/ucenter/signup?rcode=r352QTN).
 
-### 2️⃣ - Follow to the API page <a href="#h_a48ad1d4f3" id="h_a48ad1d4f3"></a>
+### 2️⃣ - Follow to the Sub-Account page <a href="#h_a48ad1d4f3" id="h_a48ad1d4f3"></a>
 
 Hover over the **profile icon** on the top right corner, then click **Sub-Account** :&#x20;
 
