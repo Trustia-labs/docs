@@ -22,8 +22,8 @@
   * [Strategy Configurations](systematic-investing/configuration/strategy-configurations.md)
   * [Backtest Results](configuration/backtest-results.md)
   * [Trading Platforms](systematic-investing/configuration/trading-platforms/README.md)
-    * [Kucoin Connect](systematic-investing/configuration/trading-platforms/kucoin-connect.md)
     * [Binance Connect](systematic-investing/configuration/trading-platforms/binance-connect.md)
+    * [Kucoin Connect](systematic-investing/configuration/trading-platforms/kucoin-connect.md)
 
 ## Risk management
 
