@@ -1,5 +1,7 @@
 ---
 description: Tutorial to connect Binance to Trustia app
+cover: ../../../.gitbook/assets/GitBook cover Trustia (3).png
+coverY: 0
 ---
 
 # Binance Connect
