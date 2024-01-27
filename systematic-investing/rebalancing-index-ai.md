@@ -1,5 +1,5 @@
 ---
-description: Learn more about Systematic Portfolio Management
+description: https://arc.net/l/quote/bdrjqcha
 cover: ../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
