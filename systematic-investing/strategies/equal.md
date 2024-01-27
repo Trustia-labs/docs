@@ -1,5 +1,8 @@
 ---
-description: Learn more about Equal Strategy
+description: >-
+  Equal weighting in portfolios offers a democratic approach, boosting
+  diversification and potential returns by treating all assets equally, inspired
+  by historical small-cap performance
 cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---

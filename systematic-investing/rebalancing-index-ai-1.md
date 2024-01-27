@@ -1,18 +1,20 @@
 ---
-description: Learn more about features of Systematic Portfolio Management
+description: >-
+  Customize your portfolio with Trustia: Dynamic Asset Allocation, Customized
+  Strategy, and statistical tools for optimal digital asset management.
 cover: ../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
 # Features
 
-## Tailored your Systematic Portfolio Management
+### Tailored your Systematic Portfolio Management
 
-Our product offers a comprehensive suite of statistical algorithms powered tools for digital asset portfolio construction and management that cater to a wide range of investment strategies and goals. Alongside Dynamic Asset Allocation and Customized Strategy features, our product assures a flexible, adaptive, and bespoke approach to meet your unique investment needs. Utilizing these methodologies, you can manage risk effectively and achieve your investment objectives in the evolving digital financial landscape.
+Trustia elevates crypto portfolio management with a comprehensive suite of tools powered by _**statistical algorithms**_. Designed to support a wide array of investment strategies, our product adapts to your unique needs, ensuring a _**flexible and personalized**_ approach to portfolio construction and management. Embrace methodologies that enable effective risk management and the achievement of your investment goals in the dynamic digital financial landscape.
 
-## Weighting Strategies
+### Innovative Weighting Strategies: A Customized Approach
 
-Our statistical algorithms can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—it's efficient for you. For example, if you have a long-term investment horizon and a high-risk tolerance, the statistical algorithm could craft a strategy that leans heavily into high-growth, high-volatility assets.
+Our statistical algorithms can create a personalized weighting strategy, uniquely tailored to your investment goals, risk tolerance, and market outlook. This means your portfolio isn't just efficient—**it's efficient for you**. For example, if you have a long-term investment horizon and a high-risk tolerance, **the statistical algorithm could craft a strategy that leans heavily into high-growth, high-volatility assets.**
 
 1. **Equal :** The Equal Weighting strategy equally assigns weights to each digital asset in your portfolio, thereby treating all assets with equal significance. This approach democratizes your investment portfolio and promotes diversification, mitigating the influence of any single digital asset.
 2. **Market Capitalization :** The Market Capitalization Weighting strategy is a method of portfolio construction that involves weighting assets based on their market capitalization. Assets with higher market capitalization will have a greater weighting in the portfolio compared to assets with lower market capitalization. This strategy suits investors seeking exposure to leading market players.
@@ -35,7 +37,7 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 
 ## **Dynamic Asset Allocation**&#x20;
 
-Our product doesn't just set and forget; it continuously analyzes market conditions to adjust your portfolio's asset allocation. This helps maintain a predefined level of risk or target a specific performance benchmark, adapting to market shifts and trends. Consider a market downturn where certain sectors are hit hard. Our dynamic asset allocation tool would adjust the weights of these underperforming assets to protect your portfolio.
+Our product doesn't just set and forget; it **continuously analyzes market conditions to adjust your portfolio's asset allocation**. This helps maintain a predefined level of risk or target a specific performance benchmark, adapting to market shifts and trends. Consider a market downturn where certain sectors are hit hard. Our dynamic asset allocation tool would adjust the weights of these underperforming assets to protect your portfolio.
 
 {% hint style="info" %}
 Over time, asset allocations can change as market performance alters the values of the assets. Rebalancing involves periodically buying or selling the assets in a portfolio to regain and maintain that original, desired level of asset allocation. Those levels are intended to match an investor's tolerance for risk and desire for reward.
@@ -43,12 +45,12 @@ Over time, asset allocations can change as market performance alters the values 
 
 ## Capital Protection
 
-The CPPI is a type of portfolio insurance in which the investor sets a floor on the percentage value of their portfolio, then structures the asset allocation around this condition. Our CPPI module offers the possibility of protecting your capital, thus adding an additional layer of security to your systematic portfolio management strategies.
+The CPPI is a type of portfolio insurance in which the investor sets a floor on the percentage value of their portfolio, then structures the asset allocation around this condition. Our CPPI module offers the possibility of **protecting your capital, thus adding an additional layer of security to your systematic portfolio management strategies.**
 
-The CPPI allows an investor to maintain exposure to the potential upside of risky assets while providing a capital guarantee against downside risk. To guarantee the invested capital, a position in dollars is maintained, in addition to the basket of assets that make up the performance driver.
+The CPPI allows an investor to maintain exposure to the potential upside of risky assets while **providing a capital guarantee against downside risk.** To guarantee the invested capital, a position in dollars is maintained, in addition to the basket of assets that make up the performance driver.
 
-1. **Risk Minimization** : By setting a floor for the portfolio value, investors can be assured that even in the case of unfavorable market movements, their portfolio's value will not fall below a certain level.&#x20;
-2. **Growth Potential** : While capital protection can help minimize losses, it does not limit the potential for gain. If the risky assets in the portfolio increase in value, the portfolio will benefit from this growth. This offers a balance between security and potential for return.
+1. **Risk Minimization** : By setting a floor for the portfolio value, investors can be assured that even in the case of unfavorable market movements, **their portfolio's value will not fall below a certain level**.&#x20;
+2. **Growth Potential** : While capital protection can help minimize losses, it does not limit the potential for gain. If the risky assets in the portfolio increase in value, **the portfolio will benefit from this growth**. This offers a balance between security and potential for return.
 
 {% hint style="info" %}
 [🔗 Learn more about CPPI](capital-protection.md)
@@ -58,15 +60,15 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 
 ## Backtesting Strategy
 
-Backtesting is an essential step in the systematic portfolio management process, offering investors insights into how their investment strategies would have performed historically. Our Backtesting module utilizes powerful statistical algorithms to simulate the execution of your tailored investment strategy on past financial data, providing a data-driven basis to anticipate potential future performance.
+Backtesting is **an essential step** in the systematic portfolio management process, offering investors insights into how their investment strategies would have performed historically. Our Backtesting module utilizes powerful statistical algorithms to simulate the execution of your tailored investment strategy on past financial data, providing a data-driven basis to anticipate potential future performance.
 
 Our Backtesting employs historical simulation to provide a realistic perspective on how an investment strategy would have performed over time. It accounts for periods of market volatility, economic cycles, and major financial events to offer a comprehensive analysis of strategy resilience.
 
-By comparing the historical performance of various weighting strategies, from Equal Weighting to Maximum Diversification, investors can validate the robustness of their chosen approach. This validation helps in refining strategies to better suit risk tolerances and return objectives.
+By comparing the historical performance of various weighting strategies, from Equal Weighting to Maximum Diversification, investors **can validate the robustness of their chosen approach**. This validation helps in refining strategies to better suit risk tolerances and return objectives.
 
 The backtesting process also involves a thorough risk assessment, allowing investors to see not just the returns but also the potential risks involved with their investment strategy over time. Metrics such as maximum drawdown, volatility, and Sharpe ratio are used to quantify risk.
 
-We provide a suite of performance metrics that detail the gains, losses, risk-adjusted returns, and other key indicators of the portfolio's past performance. These metrics are critical for assessing the effectiveness of the chosen asset allocation and weighting strategies
+We provide a **suite of performance metrics** that detail the gains, losses, risk-adjusted returns, and other key indicators of the portfolio's past performance. These metrics are critical for assessing the effectiveness of the chosen asset allocation and weighting strategies
 
 {% hint style="info" %}
 [🔗 Learn more about Backtesting](../risk-management/backtesting-strategies/)
