@@ -12,7 +12,7 @@ A **ticker** is a unique symbol used to identify a publicly traded stock. It is 
 
 Tickers are used to reference and track stocks and financial indices on trading platforms and financial websites. They are also used to transmit real-time price movement information, such as stock quotes, transaction volumes, and price changes.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="Explaining Ticker Selection"><figcaption></figcaption></figure>
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/t/tickertape.asp)
 
@@ -28,7 +28,7 @@ The choice of timeframe mainly depends on the **trading style** adopted and the 
 
 The choice of timeframe also depends on the volatility of the financial asset and the historical analysis period. The higher the volatility, the shorter the timeframe should be to avoid making decisions based on random price movements. Similarly, the historical analysis period should be adapted to the timeframe to avoid selection biases and strategy specification errors.
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 22.06.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ## Indicators Selection <a href="#indicators-selection" id="indicators-selection"></a>
 
@@ -43,7 +43,7 @@ There is a wide variety of indicators in technical analysis, each with its own a
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/t/technicalindicator.asp)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ## Time Frame Management <a href="#time-frame-management" id="time-frame-management"></a>
 
@@ -61,5 +61,5 @@ In summary, a **Stop Loss** is used to limit potential losses on a position, whi
 
 More info : [_Investopedia_](https://www.investopedia.com/investing/understanding-exit-strategies/)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 

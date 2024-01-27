@@ -4,11 +4,11 @@ cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
-# Strategy configurations
+# Strategy Configurations
 
 **1️⃣ - Go to the first configuration tab of a strategy (Strategy configurations) :**&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 14.51.00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 14.51.00.png" alt="Go to the first configuration tab of a strategy"><figcaption></figcaption></figure>
 
 ## Weighting Strategy
 
@@ -28,7 +28,7 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 
 **2️⃣  - Then select the strategy model that best suits you, based on your objectives, your risk tolerance and the time horizon of your investments :**&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 15.21.03 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 15.21.03 (1).png" alt="Then select the strategy model that best suits you, based on your objectives, your risk tolerance and the time horizon of your investments"><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Equal" %}
@@ -108,7 +108,7 @@ If you do not want a minimum size set the parameter to 0% and if you do not want
 
 **3️⃣ - Choose the maximum and minimum weighting of each asset in your strategy :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 15.40.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 15.40.25.png" alt="Choose the maximum and minimum weighting of each asset in your strategy"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 This function is not available for the strategies: Equal and market capitalization.
@@ -122,13 +122,13 @@ This function is not available for the strategies: Equal and market capitalizati
 
 **4️⃣  - Indicate your risk aversion for Max Return / Min Volatility strategies and set your target return for Efficient Risk & Efficient Return strategies**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 15.45.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 15.45.19.png" alt="Indicate your risk aversion for Max Return / Min Volatility strategies and set your target return for Efficient Risk &#x26; Efficient Return strategies"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Additional parameters are only available for the strategies: Max Return / Min Volatility, Efficient Risk and Efficient Return strategies
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ***
 
@@ -146,9 +146,9 @@ The rebalancing occurrence defines the time period between each reallocation of 
 
 **5️⃣ - Determine the temporality in each rebalancing :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 16.25.32 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 16.25.32 (1).png" alt="Determine the temporality in each rebalancing"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ***
 
@@ -180,7 +180,7 @@ In rising markets, the strategy allocates more to the risky asset while in the f
 
 **6️⃣ - If you want to use CPPI, choose a type of floor. If you don't want to use it, click on the button at the top right :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 16.43.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 16.43.07.png" alt="If you want to use CPPI, choose a type of floor. If you don&#x27;t want to use it, click on the button at the top right"><figcaption></figcaption></figure>
 
 ### Floor percentage&#x20;
 
@@ -188,7 +188,7 @@ In rising markets, the strategy allocates more to the risky asset while in the f
 
 **7️⃣ - Define the percentage of your capital you want to protect :**&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.11.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.11.42.png" alt="Define the percentage of your capital you want to protect"><figcaption></figcaption></figure>
 
 ### Multiplier
 
@@ -212,7 +212,7 @@ If the value of the portfolio increases, the cushion widens, and the allocation 
 
 **8️⃣ - Adapt your multiplier based on the maximum potential loss between two rebalancing dates :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 16.53.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 16.53.50.png" alt="Adapt your multiplier based on the maximum potential loss between two rebalancing dates :"><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 If you use a multiplier that is too high relative to the maximum potential loss between two rebalancing dates, there is a risk that capital protection will be breached if your risky assets experience a sudden steep decline.
@@ -222,7 +222,7 @@ If you use a multiplier that is too high relative to the maximum potential loss 
 [🔗 Learn more about CPPI](../capital-protection.md)
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ***
 
@@ -234,15 +234,15 @@ The API key is linked to your exchange platform, therefore provided by this same
 
 **9️⃣ - Select the API key with which you want to run your strategy :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.18.21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.18.21.png" alt="Select the API key with which you want to run your strategy"><figcaption></figcaption></figure>
 
 ### Setting amount
 
 **1️⃣0️⃣ - Set the amount you want to allocate to your strategy (in $USDT) :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.18.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.18.42.png" alt="Set the amount you want to allocate to your strategy"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ***
 
@@ -254,7 +254,7 @@ The asset pool represents the amount of assets that can potentially be included 
 
 **1️⃣1️⃣ - Choose the size of your asset pool :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.21.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.21.19.png" alt="Choose the size of your asset pool"><figcaption></figcaption></figure>
 
 ### Categories
 
@@ -270,7 +270,7 @@ It is also possible to use filters to select assets based on specific activity s
 
 **1️⃣2️⃣ - Choose the categories you want to include and exclude to target specific sectors, but also to diversify your portfolio :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.23.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.23.27.png" alt="Choose the categories you want to include and exclude to target specific sectors, but also to diversify your portfolio"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Excluded categories take precedence over included categories :** For example, if you include the "infrastructure" category and exclude the "interoperability" category, all assets with both categories as tags will be excluded from the asset pool.
@@ -282,28 +282,28 @@ Depending on the strategy and parameters you have defined, the algorithm will bu
 
 **1️⃣3️⃣ - Once you have adjusted the various parameters of your strategy, then click on “Asset selection” to include or exclude assets from your pool :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.27.40.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 17.27.40.png" alt="Once you have adjusted the various parameters of your strategy, then click on “Asset selection” to include or exclude assets from your pool"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ***
 
 ### Assets selection
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.00.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.00.27.png" alt="Once you have adjusted the various parameters of your strategy, then click on “Asset selection” to include or exclude assets from your pool"><figcaption></figcaption></figure>
 
 Here you can see the assets that were selected by the algorithm for your asset pool. You can modify your pool by including or excluding assets, but you must select exactly the amount of assets that you previously chose for your pool. Refer to the purple bar to find your way.
 
 **1️⃣4️⃣ - You can easily remove an asset from your pool by clicking on the pre-selected asset :** &#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.03.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.03.27.png" alt="You can easily remove an asset from your pool by clicking on the pre-selected asset"><figcaption></figcaption></figure>
 
 **1️⃣5️⃣ - You can also add more to your asset pool by using the search bar or scrolling through the list of assets. Type the symbol of the asset you want in the search bar :**&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.06.17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.06.17.png" alt="You can also add more to your asset pool by using the search bar or scrolling through the list of assets. Type the symbol of the asset you want in the search bar"><figcaption></figcaption></figure>
 
 #### Continue
 
 **1️⃣6️⃣ - Once you are satisfied with your asset pool click on "Backtest" to test your strategy :**
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.10.44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.10.44.png" alt="Once you are satisfied with your asset pool click on &#x22;Backtest&#x22; to test your strategy "><figcaption></figcaption></figure>

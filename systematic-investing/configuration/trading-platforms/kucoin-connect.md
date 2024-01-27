@@ -25,13 +25,13 @@ Log in or create a new account at [https://www.kucoin.com/](https://www.kucoin.c
 
 Hover over the **profile icon** on the top right corner, then click **Sub-Account** :&#x20;
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 17.29.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 17.29.58.png" alt="Hover over the profile icon on the top right corner, then click Sub-Account "><figcaption></figcaption></figure>
 
 ### 3️⃣ - Create Sub-Account <a href="#h_9378d3c9a9" id="h_9378d3c9a9"></a>
 
 Click on Create Sub-Account :&#x20;
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 17.46.44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 17.46.44.png" alt="Click on Create Sub-Account"><figcaption></figcaption></figure>
 
 ### 4️⃣ - Sub-Account Configuration
 
@@ -41,13 +41,13 @@ Click on Create Sub-Account :&#x20;
 4. Select **General Sub-Account**
 5. Click on **Save**
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 17.59.18 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 17.59.18 (1).png" alt="Choose the name of your Sub-Account.  Activity only SPOT permission. Set a password for your Sub-Account.  Select General Sub-Account Click on Save"><figcaption></figcaption></figure>
 
 ### 5️⃣ - Security Verification <a href="#h_753d1e97a2" id="h_753d1e97a2"></a>
 
 Enter all needed verification codes and click Confirm :&#x20;
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 18.18.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 18.18.35.png" alt="Enter all needed verification codes and click Confirm"><figcaption></figcaption></figure>
 
 ### 6️⃣ - Create API
 
@@ -56,13 +56,13 @@ You are then redirected to the general Sub-Account page.&#x20;
 1. Click on **Settings** on the subaccount you just created
 2. Then click **View API**.
 
-<figure><img src="../../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1.png" alt="Click on Settings on the subaccount you just created"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 18.52.42.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 18.52.42.png" alt="Then click View API."><figcaption></figcaption></figure>
 
 3. Click on **Create API**
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.01.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.01.09.png" alt="Click on Create API"><figcaption></figcaption></figure>
 
 ### 7️⃣ - API Configuration
 
@@ -73,26 +73,26 @@ You are then redirected to the general Sub-Account page.&#x20;
 5. In IP restrictions checked **No**&#x20;
 6. Then click **Next**
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.14.05.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.14.05.png" alt="Define a Passphrase for your API. (you will need this to complete the setup) "><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.29.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.29.51.png" alt="Then click Next"><figcaption></figcaption></figure>
 
 ### 8️⃣ - Security Verification <a href="#h_753d1e97a2" id="h_753d1e97a2"></a>
 
 Enter all needed verification codes and click Confirm :&#x20;
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.31.23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.31.23.png" alt="Enter all needed verification codes and click Confirm"><figcaption></figcaption></figure>
 
 ### 9️⃣ - You have created your API keys <a href="#h_783dade78b" id="h_783dade78b"></a>
 
 1. Then copy the **API key** and **Secret**
 2. Click on **Confirm**
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.35.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.35.39.png" alt="You have created your API keys"><figcaption></figcaption></figure>
 
 You then see the API which is linked to your Sub-Account :
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.38.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.38.31.png" alt="You then see the API which is linked to your Sub-Account"><figcaption></figcaption></figure>
 
 ### 1️⃣0️⃣ - Connect your API to the Trustia application
 
@@ -104,7 +104,7 @@ Login to the Trustia application and go to the API Key section : [https://app.tr
 4. Pasted your **API Passphrase** (The one you added in section [7️⃣ and in the third point](kucoin-connect.md#7-api-configuration))&#x20;
 5. Pasted your **Secret** ([9️⃣](kucoin-connect.md#h\_783dade78b))
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-22 à 11.30.44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-22 à 11.30.44.png" alt="Connect your API to the Trustia application"><figcaption></figcaption></figure>
 
 ### 1️⃣1️⃣ - Add funds to your Sub-Account
 
@@ -112,7 +112,7 @@ Return to Kukoin on the general Sub-Account page
 
 1. Click on **Transfer** :&#x20;
 
-<figure><img src="../../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (1) (1).png" alt="Add funds to your Sub-Account"><figcaption></figcaption></figure>
 
 ### 1️⃣2️⃣ - Master Account transfer to Sub-Account
 
@@ -122,12 +122,12 @@ Return to Kukoin on the general Sub-Account page
 4. Select the **amount in USDT** you want to send to your Sub-Account
 5. Click on confirm
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.52.39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 19.52.39.png" alt="Master Account transfer to Sub-Account"><figcaption></figcaption></figure>
 
 ### 1️⃣3️⃣ - Check that the funds are in the correct Sub-Account
 
 Then, to **verify that your transfer** has arrived on Sub-Account-Trading Account, click on **Asset Details** :&#x20;
 
-<figure><img src="../../../.gitbook/assets/1 (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1 (2) (1).png" alt="Then, to verify that your transfer has arrived on Sub-Account-Trading Account, click on Asset Details"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 20.19.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Capture d’écran 2023-12-21 à 20.19.06.png" alt="Check that the funds are in the correct Sub-Account"><figcaption></figcaption></figure>

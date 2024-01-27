@@ -28,4 +28,4 @@ _β​_ = Beta of the portfolio ​
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/t/treynorratio.asp)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>

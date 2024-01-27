@@ -16,4 +16,4 @@ By combining assets that react differently to the same economic conditions, Trus
 
 Our platform enables asset managers to create and manage portfolios that maximize risk-adjusted returns, in accordance with MPT. By adjusting strategic parameters, our users can customize their investments to their risk appetite and financial objectives.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>

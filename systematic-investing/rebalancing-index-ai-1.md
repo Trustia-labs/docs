@@ -31,7 +31,7 @@ Our statistical algorithms can create a personalized weighting strategy, uniquel
 [🔗 Learn more about weighting strategies](strategies/)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ## **Dynamic Asset Allocation**&#x20;
 
@@ -54,7 +54,7 @@ The CPPI allows an investor to maintain exposure to the potential upside of risk
 [🔗 Learn more about CPPI](capital-protection.md)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ## Backtesting Strategy
 
@@ -72,4 +72,4 @@ We provide a suite of performance metrics that detail the gains, losses, risk-ad
 [🔗 Learn more about Backtesting](../risk-management/backtesting-strategies/)
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>

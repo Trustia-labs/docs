@@ -4,27 +4,27 @@ cover: ../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
-# Backtest results
+# Backtest Results
 
 **1️⃣ - On the fourth tab, “Backtest results” you can analyze the different metrics of your strategy :**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.15.04.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.15.04.png" alt="On the fourth tab, “Backtest results” you can analyze the different metrics of your strategy"><figcaption></figcaption></figure>
 
 **2️⃣ - Easily compare your strategies with the main cryptoassets :**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 21.05.24.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 21.05.24.png" alt="Easily compare your strategies with the main cryptoassets"><figcaption></figcaption></figure>
 
 ## Global information
 
 Here you see the information relating to the strategy that you have just backtested. So these are all the settings you defined during the configuration step.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 21.05.56.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 21.05.56.png" alt="Here you see the information relating to the strategy that you have just backtested. So these are all the settings you defined during the configuration step."><figcaption></figcaption></figure>
 
 ## Performance
 
 Here you can see the final performance of the strategy you just backtested.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.38.03.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.38.03.png" alt="Here you can see the final performance of the strategy you just backtested."><figcaption></figcaption></figure>
 
 ## Returns
 
@@ -32,7 +32,7 @@ Here you can see the final performance of the strategy you just backtested.
 
 The **average return** of a trading strategy or portfolio is a statistical measure that indicates the average return one can expect to achieve over a given period of time, typically measured in percentage. This measure is important for investors as it enables them to determine whether a trading strategy or portfolio has generated a positive or negative return over time.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.44.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.44.15.png" alt="Adjusted returns by the risk-free rate is a measure that takes into account the risk-free interest rate in the calculation of the returns of a portfolio or a financial asset."><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about Adjusted Returns](../risk-management/risk-measures/adjusted-returns.md)
@@ -44,7 +44,7 @@ The **average return** of a trading strategy or portfolio is a statistical measu
 
 Ratios such as the Sharpe Ratio, Calmar Ratio, Treynor Ratio, and Sortino Ratio are crucial for evaluating the performance of an investment while taking into account the risk associated with that investment. These ratios enable investors to compare different investment options and strategies, taking into account various aspects of risk and return.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.44.29.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.44.29.png" alt="Ratios such as the Sharpe Ratio, Calmar Ratio, Treynor Ratio, and Sortino Ratio are crucial for evaluating the performance of an investment while taking into account the risk associated with that investment."><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about Ratios](../risk-management/ratios/)
@@ -58,7 +58,7 @@ Investors who are willing to take risks may prefer more volatile financial asset
 
 Risk measurement in trading is a method used to assess the level of risk in a trading position or portfolio. There are several methods for measuring risk, which differ in terms of complexity and accuracy.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.44.44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.44.44.png" alt="Volatility is a measure of the variability of a financial asset&#x27;s returns over time. "><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about Risk Measures](../risk-management/risk-measures/)
@@ -68,7 +68,7 @@ Risk measurement in trading is a method used to assess the level of risk in a tr
 
 **Value at Risk (VaR)** is defined as the potential financial loss amount within a specific enterprise, portfolio or position over a given **time period** with a certain **confidence interval**. Risk managers use VaR to understand and control the level of risk exposure of a specific position or entire portfolio and use it to measure the overall risk exposure of an asset.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.44.57.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 22.44.57.png" alt="Value at Risk (VaR) is defined as the potential financial loss amount within a specific enterprise, portfolio or position over a given time period with a certain confidence interval."><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about Value at Risk](../risk-management/value-at-risk/)
@@ -78,15 +78,15 @@ Risk measurement in trading is a method used to assess the level of risk in a tr
 
 Performance of the portfolio in relation to the assets that compose it. You can see the individual performance of each asset against the portfolio.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Bar_performance.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Bar_performance.png" alt="Performance of the portfolio in relation to the assets that compose it. You can see the individual performance of each asset against the portfolio."><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Portfolio_performance.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Portfolio_performance.png" alt="Performance of the portfolio in relation to the assets that compose it. You can see the individual performance of each asset against the portfolio."><figcaption></figcaption></figure>
 
 ## Drawdown
 
 In finance, drawdown is a measure of the maximum loss suffered by an investment relative to its all-time high (ATH) point. In other words, it is the maximum drop in the price of the portfolio compared to its highest level reached.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Portfolio_drawdown_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Portfolio_drawdown_2.png" alt="In finance, drawdown is a measure of the maximum loss suffered by an investment relative to its all-time high (ATH) point. In other words, it is the maximum drop in the price of the portfolio compared to its highest level reached."><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about Drawdown ](../risk-management/risk-measures/maximum-drawdown.md)
@@ -96,25 +96,25 @@ In finance, drawdown is a measure of the maximum loss suffered by an investment 
 
 Here you can see the history of portfolio rebalancing. Refer to the color associated with the symbol of each asset, to understand and visualize the different periods of the chart.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Historical_weighting.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Historical_weighting.png" alt="Here you can see the history of portfolio rebalancing. Refer to the color associated with the symbol of each asset, to understand and visualize the different periods of the chart."><figcaption></figcaption></figure>
 
 ## Current Assets Weighting
 
 Current asset allocation in your portfolio. Refer to the color associated with the symbol of each asset, to understand and visualize the different periods of the chart.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Pie_weighting.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Pie_weighting.png" alt="Current asset allocation in your portfolio. Refer to the color associated with the symbol of each asset, to understand and visualize the different periods of the chart."><figcaption></figcaption></figure>
 
 ## Portfolio vs Components
 
 The efficient frontier comprises investment portfolios that offer the highest expected return for a specific level of risk. The red dot represents your portfolio while the blue dots individually represent the assets included in your portfolio.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Scatter_comparison.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Scatter_comparison.png" alt="The efficient frontier comprises investment portfolios that offer the highest expected return for a specific level of risk."><figcaption></figcaption></figure>
 
 ## Ratios Analysis&#x20;
 
 Ratios such as the Sharpe Ratio, Calmar Ratio, Treynor Ratio, and Sortino Ratio are crucial for evaluating the performance of an investment while taking into account the risk associated with that investment. These ratios enable investors to compare different investment options and strategies, taking into account various aspects of risk and return.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Spyder_graph.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Spyder_graph.png" alt="Ratios such as the Sharpe Ratio, Calmar Ratio, Treynor Ratio, and Sortino Ratio are crucial for evaluating the performance of an investment while taking into account the risk associated with that investment."><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about ratios](../risk-management/ratios/)
@@ -126,7 +126,7 @@ The efficient frontier comprises investment portfolios that offer the highest ex
 
 The red dot represents your portfolio while the blue dots represent simulated portfolios.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Efficient_frontier.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Efficient_frontier.png" alt="The efficient frontier comprises investment portfolios that offer the highest expected return for a specific level of risk."><figcaption></figcaption></figure>
 
 ## Historical Volatility&#x20;
 
@@ -134,7 +134,7 @@ Volatility often refers to the degree of uncertainty or risk associated with the
 
 Historical volatility is based on historical prices and represents the degree of variability in the returns of an asset. This number is without a unit and is expressed as a percentage.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Rolling_volatility.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Rolling_volatility.png" alt="Volatility often refers to the degree of uncertainty or risk associated with the magnitude of changes in the value of an asset. Higher volatility means that an asset&#x27;s value can potentially spread over a wider range of values."><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about Volatility](../risk-management/risk-measures/volatility.md)
@@ -146,7 +146,7 @@ Value at Risk (VaR) is defined as the potential financial loss amount within a s
 
 There are several methods for calculating VaR, ranging from simple methods based on historical statistics, parametric methods such as variance-covariance, to more sophisticated methods that use complex mathematical models such as Monte Carlo simulation.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Value_at_Risk.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Value_at_Risk.png" alt="Value at Risk (VaR) is defined as the potential financial loss amount within a specific enterprise, portfolio or position over a given time period with a certain confidence interval."><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about Value at Risk](../risk-management/value-at-risk/)
@@ -158,10 +158,10 @@ In the construction of a portfolio, it is important to attempt to reduce overall
 
 A positive covariance means that assets generally move in the same direction. Negative covariance means assets generally move in opposite directions.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Covariance_matrix.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Covariance_matrix.png" alt="In the construction of a portfolio, it is important to attempt to reduce overall risk by including assets that have a negative covariance with each other."><figcaption></figcaption></figure>
 
 ## Correlation Matrix
 
 Correlation statistically measures the degree of relationship between two variables in terms of a number between +100 and -100. When it comes to diversified portfolios, correlation represents the degree of relationship between the price movements of different assets included in the portfolio. A correlation of +100 means that prices move in tandem; a correlation of -100 means prices are moving in opposite directions. A correlation of 0 means that asset price movements are uncorrelated; in other words, the change in the price of one asset has no effect on the change in the price of the other asset.
 
-<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Correlation_matrix.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1bc1347c-3f22-4a71-a3fa-e2c16a541299_8_Top8_Backtest_Portfolio_Correlation_matrix.png" alt="Correlation statistically measures the degree of relationship between two variables in terms of a number between +100 and -100. When it comes to diversified portfolios, correlation represents the degree of relationship between the price movements of different assets included in the portfolio."><figcaption></figcaption></figure>

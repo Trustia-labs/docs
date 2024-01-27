@@ -26,4 +26,4 @@ _σ​_ = standard deviation of the portfolio’s excess return&#x20;
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/s/sharperatio.asp)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>

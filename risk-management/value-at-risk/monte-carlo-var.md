@@ -14,7 +14,7 @@ Next, for each simulated trajectory, we calculate the corresponding loss for a c
 
 VaR Monte Carlo is often considered the most accurate method for calculating VaR, as it allows for the consideration of non-normal distributions and risks related to extreme events. However, it can be more complex to implement and requires detailed historical data to estimate the model parameters.
 
-<figure><img src="../../.gitbook/assets/68747470733a2f2f66696e6172792e636f6d2f626c6f672f636f6e74656e742f696d616765732f323032312f31312f315f7a654535397a666a524a6d496e6777764a73764d52512d2d312d2e706e67.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/68747470733a2f2f66696e6172792e636f6d2f626c6f672f636f6e74656e742f696d616765732f323032312f31312f315f7a654535397a666a524a6d496e6777764a73764d52512d2d312d2e706e67.webp" alt="Example Monte Carlo VaR charts"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 [🔗 Learn more about Monte Carlo simulations](../backtesting-strategies/monte-carlo-simulations.md)
@@ -22,4 +22,4 @@ VaR Monte Carlo is often considered the most accurate method for calculating VaR
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/m/montecarlosimulation.asp)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-11-04 à 16.02.37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>

@@ -21,7 +21,7 @@ In rising markets, the strategy allocates more to the risky asset while in the f
 
 **Growth Potential** : While capital protection can help minimize losses, it does not limit the potential for gain. If the risky assets in the portfolio increase in value, the portfolio will benefit from this growth. This offers a balance between security and potential for return.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.47.06.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ## Floor strategies
 
@@ -36,9 +36,9 @@ In rising markets, the strategy allocates more to the risky asset while in the f
 
 ### **Fixed vs Drawdown :**
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-05 à 21.08.14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-05 à 21.08.14.png" alt="Explained CPPI floor value"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
 ## Multiplier
 
@@ -48,7 +48,7 @@ For example, assume that the maximum potential loss between two rebalancing date
 
 If the value of the portfolio increases, the cushion widens, and the allocation to the risky asset increases accordingly. If the value of the portfolio decreases and approaches the floor value, the cushion is reduced, and the allocation to the risky asset decreases to protect against further losses.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 12.51.50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-11-06 à 12.51.50.png" alt="Multiplier explained "><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 If you use a multiplier that is too high relative to the maximum potential loss between two rebalancing dates, there is a risk that capital protection will be breached if your risky assets experience a sudden steep decline.
@@ -74,4 +74,4 @@ $$
 \text{Portfolio Weighting} = Cushion \times Multiplier
 $$
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>

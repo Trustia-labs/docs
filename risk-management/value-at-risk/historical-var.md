@@ -12,8 +12,8 @@ To calculate Historical VaR, one starts by sorting the historical returns of the
 
 Although Historical VaR is simple to calculate and does not require sophisticated mathematical models, it also has certain limitations. In particular, it may not be suitable for periods of market stress or significant changes in economic conditions because it does not take into account variations in market volatility. Moreover, it is sensitive to extreme events in the history of returns, which can lead to an overvaluation or undervaluation of VaR.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt="The Historical VaR calculating method"><figcaption></figcaption></figure>
 
 More info : [_Investopedia_](https://www.investopedia.com/terms/h/historical-returns.asp)
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>

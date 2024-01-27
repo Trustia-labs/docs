@@ -4,7 +4,7 @@ cover: ../../.gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 ---
 
-# Maximum Return – Minimum Volatility
+# Maximum Return / Minimum Volatility
 
 The "Maximum Return - Minimum Volatility" strategy aims to create a portfolio that optimally balances return and risk. This balance is not one-size-fits-all but is instead tailored according to the risk profile of each investor. At the heart of this strategy is the risk aversion parameter, a fine-tuning tool that quantifies how much risk the investor is willing to undertake. A higher parameter indicates that the investor prefers a defensive stance, accepting lower returns to minimize risk. Conversely, a lower parameter suggests a more aggressive approach, aiming for higher returns despite increased risk. Therefore, the portfolio is constructed not only based on potential returns but also in alignment with the investor's risk tolerance, which dictates the selection and weighting of assets within the portfolio.
 
@@ -24,4 +24,4 @@ where $$λ$$ is the risk aversion parameter, $$wTΣw$$ is the portfolio variance
 
 This is often referred to as quadratic risk utility. The objective function consists of both the portfolio return and the risk. Thus, minimising the objective relates to minimising the risk and correspondingly maximising the return. The risk aversion parameter models the level of risk a user is willing to take. A higher value indicates that the investor will prioritize high defense against risk at the expense of lower returns, while a lower value places more emphasis on maximizing returns, disregarding the associated risk.&#x20;
 
-<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
