@@ -2,6 +2,20 @@
 description: Learn more about Trustia
 cover: .gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Overview
