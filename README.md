@@ -1,5 +1,8 @@
 ---
-description: Learn more about Trustia
+description: >-
+  Empower your finance with Trustia's API-based investment infrastructure,
+  optimized for crypto investors. Customizable algorithms for enhanced
+  performance.
 cover: .gitbook/assets/GitBook cover Trustia (3).png
 coverY: 0
 layout:
@@ -20,9 +23,9 @@ layout:
 
 # Overview
 
-As the financial industry continues to embrace **digital transformation**, the need for robust, reliable, and efficient investment infrastructure has become paramount. Our mission is to **empower Neo-banks, asset managers, and family offices** by providing them with a comprehensive **API-based investment infrastructure** to take a step into the digital assets’ **investment with their habitual tools**.
+As the financial industry continues to embrace **digital transformation**, the need for robust, reliable, and efficient investment infrastructure has become paramount. Our mission is to **empower crypto investors** by providing them with a comprehensive **API-based investment infrastructure** to take a step into the digital assets’ **investment with their habitual tools**.
 
-Our quantitative financial algorithms are designed to **optimize investment strategies**, thereby enhancing portfolio performance and **capital efficiency**. We offer businesses the ability to **customize these algorithms** based on their specific needs and investment strategies, thereby providing them with a unique competitive edge.
+Our quantitative financial algorithms are designed to **optimize investment strategies**, thereby enhancing portfolio performance and **capital efficiency**. We offer businesses and personal the ability to **customize these algorithms** based on their specific needs and investment strategies, thereby providing them with a unique competitive edge.
 
 <figure><img src=".gitbook/assets/Capture d’écran 2023-12-19 à 18.44.28.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
 
