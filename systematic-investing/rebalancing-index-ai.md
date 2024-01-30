@@ -18,4 +18,8 @@ We specialize in creating diversified portfolios that mitigate risk by combining
 
 Trustia empowers asset managers to craft and oversee portfolios designed for _**maximum risk-adjusted returns**_, aligned with Modern Portfolio Theory (MPT). With the flexibility to adjust strategic parameters, investors can align their portfolios with their individual risk tolerance and financial goals, setting a new standard in _**strategic investment planning**_.
 
+{% embed url="https://trustia.finance" %}
+
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-12-19 à 18.42.18.png" alt="Trustia logo over a city"><figcaption></figcaption></figure>
+
+{% @mailchimp/mailchimpSubscribe %}

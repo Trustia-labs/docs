@@ -40,7 +40,7 @@ With our codeless approach, you can quickly and efficiently create investment st
 
 Furthermore, our codeless strategy generator offers you complete flexibility. You can adjust and optimize your strategies in real-time, taking into account market conditions and changes in your portfolio. This agility enables you to remain responsive and make informed decisions to maximize your returns.
 
-[🔗 Learn more about No-Code Strategy Builder](../systematic-investing/rebalancing-index-ai-1.md#tailored-your-systematic-portfolio-management)
+[🔗 Learn more about No-Code Strategy Builder](../systematic-investing/rebalancing-index-ai-1/#tailored-your-systematic-portfolio-management)
 
 </details>
 
@@ -52,7 +52,7 @@ With Trustia, create a fully personalized weighting strategy, specifically tailo
 
 Designed to simplify and accelerate the process of creating your investment strategies, our tool paves the way for more intuitive and personalized asset management.
 
-[🔗 Learn more about creating a strategy](../configuration/)
+[🔗 Learn more about creating a strategy](../systematic-investing/guide-to-launch-your-strategy/)
 
 </details>
 
@@ -68,7 +68,7 @@ To guarantee the invested capital, a position in stablecoin dollars is maintaine
 
 In addition to stablecoins, the Dynamic CPPI includes a carefully selected basket of assets to drive your portfolio's performance. This combination allows for a balanced approach, capturing the growth potential of assets while minimizing risks.
 
-[🔗 Learn more about CPPI](../systematic-investing/capital-protection.md)
+[🔗 Learn more about CPPI](../risk-management-framework/capital-protection.md)
 
 </details>
 
@@ -80,7 +80,7 @@ Backtesting stands as a cornerstone analytical process, empowering investors to 
 
 Our backtesting engine delves into the complex algorithms that power investment strategies, rigorously analyzing potential outcomes. It's about detailed, quantified foresight - calculating the possible returns and delineating the risks involved. We place empirical evidence at the forefront, ensuring that asset managers can quantify the profitability and gauge the associated risks with precision.
 
-[🔗 Learn more about Backtesting](../risk-management/backtesting-strategies/)
+[🔗 Learn more about Backtesting](../risk-management-framework/backtesting-strategies/)
 
 </details>
 
@@ -92,7 +92,7 @@ In the context of Systematic Portfolio Management, weighting strategies are cruc
 
 Choose from a range of weighting strategies including : Market Capitalization, Maximum Sharpe Ratio, Minimum Volatility, Maximum Decorrelation and more. This flexibility allows for a diversified and optimized portfolio, adapting to your risk appetite and investment horizon.
 
-[🔗 Learn more about weighting strategies](../systematic-investing/strategies/)
+[🔗 Learn more about weighting strategies](../systematic-investing/algorithms-models/)
 
 </details>
 
@@ -104,7 +104,7 @@ Over time, asset allocations can change as market performance alters the values 
 
 Our product doesn't just set and forget; it continuously analyzes market conditions to adjust your portfolio's asset allocation. This helps maintain a predefined level of risk or target a specific performance benchmark, adapting to market shifts and trends. Consider a market downturn where certain sectors are hit hard. Our dynamic asset allocation tool would adjust the weights of these underperforming assets to protect your portfolio.
 
-[🔗 Learn more about Dynamic Asset Allocation](../systematic-investing/rebalancing-index-ai-1.md#dynamic-asset-allocation)
+[🔗 Learn more about Dynamic Asset Allocation](../systematic-investing/rebalancing-index-ai-1/#dynamic-asset-allocation)
 
 </details>
 
@@ -126,7 +126,7 @@ APIs allow the user to connect their trading platform and execute programmed act
 
 Each exchange has unique APIs that allow users to manage their account through the Trustia app. The most common features of exchange APIs include placing orders, collecting account data, and accessing market data.
 
-🔗 [Tutorial for connecting your Trading Platforms](../systematic-investing/configuration/trading-platforms/)
+🔗 [Tutorial for connecting your Trading Platforms](../systematic-investing/available-trading-platforms/)
 
 </details>
 
